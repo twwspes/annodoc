@@ -30,3 +30,17 @@ title: Annodoc annotation documentation support system
 10	||	||	PU	PUNCT	_	9	AuxK	_	_
 
 ~~~
+
+1	།།	//	PUNCT	PUNCT	_	10	punct	_	_
+2	དམ་པ	dam_pa	ADJ	ADJ	_	4	amod	_	excellent|Sanskrit=sad-
+3	འི་	'i	ADP	ADP	_	2	case	_	genitive_particle
+4	ཆོས་	chos	NOUN	NOUN	_	7	nmod	_	teaching_doctrine;_dharma|Sanskrit=dharma-
+5	པདྨ་དཀར་པོ	pad+ma_dkar_po	NOUN	NOUN	_	7	nmod	_	"White_Lotus,_PuNDarIka|Sanskrit=puṇḍarīka-"
+6	།	/	PUNCT	PUNCT	_	5	punct	_	|
+7	བམ་པོ་	bam_po	NOUN	NOUN	_	10	nmod	_	section
+8	བཅུ་གསུམ་པ་	bcu_gsum_pa	ADJ.NumType=Ord	ADJ	NumType=Ord	7	nummod	_	13th
+9	སྟེ་	ste	ADP	ADP	_	7	case	_	continuative_or_participial_particle
+10	ཐ་མ	tha_ma	NOUN	NOUN	_	0	root	_	"last,_(Sanskrit)_carama"
+11	།	/	PUNCT	PUNCT	_	10	punct	_	||
+
+~~~

@@ -3,6 +3,8 @@ layout: entry
 title: Annodoc annotation documentation support system
 ---
 
+<span style="font-family: 'Mojikyo M202'; font-size: 22pt;">悵碁丼菽戸筍</span>, <span style="font-family: 'Mojikyo M202'; font-size: 18pt;">茆亭</span><span style="font-family: 'Mojikyo M203'; font-size: 18pt;">蛙衿</span><span style="font-family: 'Mojikyo M202'; font-size: 18pt;">梵區</span><span style="font-family: 'Mojikyo M203'; font-size: 18pt;">漢</span><span style="font-family: 'Mojikyo M202'; font-size: 18pt;">揃</span><br>
+
 ~~~ conllu
 1	妙	EMC=mjiawʰ_LMC=mjiaẁ_OM=mjɛẁ_Pinyin=miào	JJ	ADJ	_	2	amod	_	wonderful;_Sanskrit=sad-;_Tangut=thjo̱_(XHZD3228)
 2	法	EMC=puap_LMC=fjyap/faːp_OM=fǎ_Pinyin=fǎ	NN	NOUN	_	4	nn	_	law;_Sanskrit=dharma-;_Tangut=tsji̱r_(XHZD467)

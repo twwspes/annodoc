@@ -16,3 +16,17 @@ title: Annodoc annotation documentation support system
 10	。	_	PU	PUNCT	_	8	punct	_	_
 
 ~~~
+
+~~~ conllu
+1	sad-	sat	NC.JJ..cpd	NOUN	_	2	ATR	_	real;_妙;_དམ་པ;_dam_pa
+2	dharma-	dharma	NC.mas..cpd	NOUN	_	4	ATR	_	Buddhist_dharma;_法;_ཆོས་;_chos
+3	puṇḍarīka-	puṇḍarīka	NC.mas..cpd	NOUN	_	4	ATR	_	white_lotus;_蓮華;_པདྨ་དཀར་པོ;_pad+ma_dkar_po
+4	sūtram	sūtra	NC.neu.sg.nom.i	NOUN	_	0	PRED	_	sacred_thread_or_cord;_經;_;
+5	|	|	PU	PUNCT	_	4	AuxK	_	_
+6	24	24	JQ.mas.sg.nom.i.ord.n.n	ADJ	_	9	ATR	_	24;_第二十五;_;
+7	samanta-	samanta	JQ...cpd.card.n.n	ADJ	_	9	ATR	_	all;_普門;_;
+8	mukha-	mukha	NC.neu..cpd	NOUN	_	9	ATR	_	door;_approach;_普門;_;
+9	parivartaḥ	parivarta	NC.mas.sg.loc.vii	NOUN	_	0	PRED	_	section;_品;_;
+10	||	||	PU	PUNCT	_	9	AuxK	_	_
+
+~~~

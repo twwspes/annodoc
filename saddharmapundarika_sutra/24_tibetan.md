@@ -1,6 +1,6 @@
 ---
 layout: entry
-title: saddharmapuṇḍarīka-nāma-mahāyāna-sūtra (The Lotus Sutra) 24 samantamukhaparivarta (Sanskrit)
+title: དམ་པའི་ཆོས་པདྨ་དཀར་པོ་ལས་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་རྣམ་པར་འཕྲུལ་པ་བསྟན་པ་ཀུན་ནས་སྒོའི་ལེའུ་ཞེས་བྱ་སྟེ་ཉི་ཤུ་རྩ་བཞི་པའོ། dam pa'i chos padma dkar po las, spyan ras gzigs dbang phyug gi rnam par 'phrul pa bstan pa kun nas sgo'i le'u zhes bya ste nyi shu rtsa bzhi pa'o
 ---
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />

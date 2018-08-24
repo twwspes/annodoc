@@ -51,3 +51,22 @@ title: Annodoc annotation documentation support system
 11	‡ºç	/	PUNCT	PUNCT	_	10	punct	_	||
 
 ~~~
+
+~~~ conllu
+1	XHZD3228=thjo_	XHZD3228=thjo_	ADJ	ADJ	_	2	amod	_	beautiful|ChiGloss=?|ChiTreebank=?|LMC=mjiaw`_|OM=mj?w`_|EMC=mjiaw?_|Pinyin=mia`o_
+2	XHZD0467=tsji_r	XHZD0467=tsji_r	NOUN	NOUN	_	5	nmod	_	method|ChiGloss=?|ChiTreebank=?|LMC=fjyap/fa?p_|OM=fa?_|EMC=puap_|Pinyin=fa?_
+3	XHZD2467=wja?	XHZD2467=wja?	NOUN	NOUN	_	5	nmod	_	flower|ChiGloss=???|ChiTreebank=??|LMC=lian_x?wa?_|OM=lj?n¥_xwa¥_|EMC=l?n_?wa?/?w??_|Pinyin=lia¥n_hua¥_
+4	XHZD4751=sej	XHZD4751=sej	ADJ	ADJ	_	3	amod	_	clean|ChiGloss=??|ChiTreebank=??|LMC=lian_x?wa?_|OM=lj?n¥_xwa¥_|EMC=l?n_?wa?/?w??_|Pinyin=lia¥n_hua¥_
+5	XHZD0437=lw?r	XHZD0437=lw?r	NOUN	NOUN	_	14	nmod	_	sutra|ChiGloss=?|ChiTreebank=?|LMC=kjiaj?_|OM=ki?_|EMC=k?j?_|Pinyin=jiØng_
+6	XHZD4343=rejr_[lhejr]	XHZD4343=rejr_[lhejr]	NOUN	NOUN	_	5	compound	_	canon|ChiGloss=?|ChiTreebank=?|LMC=kjiaj?_|OM=ki?_|EMC=k?j?_|Pinyin=jiØng_
+7	XHZD4713=rjur	XHZD4713=rjur	PROPN	PROPN	_	14	nmod	_	world|ChiGloss=?|ChiTreebank=???|LMC=kuan_?iaj`_?im_|OM=k?n_?i`_jim_|EMC=kwan_?iaj?_?im_|Pinyin=guaØn_shi`_yiØn_
+8	XHZD1586=?ie?	XHZD1586=?ie?	PROPN	PROPN	_	7	name	_	sound|ChiGloss=?|ChiTreebank=???|LMC=kuan_?iaj`_?im_|OM=k?n_?i`_jim_|EMC=kwan_?iaj?_?im_|Pinyin=guaØn_shi`_yiØn_
+9	XHZD5593=bio_	XHZD5593=bio_	PROPN	PROPN	_	7	name	_	to_look|ChiGloss=?|ChiTreebank=???|LMC=kuan_?iaj`_?im_|OM=k?n_?i`_jim_|EMC=kwan_?iaj?_?im_|Pinyin=guaØn_shi`_yiØn_
+10	XHZD5906=tshj?_[?ia]	XHZD5906=tshj?_[?ia]	NOUN	NOUN	_	7	appos	_	Bodhisattva|ChiGloss=?|ChiTreebank=??|LMC=pfiu??_sat_|OM=p?u¥_sa?_|EMC=b?_sat_|Pinyin=pu¥_sa`_
+11	XHZD3574=tsjij	XHZD3574=tsjij	NOUN	NOUN	_	10	compound	_	to_know;_bodhi|ChiGloss=??????|ChiTreebank=??|LMC=pfiu??_sat_|OM=p?u¥_sa?_|EMC=b?_sat_|Pinyin=pu¥_sa`_
+12	XHZD2679=nj?	XHZD2679=nj?	ADJ	ADJ	_	13	amod	_	to_arrive;_towards|ChiGloss=?/?|ChiTreebank=??|LMC=p?u??¥_mun_|OM=p?u?_mun_|EMC=p??'_m?n_|Pinyin=pu?_me¥n_
+13	XHZD5689=?a	XHZD5689=?a	NOUN	NOUN	_	14	nmod	_	door|ChiGloss=?|ChiTreebank=??|LMC=p?u??¥_mun_|OM=p?u?_mun_|EMC=p??'_m?n_|Pinyin=pu?_me¥n_
+14	XHZD1355=tjij	XHZD1355=tjij	PROPN	PROPN	_	0	root	_	chapter|ChiGloss=?|ChiTreebank=?|LMC=p?im¥_|OM=p?in?_|EMC=p?im'_|Pinyin=pi?n_
+15	?	?	PUNCT	PUNCT	_	14	punct	_	|ChiTreebank=?|LMC=_|OM=_|EMC=_|Pinyin=_
+
+~~~

@@ -1,6 +1,6 @@
 ---
 layout: entry
-title: 妙法蓮華經 (The Lotus Sutra) 觀世音菩薩普門品第二十五 (Tangut) 
+title: <span style="font-family:&#39;Tangut Yinchuan&#39;,&#39;Babelstone Tangut Wenhai&#39;; font-size: 12pt;">&#x17913;&#x17E59;&#x1793B;&#x17457;&#x175B0;&#x176A9;&#x17BE8;&#x1764F;&#x1876F;&#x182E2;&#x17964;&#x17AE1;&#x185E0;&#x1813F;</span>(The Lotus Sutra Chapter 25 Tangut)
 ---
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />

@@ -1,19 +1,21 @@
 ---
 layout: entry
-title: <span style="font-family:&#39;Tangut Yinchuan&#39;,&#39;Babelstone Tangut Wenhai&#39;; font-size: 12pt;">&#x17913;&#x17E59;&#x1793B;&#x17457;&#x175B0;&#x176A9;&#x17BE8;&#x1764F;&#x1876F;&#x182E2;&#x17964;&#x17AE1;&#x185E0;&#x1813F;</span>(The Lotus Sutra Chapter 25 Tangut)
+title: The Lotus Sutra Chapter 25 Tangut
 ---
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta http-equiv="Content-Script-Type" content="text/javascript" />
 <link rel="stylesheet" type="text/css" href="../BabelStone.css" />
-<title><span style="font-family:&#39;Tangut Yinchuan&#39;,&#39;Babelstone Tangut Wenhai&#39;; font-size: 12pt;">&#x17913;&#x17E59;&#x1793B;&#x17457;&#x175B0;&#x176A9;&#x17BE8;&#x1764F;&#x1876F;&#x182E2;&#x17964;&#x17AE1;&#x185E0;&#x1813F;</span>(The Lotus Sutra Chapter 25 Tangut)</title>
+<title>The Lotus Sutra Chapter 25 Tangut</title>
 </head>
 
-The text is based on the Tangut printed scripture of the Chapter on Universal Gate of Bodhisattva Avalokiteśvara of the Lotus Sutra excavated at Mogao Caves (莫高窟) in 1959.  The printed scripture was on display during "Dunhuang - Untold Tales, Untold Riches" exhibition organised by the Hong Kong Heritage Museum and the Dunhuang Academy.  For details, please click [here](http://www.lcsd.gov.hk/ce/Museum/Heritage/en_US/web/hm/exhibitions/data/exid218/exhibit_28.html) to the website of the Hong kong Heritage Museum.  A complete facsimile of this scripture can be found from a paper written by Chen Bingying (陳炳應)〈圖解本西夏文〈觀音經〉譯釋〉，《敦煌研究》1985年第5期.<br><br>
+<span style="font-family:&#39;Tangut Yinchuan&#39;,&#39;Babelstone Tangut Wenhai&#39;; font-size: 22pt;">&#x17913;&#x17E59;&#x1793B;&#x17457;&#x175B0;&#x176A9;&#x17BE8;&#x1764F;&#x1876F;&#x182E2;&#x17964;&#x17AE1;&#x185E0;&#x1813F;</span>
+
+The text is based on the Tangut printed scripture of the Chapter on Universal Gate of Bodhisattva Avalokiteśvara of the Lotus Sutra excavated at Mogao Caves (莫高窟) in 1959.  The printed scripture was on display during "Dunhuang - Untold Tales, Untold Riches" exhibition organised by the Hong Kong Heritage Museum and the Dunhuang Academy.  A complete facsimile of this scripture can be found from a paper written by Chen Bingying (陳炳應)〈圖解本西夏文〈觀音經〉譯釋〉，《敦煌研究》1985年第5期.<br><br>
 
 Some words, especially at the verse part, are not intelligible.  Reference has been sought from Nishida Tatsuo's <i>Xixia version of the Lotus Sutra</i> (Tōkyō : Sōka Gakkai, [c2005]). <br><br>
 
-Since the annotation system cannot handle Tangut font at this point in time, we are not using any Tangut characters in the following treebank.  However, if you are interested in reading the original characters of Tangut, you may copy the XHZD Codes in the treebank and then look for the corresponding characters by clicking  [here](http://twwspes.github.io/annodoc/saddharmapundarika_sutra/XHZD_glossary.htm).  You may also read the whole chapter in the [chart](http://twwspes.github.io/annodoc/saddharmapundarika_sutra/24_tangut.htm) with original Tangut characters.  Please remember to download and install the following two Tangut fonts [Mojikyo 202](http://www.mojikyo.org/#TTF_download) [Mojikyo 203](http://www.mojikyo.org/#TTF_download) beforehand. <br><br>
+Since the annotation system cannot handle Tangut font at this point in time, we are not using any Tangut characters in the following treebank.  However, if you are interested in reading the original characters of Tangut, you may copy the XHZD Codes in the treebank and then look for the corresponding characters by clicking  [here](http://twwspes.github.io/annodoc/saddharmapundarika_sutra/XHZD_glossary.htm).  You may also read the whole chapter in the [chart](http://twwspes.github.io/annodoc/saddharmapundarika_sutra/24_tangut.htm) with original Tangut characters.  Please download and install the following three Tangut fonts [TangutYinchuan](http://www.babelstone.co.uk/Fonts/Yinchuan.html) [Babelstone Tangut Wenhai](http://www.babelstone.co.uk/Fonts/Wenhai.html) [Mojikyo 202](http://www.mojikyo.org/#TTF_download) [Mojikyo 203](http://www.mojikyo.org/#TTF_download) beforehand. The following Tangut scripts are encoded in UTF-8. You may refer to the latest Unicode standard for details.<br><br>
 
 Both the POS tagging system and the dependency system are adopted from the [Universal dependencies](http://universaldependencies.github.io/docs/#language-tagset).
 

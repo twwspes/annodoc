@@ -9,7 +9,7 @@ title: saddharmapuṇḍarīka-nāma-mahāyāna-sūtra (The Lotus Sutra) 24 sama
 <title>saddharmapuṇḍarīka-nāma-mahāyāna-sūtra (The Lotus Sutra) 24 samantamukhaparivarta (Sanskrit)</title>
 </head>
 
-The digitalised text we rely on is extracted from ["Digital Sanskrit Buddhist Canon"](http://www.dsbcproject.org/node/4278) by the [University of the West](http://www.uwest.edu/site/).  The text is based on Vaidya, P. L., <i>Saddharmapuṇḍarīkasūtram</i>, (Darbhanga: The Mithila Institute of Post-Graduate Studies and Research in Sanskrit Learning, 1960).  Please feel free to email me at spes(at)connect.hku.hk if you find any mistakes here.<br><br>
+The digitalised text we rely on is extracted from ["Digital Sanskrit Buddhist Canon"](http://www.dsbcproject.org/canon-text/content/54/481) by the [University of the West](http://www.uwest.edu/site/).  The text is based on Vaidya, P. L., <i>Saddharmapuṇḍarīkasūtram</i>, (Darbhanga: The Mithila Institute of Post-Graduate Studies and Research in Sanskrit Learning, 1960).  Please feel free to email me at spes(at)connect.hku.hk if you find any mistakes here.<br><br>
 
 The POS tagging system (with features) is adopted from the [IL-POST Sanskrit tagset](http://sanskrit.jnu.ac.in/corpora/tagset.jsp), whilst the dependency system is from the [Perseus Dependency Treebanks](http://nlp.perseus.tufts.edu/syntax/treebank/).  The Perseus Dependency is adopted with some minor modifications, including that punctuations are not tagged as APOS (apposing elements) and that the coordinating conjunction (i.e. ca) will never become a mother of two or more coordinating or subordinating phrases.  The reason is that it is not always the case that punctuations and coordinating conjunction appear in the apposition or in the coordinating situation respectively.<br><br>
 
@@ -22,6 +22,202 @@ The Sanskrit Heritage Site [http://sanskrit.inria.fr/](http://sanskrit.inria.fr/
 Buddhistdoor.com Buddhist Dictionary [http://dictionary.buddhistdoor.com/](http://dictionary.buddhistdoor.com/).<br><br>
 
 Please click [here](https://twwspes.github.io/annodoc/saddharmapundarika_sutram) to read the same chapter in other languages.<br><br>
+
+24 samantamukhaparivartaḥ||
+<br />
+atha khalu akṣayamatirbodhisattvo mahāsattva utthāyāsanādekāṃsamuttarāsaṅgaṃ kṛtvā dakṣiṇaṃ jānumaṇḍalaṃ pṛthivyāṃ pratiṣṭhāpya yena bhagavāṃstenāñjaliṃ praṇāmya bhagavantametadavocat-kena kāraṇena bhagavan avalokiteśvaro bodhisattvo mahāsattvo'valokiteśvara ityucyate? evamukte bhagavānakṣayamatiṃ bodhisattvaṃ mahāsattvametadavocat-iha kulaputra yāvanti sattvakoṭīnayutaśatasahasrāṇi yāni duḥkhāni pratyuanubhavanti, tāni sacedavalokiteśvarasya bodhisattvasya mahāsattvasya nāmadheyaṃ śṛṇuyuḥ, te sarve tasmādduḥkhaskandhād parimucyeran| ye ca kulaputra sattvā avalokiteśvarasya bodhisattvasya mahāsattvasya nāmadheyaṃ dhārayiṣyanti, sacette mahatyagniskandhe prapateyuḥ, sarve te avalokiteśvarasya bodhisattvasya mahāsattvasya tejasā tasmānmahato'gniskandhāt parimucyeran| sacet punaḥ kulaputra sattvā nadībhiruhyamānā avalokiteśvarasya bodhisattvasya mahāsattvasyākrandaṃ kuryuḥ, sarvāstā nadyasteṣāṃ sattvānāṃ gādhaṃ dadyuḥ| sacet punaḥ kulaputra sāgaramadhye vahanābhirūḍhānāṃ sattvakoṭīnayutaśatasahasrāṇāṃ hiraṇyasuvarṇamaṇimuktāvajravaiḍūryaśaṅkhaśilāpravālāśmagarbhamusāragalvalohitamuktādīnāṃ kṛtanidhīnāṃ sa potasteṣāṃ kālikāvātena rākṣasīdvīpe kṣiptaḥ syāt, tasmiṃśca kaścidevaikaḥ sattvaḥ syāt yo'valokiteśvarasya bodhisattvasya mahāsattvasyākrandaṃ kuryāt, sarve te parimucyeraṃstasmād rākṣasīdvīpāt| anena khalu punaḥ kulaputra kāraṇena avalokiteśvaro bodhisattvo mahāsattvo'valokiteśvara iti saṃjñāyate||
+<br />
+sacet kulaputra kaścideva vadhyotsṛṣṭo'valokiteśvarasya bodhisattvasya mahāsattvasyākrandaṃ kuryāt, tāni teṣāṃ vadhyaghātakānāṃ śastrāṇi vikīryeran| sacet khalu punaḥ kulaputra ayaṃ trisāhasramahāsāhasro lokadhāturyakṣarākṣasaiḥ paripūrṇo bhavet, te'valokiteśvarasya mahāsattvasya nāmadheyagrahaṇena duṣṭacittā draṣṭumapyaśaktāḥ syuḥ| sacetkhalu punaḥ kulaputra kaścideva sattvo dārvāyasmayairhaḍinigaḍabandhanairbaddho bhavet, aparādhyanaparādhī vā, tasyāvalokiteśvarasya bodhisattvasya mahāsattvasya nāmadheyagrahaṇena kṣipraṃ tāni haḍinigaḍabandhanāni vivaramanuprayacchanti| īdṛśaḥ kulaputra avalokiteśvarasya bodhisattvasya mahāsattvasya prabhāvaḥ||
+<br />
+sacetkulaputra ayaṃ trisāhasramahāsāhasro lokadhāturdhūrtairamitraiścauraiśca śastrapāṇibhiḥ paripūrṇo bhavet, tasmiṃścaikaḥ sārthavāho mahāntaṃ sārthaṃ ratnāḍhyamanardhyaṃ gṛhītvā gacchet| te gacchantastāṃścaurān dhūrtān śatrūṃśca śastrahastān paśyeyuḥ| dṛṣṭvā ca punarbhītāstrastā aśaraṇamātmānaṃ saṃjānīyuḥ| sa ca sārthavāhastaṃ sārthamevaṃ brūyāt-mā bhaiṣṭa kulaputrāḥ, mā bhaiṣṭa, abhayaṃdadamavalokiteśvaraṃ bodhisattvaṃ mahāsattvamekasvareṇa sarve samākrandadhvam| tato yūyamasmāccaurabhayādamitrabhayāt kṣiprameva parimokṣyadhve| atha khalu sarva eva sa sārthaḥ ekasvareṇa avalokiteśvaramākrandet-namo namastasmai abhayaṃdadāyāvalokiteśvarāya bodhisattvāya mahāsattvāyeti|| sahanāmagrahaṇenaiva sa sārthaḥ sarvabhayebhyaḥ parimukto bhavet| īdṛśaḥ kulaputra avalokiteśvarasya bodhisattvasya mahāsattvasya prabhāvaḥ||
+<br />
+ye kulaputra rāgacaritāḥ sattvāḥ, te'valokiteśvarasya bodhisattvasya mahāsattvasya namaskāraṃ kṛtvā vigatarāgā bhavanti| ye dveṣacaritāḥ sattvāḥ, te'valokiteśvarasya bodhisattvasya mahāsattvasya namaskāraṃ kṛtvā vigatadveṣā bhavanti| ye mohacaritāḥ sattvāḥ, te'valokiteśvarasya bodhisattvasya mahāsattvasya namaskāraṃ kṛtvā vigatamohā bhavanti| evaṃ maharddhikaḥ kulaputra avalokiteśvaro bodhisattvo mahāsattvaḥ||
+<br />
+yaśca kulaputra avalokiteśvarasya bodhisattvasya mahāsattvasya putrakāmo mātṛgrāmo namaskāraṃ karoti, tasya putraḥ prajāyate abhirūpaḥ prāsādiko darśanīyaḥ| putralakṣaṇasamanvāgato bahujanapriyo manāpo'varopitakuśalamūlaśca bhavati| yo dārikāmabhinandati, tasya dārikā prajāyate abhirūpā prāsādikā darśanīyā paramayā śubhavarṇapuṣkaratayā samanvāgatā dārikā-lakṣaṇasamanvāgatā bahujanapriyā manāpā avaropitakuśalabhūlā ca bhavati| īdṛśaḥ kulaputra avalokiteśvarasya bodhisattvasya mahāsattvasya prabhāvaḥ||
+<br />
+ye ca kulaputra avalokiteśvarasya bodhisattvasya mahāsattvasya namaskāraṃ kariṣyanti, nāmadheyaṃ ca dhārayiṣyanti, teṣāmamoghaphalaṃ bhavati| yaśca kulaputra avalokiteśvarasya bodhisattvasya mahāsattvasya namaskāraṃ kariṣyati, nāmadheyaṃ ca dhārayiṣyati, yaśca dvāṣaṣṭīnāṃ gaṅgānadīvālikāsamānāṃ buddhānāṃ bhagavatāṃ namaskāraṃ kuryāt, nāmadheyāni ca dhārayet, yaśca tāvatāmeva buddhānāṃ bhagavatāṃ tiṣṭhatāṃ dhriyatāṃ yāpayatāṃ cīvarapiṇḍapātaśayanāsanaglānapratyayabhaiṣajyapariṣkāraiḥ pūjāṃ kuryāt, tatkiṃ manyase kulaputra kiyantaṃ sa kulaputro vā kuladuhitā vā tatonidānaṃ puṇyābhisaṃskāraṃ prasavet? evamukte akṣayamatirbodhisattvo mahāsattvo bhagavantametadavocat-bahu bhagavan, bahu sugata sa kulaputro vā kuladuhitā vā tatonidānaṃ bahuṃ puṇyābhisaṃskāraṃ prasavet| bhagavānāha-yaśca kulaputra tāvatāṃ buddhānāṃ bhagavatāṃ satkāraṃ kṛtvā puṇyābhisaṃskāraḥ, yaśca avalokiteśvarasya bodhisattvasya mahāsattvasya antaśa ekamapi namaskāraṃ kuryāt nāmadheyaṃ ca dhārayet, samo'nadhiko'natirekaḥ puṇyābhisaṃskāraḥ ubhayato bhavet| yaśca teṣāṃ dvāṣaṣṭīnāṃ gaṅgānadīvālikāsamānāṃ buddhānāṃ bhagavatāṃ satkāraṃ kuryāt nāmadheyāni ca dhārayet,  yaśca avalokiteśvarasya bodhisattvasya mahāsattvasya namaskāraṃ kuryāt nāmadheyaṃ ca dhārayet, etāvubhau puṇyaskandhau na sukarau kṣapayituṃ kalpakoṭīnayutaśatasahasrairapi| evamaprameyaṃ kulaputra avalokiteśvarasya bodhisattvasya mahāsattvasya nāmadhāraṇāt puṇyam||
+<br />
+atha khalvakṣayamatirbodhisattvo mahāsattvo bhagavantametadavocat-kathaṃ bhagavan avalokiteśvaro bodhisattvo mahāsattvo'syāṃ sahāyāṃ lokadhātau pravicarati? kathaṃ sattvānāṃ dharmaṃ deśayati? kīdṛśaścāvalokiteśvarasya bodhisattvasya mahāsattvasyopāyakauśalyaviṣayaḥ? evamukte bhagavānakṣayamatiṃ bodhisattvaṃ mahāsattvametadavocat-santi kulaputra lokadhātavaḥ yeṣvavalokiteśvaro bodhisattvo mahāsattvo buddharūpeṇa sattvānāṃ dharmaṃ deśayati| santi lokadhātavaḥ, yeṣvavalokiteśvaro bodhisattvo mahāsattvo bodhisattvarūpeṇa sattvānāṃ dharmaṃ deśayati| keṣāṃcit pratyekabuddharūpeṇa avalokiteśvaro bodhisattvo mahāsattvaḥ sattvānāṃ dharmaṃ deśayati| keṣāṃcicchrāvakarūpeṇa avalokiteśvaro bodhisattvo mahāsattvaḥ sattvānāṃ dharmaṃ deśayati| keṣāṃcid brahmarūpeṇāvalokiteśvaro bodhisattvo mahāsattvaḥ sattvānāṃ dharmaṃ deśayati| keṣāṃcicchakrarūpeṇāvalokiteśvaro bodhisattvo mahāsattvaḥ dharmaṃ deśayati|| keṣāṃcid gandharvarūpeṇāvalokiteśvaro bodhisattvo mahāsattvaḥ sattvānāṃ dharmaṃ deśayati| keṣāṃcid gandharvarūpeṇāvalokiteśvaro bodhisattvo mahāsattvaḥ sattvānāṃ dharmaṃ deśayati| yakṣavaineyānāṃ sattvānāṃ yakṣarūpeṇa dharmaṃ deśayati| īśvaravaineyānāṃ sattvānāmīśvararūpeṇa, maheśvaravaineyānāṃ sattvānāṃ maheśvararūpeṇa dharmaṃ deśayati| cakravartirājavaineyānāṃ sattvānāṃ cakravartirājarūpeṇa dharmaṃ deśayati| piśācavaineyānāṃ sattvānāṃ piśācarūpeṇa dharmaṃ deśayati| vaiśravaṇavaineyānāṃ sattvānāṃ vaiśravaṇarūpeṇa dharmaṃ deśayati|
+<br />
+senāpativaineyānāṃ sattvānāṃ senāpatirūpeṇa dharmaṃ deśayati| brāhmaṇavaineyānāṃ sattvānāṃ brāhmaṇarūpeṇa dharmaṃ deśayati| vajrapāṇivaineyānāṃ sattvānāṃ vajrapāṇirūpeṇa dharmaṃ deśayati| evamacintyaguṇasamanvāgataḥ kulaputra avalokiteśvaro bodhisattvo mahāsattvaḥ| tasmāttarhi kulaputra avalokiteśvaraṃ bodhisattvaṃ mahāsattvaṃ pūjayadhvam| eṣa kulaputra avalokiteśvaro bodhisattvo mahāsattvo bhītānāṃ sattvānāmabhayaṃ dadāti| anena kāraṇena abhayaṃdada iti saṃjñāyate iha sahāyāṃ lokadhātau||
+<br />
+atha khalvakṣayamatirbodhisattvo mahāsattvo bhagavantametadavocat-dāsyāmo vayaṃ bhagavan avalokiteśvarāya bodhisattvāya mahāsattvāya dharmaprābhṛtaṃ dharmācchādam| bhagavānāhayasyedānīṃ kulaputra kālaṃ manyase| atha khalvakṣayamatirbodhasattvo mahāsattvaḥ svakaṇṭhādavartāya śatasahasramūlyaṃ muktāhāramavalokiteśvarāya bodhisattvāya mahāsattvāya dharmācchādamanuprayacchati sma-pratīccha satpuruṣa imaṃ dharmācchādaṃ mamāntikāt| sa na pratīcchati sma| atha khalvakṣayamatirbodhisattvo mahāsattvo'valokiteśvaraṃ bodhisattvaṃ mahāsattvametadavocat-pratigṛhāṇa tvaṃ kulaputra imaṃ muktāhāramasmākamanukampāmupādāya| atha khalvavalokiteśvaro bodhisattvo mahāsattvo'kṣayamaterbodhisattvasya mahāsattvasyāntikāt taṃ muktāhāraṃ pratigṛhṇāti sma akṣayamaterbodhisattvasya mahasattvasyānukampāmupādāya, tāsāṃ ca catasṛṇāṃ parṣadāṃ teṣāṃ ca devanāgayakṣagandharvāsuragarūḍakinnaramahoragamanuṣyāmanuṣyāṇāmanukampāmupādāya| pratigṛhya ca dvau pratyaṃśau kṛtavān| kṛtvā caikaṃ pratyaṃśaṃ bhagavate śākyamunaye dadāti sma, dvitīyaṃ pratyaṃśaṃ bhagavataḥ prabhūtaratnasya tathāgatasyārhataḥ samyaksaṃbuddhasya ratnastūpe samupanāmayāyāsa| īdṛśyā kulaputra vikurvayā avalokiteśvaro bodhisattvo mahāsattvo'syāṃ sahāyāṃ lokadhātāvanuvicarati||
+<br />
+atha khalu bhagavāṃstasyāṃ velāyāmimā gāthā abhāṣata—<br />
+ <br />
+citradhvaja akṣayomatī <br />
+etamarthaṃ paripṛcchi kāraṇāt|| <br />
+kenā jinaputra hetunā <br />
+ucyate hi avalokiteśvaraḥ||1||<br />
+ <br />
+atha sa diśatā vilokiyā <br />
+praṇidhīsāgaru akṣayomati| <br />
+citradhvajo'dhyabhāṣata<br />
+śṛṇu caryāmavalokiteśvare||2||<br />
+ <br />
+kalpaśata nekakoṭyacintiyā <br />
+bahubuddhāna sahasrakoṭibhiḥ| <br />
+praṇidhāna yathā viśodhitaṃ <br />
+statha śṛṇvāhi mama pradeśataḥ||3||<br />
+ <br />
+śravaṇo atha darśano'pi ca<br />
+anupūrvaṃ ca tathā anusmṛtiḥ| <br />
+bhavatīha amogha prāṇināṃ <br />
+sarvaduḥkhabhavaśokanāśakaḥ||4||<br />
+ <br />
+saci agnikhadāya pātayed<br />
+ghatanārthāya praduṣṭamānasaḥ|<br />
+smarato avalokiteśvaraṃ <br />
+abhisikto iva agni śāmyati||5||<br />
+ <br />
+saci sāgaradurgi pātaye-<br />
+nnāgamakarasurabhūtaālaye| <br />
+smarato avalokiteśvaraṃ <br />
+jalarāje na kadācisīdati||6||<br />
+ <br />
+saci merutalātu pātayed <br />
+ghatanārthāya praduṣṭamānasaḥ| <br />
+smarato avalokiteśvaraṃ <br />
+sūryabhūto va nabhe pratiṣṭhati||7||<br />
+ <br />
+vajrāmaya parvato yadi <br />
+ghatanārthāya hi mūrdhni oṣaret| <br />
+smarato avalokiteśvaraṃ <br />
+romakūpa na prabhonti hiṃsitum||8||<br />
+ <br />
+saci śatrugaṇaiḥ parīvṛtaḥ<br />
+śastrahastairvihiṃsacetasaiḥ| <br />
+smarato avalokiteśvaraṃ <br />
+maitracitta tada bhonti tatkṣaṇam||9||<br />
+ <br />
+saci āghatane upasthito <br />
+vadhyaghātanavaśaṃgato bhavet| <br />
+smarato avalokiteśvaraṃ <br />
+khaṇḍakhaṇḍa tada śastra gacchiyuḥ||10||<br />
+ <br />
+saci dārumayairayomayai-<br />
+rhaḍinigaḍairiha baddhabandhanaiḥ|<br />
+smarato avalokiteśvaraṃ <br />
+kṣiprameva vipaṭanti bandhanā||11||<br />
+ <br />
+mantrā bala vidya oṣadhī <br />
+bhūta vetāla śarīranāśakā| <br />
+smarato avalokiteśvaraṃ <br />
+tān gacchanti yataḥ pravartitāḥ||12||<br />
+ <br />
+saci ojaharaiḥ parīvṛto <br />
+nāgayakṣasurabhūtarākṣasaiḥ| <br />
+smarato avalokiteśvaraṃ <br />
+romakūpa na prabhonti hiṃsitum||13||<br />
+ <br />
+saci vyālamṛgaiḥ parīvṛta-<br />
+stīkṣṇadaṃṣṭranakharairmahābhayaiḥ| <br />
+smarato avalokiteśvaraṃ <br />
+kṣipra gacchanti diśā anantataḥ||14||<br />
+ <br />
+saci dṛṣṭiviṣaiḥ parīvṛto <br />
+jvalanārciśikhiduṣṭadāruṇaiḥ| <br />
+smarato avalokiteśvaraṃ <br />
+kṣiprameva te bhonti nirviṣāḥ||15||<br />
+ <br />
+gambhīra savidyu niścarī <br />
+meghavajrāśani vāriprasravāḥ|<br />
+smarato avalokiteśvaraṃ <br />
+kṣiprameva praśamanti tatkṣaṇam||16||<br />
+ <br />
+bahuduḥkhaśatairupadrutān<br />
+sattva dṛṣṭva bahuduḥkhapīḍitān| <br />
+śubhajñānabalo vilokiyā <br />
+tena trātaru gaje sadevake||17||<br />
+ <br />
+ṛddhībalapāramiṃgato <br />
+vipulajñāna upāyaśikṣitaḥ| <br />
+sarvatra daśaddiśī jage <br />
+sarvakṣetreṣu aśeṣa dṛśyate||18||<br />
+ <br />
+ye ca akṣaṇadurgatī bhayā <br />
+narakatiryagyamasya śāsane| <br />
+jātījaravyādhipīḍitā<br />
+anupūrvaṃ praśamanti prāṇinām||19||<br />
+ <br />
+atha khalu akṣamatirhṛṣṭatuṣṭamanā imā gāthā abhāṣata—<br />
+ <br />
+śubhalocana maitralocanā <br />
+prajñājñānaviśiṣṭalocanā| <br />
+kṛpalocana śuddhalocanā <br />
+premaṇīya sumukhā sulocanā||20||<br />
+ <br />
+amalāmalanirmalaprabhā <br />
+vitimira jñānadivākaraprabhā| <br />
+apahṛtānilajvalaprabhā <br />
+pratapanto jagatī virocase||21||<br />
+ <br />
+kṛpasadguṇamaitragarjitā<br />
+śubhaguṇa maitramanā mahāghanā| <br />
+kleśāgni śamesi prāṇināṃ <br />
+dharmavarṣaṃ amṛtaṃ pravarṣasi||22||<br />
+ <br />
+kalahe ca vivādavigrahe <br />
+narasaṃgrāmagate mahābhaye| <br />
+smarato avalokiteśvaraṃ <br />
+praśameyā arisaṃgha pāpakā||23||<br />
+ <br />
+meghasvara dundubhisvaro <br />
+jaladharagarjita brahmasusvaraḥ| <br />
+svaramaṇḍalapāramiṃgataḥ <br />
+smaraṇīyo avalokiteśvaraḥ||24||<br />
+ <br />
+smarathā smarathā sa kāṅkṣathā <br />
+śuddhasattvaṃ avalokiteśvaram| <br />
+maraṇe vyasane upadrave <br />
+trāṇu bhoti śaraṇaṃ parāyaṇam||25||<br />
+ <br />
+sarvaguṇasya pāramiṃgataḥ <br />
+sarvasattvakṛpamaitralocano| <br />
+guṇabhūta mahāguṇodadhī <br />
+vandanīyo avalokiteśvaraḥ||26||<br />
+ <br />
+yo'sau anukampako jage <br />
+buddha bheṣyati anāgate'dhvani| <br />
+sarvaduḥkhabhayaśokanāśakaṃ <br />
+praṇamāmī avalokiteśvaram||27||<br />
+ <br />
+lokeśvara rājanāyako <br />
+bhikṣudharmākaru lokapūjito| <br />
+bahukalpaśatāṃścaritva ca <br />
+prāptu bodhi virajāṃ anuttarām||28||<br />
+ <br />
+sthita dakṣiṇavāmatastathā <br />
+vījayanta amitābhanāyakam| <br />
+māyopamatā samādhinā <br />
+sarvakṣetre jina gatva pūjiṣu||29||<br />
+ <br />
+diśi paścimataḥ sukhākarā <br />
+lokadhātu virajā sukhāvatī|<br />
+yatra eṣa amitābhanāyakaḥ <br />
+saṃprati tiṣṭhati sattvasārathiḥ||30||<br />
+ <br />
+na ca istriṇa tatra saṃbhavo <br />
+nāpi ca maithunadharma sarvaśaḥ| <br />
+upapāduka te jinorasāḥ <br />
+padmagarbheṣu niṣaṇṇa nirmalāḥ||31||<br />
+ <br />
+so caiva amitābhanāyakaḥ <br />
+padmagarbhe viraje manorame| <br />
+siṃhāsani saṃniṣaṇṇako <br />
+śālarajo va yathā virājate||32||<br />
+ <br />
+so'pi tathā lokanāyako <br />
+yasya nāsti tribhavesmi sādṛśaḥ| <br />
+yanme puṇya stavitva saṃcitaṃ <br />
+kṣipra bhomi yatha tvaṃ narottama||33|| iti||<br />
+ <br />
+atha khalu dharaṇiṃdharo bodhisattvo mahāsattva utthāyāsanādekāṃsamuttarāsaṅgaṃ kṛtvā dakṣiṇaṃ jānumaṇḍalaṃ pṛthivyāṃ pratiṣṭhāpya yena bhagavāṃstenāñjaliṃ praṇāmya bhagavantametadavocat-na te bhagavan sattvāḥ avarakeṇa kuśalamūlena samanvāgatā bhaviṣyanti, ye'valokiteśvarasya bodhisattvasya mahāsattvasyemaṃ dharmaparyāyaparivartaṃ śroṣyanti avalokiteśvarasya bodhisattvasya mahāsattvasya vikurvānirdeśaṃ samantamukhaparivartaṃ nāma avalokiteśvarasya bodhisattvasya vikurvaṇaprātihāryam||<br />
+ <br />
+asmin khalu punaḥ samantamukhaparivarte bhagavatā nirdeśyamāne tasyāḥ parṣadaścaturaśītināṃ prāṇisahasrāṇāmasamasamāyāmanuttarāyāṃ samyaksaṃbodhau cittānyutpannānyabhūvan||<br />
+ <br />
+iti śrīsaddharmapuṇḍarīke dharmaparyāye samantamukhaparivarto nāmāvalokiteśvara-<br />
+vikurvaṇanirdeśaścaturviśatimaḥ||
 
 ~~~ conllu
 1	sad-	sat	NC.JJ..cpd	NOUN	_	2	ATR	_	real;_妙;_དམ་པ;_dam_pa

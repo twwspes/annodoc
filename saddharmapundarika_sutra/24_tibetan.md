@@ -553,7 +553,7 @@ Please click [here](https://twwspes.github.io/annodoc/saddharmapundarika_sutram)
 36	ཕལ་པོ་ཆེ་	phal_po_che	NOUN	NOUN	_	34	conj	_	"host,_troop,_mass_of_people,_class_of_mahayana_sutra|Sanskrit=sārthaṃ"
 37	རིན་པོ་ཆེས་	rin_po_ches	NOUN	NOUN	_	34	conj	_	[value-big];_precious;_jewel;_precious_substance|Sanskrit=ratn-
 38	ཕྱུག་པ་	phyug_pa	NOUN	NOUN	_	34	conj	_	"opulent,_wealthy,_rich_{T}|Sanskrit=āḍhyam-anardhyaṃ"
-39	དེད་	ded	VERB	VERB	_	#N/A	advcl	_	"to_drive_(a_herd),_to_herd,_eliminate|Sanskrit=gṛhītvā"
+39	དེད་	ded	VERB	VERB	_	57	advcl	_	"to_drive_(a_herd),_to_herd,_eliminate|Sanskrit=gṛhītvā"
 40	དེ་	de	SCONJ	SCONJ	_	39	mark	_	that;_continuative_particle;_past_and_present_participal|Sanskrit=gṛhītvā
 41	དོང་བ་	dong_ba	VERB.VerbForm=VerbalNoun	VERB	VerbForm=VerbalNoun	57	advcl	_	"moved_away_a_deep_hole,_pit,_ditch,_a_well,_depth,_bottom|Sanskrit=gacchet"
 42	ལས	las	ADP	ADP	_	41	case	_	"1)_ablative_particle_(from_general_source),_also_indicating_means_and_reason_for_an_event,_temporal_sequence_6)_karma;_action|Sanskrit=gacchet"
@@ -678,7 +678,7 @@ Please click [here](https://twwspes.github.io/annodoc/saddharmapundarika_sutram)
 7	སྤྱན་རས་གཟིགས་དབང་ཕྱུག་	spyan_ras_gzigs_dbang_phyug	PROPN	PROPN	_	10	dobj	_	Avalokiteshvara|Sanskrit=āvalokiteśvarāya
 8	དེ་	de	PRON	PRON	_	7	nmod	_	that;_continuative_particle;_past_and_present_participal|Sanskrit=tasmai
 9	ལ་	la	ADP	ADP	_	7	case	_	"and;_but;_[accusative,_adverbial_accusative,_dative,_locative_particle:]_to;_as;_-ly;_in;_at|Sanskrit=āvalokiteśvarāya"
-10	ཕྱག་འཚལ་	phyag_'tshal	VERB	VERB	_	#N/A	parataxis	_	I_pay_homage._(Sanskrit)_Namo|Sanskrit=namo
+10	ཕྱག་འཚལ་	phyag_'tshal	VERB	VERB	_	0	parataxis	_	I_pay_homage._(Sanskrit)_Namo|Sanskrit=namo
 11	ལོ	lo	PART	PART	_	10	dep	_	year;_[particle_indicating_the_end_of_a_statement];_leaf;_petal_(=lo_ma)|Sanskrit=namo
 12	།	/	PUNCT	PUNCT	_	10	punct	_	||
 
@@ -1222,6 +1222,7 @@ Please click [here](https://twwspes.github.io/annodoc/saddharmapundarika_sutram)
 43	སླ་བ་	sla_ba_ma_yin	ADV	ADV	_	42	advmod	_	easy;_preferable|Sanskrit=sukarau
 44	མ་	ma	ADV	ADV	_	42	neg	_	(1)_mother__(3)_particle_indicating_negative:_not;_non-;_un-|Sanskrit=na
 45	ཡིན་	yin	AUX	AUX	_	42	aux	_	become;_be|Sanskrit=sukarau
+
 46	ནོ	no	PART	PART	_	42	dep	_	[particle_indicating_the_end_of_a_statement]_completing_particle|Sanskrit=sukarau
 47	།	/	PUNCT	PUNCT	_	42	punct	_	|
 
@@ -1284,7 +1285,7 @@ Please click [here](https://twwspes.github.io/annodoc/saddharmapundarika_sutram)
 11	མི་མཇེད་	mi_mjed	NOUN	NOUN	_	10	nmod	_	obdurate_(Sanskrit)_sahA|Sanskrit=sahāyāṃ
 12	འདི་	'di	DET	DET	_	10	det	_	"now,_this,_the_present,_the_respective,_life_/_lifetime|Sanskrit='syāṃ"
 13	ན་	na	ADP	ADP	_	10	case	_	"(1)_to;_in;_as;_at_[accusative,_dative,_locative_particle]_(2)_if;_when_[non-case_usages]_(19)_be_sick;_be_ill;_in_pain_[for_the_verb,_na_ba]|Sanskrit='syāṃ"
-14	རྣམ་པར་རྒྱུ	rnam_par_rgyu	VERB	VERB	_	#N/A	parataxis	_	pass_through;_explain;_wander_about;_wanders;_behave;_undo;_course_apart_from|Sanskrit=pravicarati
+14	རྣམ་པར་རྒྱུ	rnam_par_rgyu	VERB	VERB	_	49	parataxis	_	pass_through;_explain;_wander_about;_wanders;_behave;_undo;_course_apart_from|Sanskrit=pravicarati
 15	།	/	PUNCT	PUNCT	_	14	punct	_	?
 16	ཇི་ལྟར་	ji_ltar	ADV	ADV	_	21	advmod	_	[what-like];_how;_just_as;_what|Sanskrit=kathaṃ
 17	སེམས་ཅན་	sems_can	NOUN	NOUN	_	21	dobj	_	[mind-having];_sentient_being;_animals|Sanskrit=sattvānāṃ
@@ -1736,7 +1737,7 @@ Please click [here](https://twwspes.github.io/annodoc/saddharmapundarika_sutram)
 12	དགབ་པ་	dgab_pa	NOUN	NOUN	_	13	dobj	_	ft._of_{'gebs_pa=cover_up};_rejoice;_cover_up|Sanskrit=chādam
 13	སྩལ་བ	stsal_ba	VERB	VERB	_	15	xcomp	_	bestow;_confer;_grant;_give;_speak|Sanskrit=dāsyāmo
 14	ར་	r	ADP	ADP	_	13	case	_	"Accusative,_Dative_&_Locative_particle|Sanskrit=dāsyāmo"
-15	བགྱི	bgyi	VERB	VERB	_	#N/A	parataxis	_	do;_perform;_make;_act|Sanskrit=dāsyāmo
+15	བགྱི	bgyi	VERB	VERB	_	0	parataxis	_	do;_perform;_make;_act|Sanskrit=dāsyāmo
 16	འོ	'o	PART	PART	_	15	dep	_	end_of_statement_particle|Sanskrit=dāsyāmo
 17	།	/	PUNCT	PUNCT	_	15	punct	_	|
 18	།	/	PUNCT	PUNCT	_	21	punct	_	_
@@ -1760,7 +1761,7 @@ Please click [here](https://twwspes.github.io/annodoc/saddharmapundarika_sutram)
 10	ར་	r	ADP	ADP	_	9	case	_	"Accusative,_Dative_&_Locative_particle|Sanskrit=kālaṃ"
 11	ཤེས་	shes	VERB	VERB	_	13	advcl	_	to_know;_cognition;_consciousness|Sanskrit=manyase
 12	ན་	na	SCONJ	SCONJ	_	11	mark	_	"(1)_to;_in;_as;_at_[accusative,_dative,_locative_particle]_(2)_if;_when_[non-case_usages]_(23)_be_sick;_be_ill;_in_pain_[for_the_verb,_na_ba]|Sanskrit=manyase"
-13	བྱིན་	byin	VERB	VERB	_	#N/A	parataxis	_	"to_give_hand_over,_give_away"
+13	བྱིན་	byin	VERB	VERB	_	43	parataxis	_	"to_give_hand_over,_give_away"
 14	ཅིག	cig	PART	PART	_	13	dep	_	"(gyur)_cig_-_Let!;_1)_one,_a,_an._2)_imperative_particle._5)_something"
 15	།	/	PUNCT	PUNCT	_	32	punct	_	|
 16	དེ་	de	PRON	PRON	_	32	nmod	_	that;_continuative_particle;_past_and_present_participal|Sanskrit=atha
@@ -1806,7 +1807,7 @@ Please click [here](https://twwspes.github.io/annodoc/saddharmapundarika_sutram)
 7	ཀྱི་	kyi	ADP	ADP	_	6	case	_	genitive_particle_of;_by;_in;_which_[as_non-case_particle]_and;_but;_(semi-colon)|Sanskrit=dharmāc-
 8	དགབ་པ་	dgab_pa	NOUN	NOUN	_	10	dobj	_	ft._of_{'gebs_pa=cover_up};_rejoice;_cover_up|Sanskrit=chādaṃ
 9	འདི་	'di	DET	DET	_	8	det	_	"now,_this,_the_present,_the_respective,_life_/_lifetime|Sanskrit=imaṃ"
-10	ལོང་	long	VERB	VERB	_	#N/A	parataxis	_	receive|Sanskrit=pratīccha
+10	ལོང་	long	VERB	VERB	_	16	parataxis	_	receive|Sanskrit=pratīccha
 11	ཞིག	zhig	PART	PART	_	10	dep	_	instrumental_particle|Sanskrit=pratīccha
 12	།	/	PUNCT	PUNCT	_	16	punct	_	|
 13	དེ	de	PRON	PRON	_	16	nmod	_	that;_continuative_particle;_past_and_present_participal|Sanskrit=sa
@@ -1854,7 +1855,7 @@ Please click [here](https://twwspes.github.io/annodoc/saddharmapundarika_sutram)
 13	སྙིང་བརྩེ་བ	snying_brtse_ba	NOUN	NOUN	_	15	nmod	_	"kind-hearted._loving,_affectionate,_etc|Sanskrit=anukampām-"
 14	འི་	'i	ADP	ADP	_	13	case	_	genitive_particle|Sanskrit=anukampām-
 15	ཕྱིར་	phyir	NOUN	NOUN	_	16	nmod	_	"in_order_to,_because;_again;_back;_outside|Sanskrit=upādāya"
-16	ལོང་	long	VERB	VERB	_	#N/A	parataxis	_	receive|Sanskrit=pratigṛhāṇa
+16	ལོང་	long	VERB	VERB	_	78	parataxis	_	receive|Sanskrit=pratigṛhāṇa
 17	ཞིག	zhig	PART	PART	_	16	dep	_	instrumental_particle|Sanskrit=pratigṛhāṇa
 18	།	/	PUNCT	PUNCT	_	78	punct	_	|
 19	དེ་	de	PRON	PRON	_	78	nmod	_	that;_continuative_particle;_past_and_present_participal|Sanskrit=atha
@@ -1960,7 +1961,7 @@ Please click [here](https://twwspes.github.io/annodoc/saddharmapundarika_sutram)
 11	འི་	'i	ADP	ADP	_	10	case	_	genitive_particle|Sanskrit=ratna-
 12	མཆོད་རྟེན་	mchod_rten	NOUN	NOUN	_	14	iobj	_	stupa_(tower)|Sanskrit=stūpe
 13	ལ་	la	ADP	ADP	_	12	case	_	"and;_but;_[accusative,_adverbial_accusative,_dative,_locative_particle:]_to;_as;_-ly;_in;_at|Sanskrit=stūpe"
-14	ཕུལ་	phul	VERB	VERB	_	#N/A	conj	_	offer;_present;_to_give_(hon.)|Sanskrit=samupanāmayāy-āsa
+14	ཕུལ་	phul	VERB	VERB	_	34	conj	_	offer;_present;_to_give_(hon.)|Sanskrit=samupanāmayāy-āsa
 15	ལོ	lo	PART	PART	_	14	dep	_	1)_year;_2)_suitable/_sufficient;_2)_tshul_lam_zol_[deception];_3)_Lo_grag_zer_gsum_gyi_ya_gyal_zhig_:_ma_rangs_pa'i_tshig;_4)_terminative;_5)_tr;_7)|Sanskrit=samupanāmayāy-āsa
 16	༑	|	PUNCT	PUNCT	_	14	punct	_	|
 17	རིགས་	rigs	ADJ	ADJ	_	19	amod	_	type;_kind;_lineage;_reasoning;_feasible;_suitable;_social_stratum|Sanskrit=kulaputra
@@ -2184,56 +2185,56 @@ Please click [here](https://twwspes.github.io/annodoc/saddharmapundarika_sutram)
 28	ན་	na	SCONJ	SCONJ	_	27	mark	_	"(1)_to;_in;_as;_at_[accusative,_dative,_locative_particle]_(2)_if;_when_[non-case_usages]_(25)_be_sick;_be_ill;_in_pain_[for_the_verb,_na_ba]|Sanskrit=smarato"
 29	ནི	ni	PART	PART	_	27	dep	_	[a_separative_particle;_non-case_particle_sets_off_subject_or_topic]
 30	།	/	PUNCT	PUNCT	_	27	punct	_	_
+31	།	/	PUNCT	PUNCT	_	33	punct	_	_
+32	ཆུས་	chus	NOUN	NOUN	_	33	dobj	_	"water;_moisture;_stream_of_cold_water_establish,_to_gild,_to_plate;_imp._of_{'chu_ba}|Sanskrit=abhisikto"
+33	བཏབ་	btab	VERB	VERB	_	27	parataxis	_	offer;_cast;_throw;_plant;_put;_set;_give|Sanskrit=abhisikto
+34	བཞིན་དུ་	bzhin_du	ADV	ADV	_	33	advmod	_	"as;_like;_similarly;_while;_in_accordance_with_even_though;_while,_{'khor}_ever_it_turns,_-ing,_forms_the_present_continuous_tense_of_verb._accordingly;_similarly/_likewise._although/_while_being_..|Sanskrit=iva"
+35	མེ་	me	NOUN	NOUN	_	37	nsubjpass	_	Fire|Sanskrit=agni
+36	དག་	dag	DET	DET	_	35	det	_	plural_particle|Sanskrit=agni
+37	ཞི་བ	zhi_ba	VERB.VerbType=VerbalNoun	VERB	VerbType=VerbalNoun	9	xcomp	_	pacification;_peace;_be_peaceful;_be_calm|Sanskrit=śāmyati
+38	ར་	r	SCONJ	SCONJ	_	37	mark	_	"Accusative,_Dative_&_Locative_particle|Sanskrit=śāmyati"
+39	འགྱུར	'gyur	VERB	VERB	_	33	parataxis	_	"will_be,_become;_see_{'gyur_ba,_gyur_pa};_increase|Sanskrit=śāmyati"
+40	།	/	PUNCT	PUNCT	_	33	punct	_	||
 
 ~~~
 
 ~~~conllu
-1	།	/	PUNCT	PUNCT	_	#N/A	punct	_	_
-2	ཆུས་	chus	NOUN	NOUN	_	#N/A	dobj	_	"water;_moisture;_stream_of_cold_water_establish,_to_gild,_to_plate;_imp._of_{'chu_ba}|Sanskrit=abhisikto"
-3	བཏབ་	btab	VERB	VERB	_	#N/A	parataxis	_	offer;_cast;_throw;_plant;_put;_set;_give|Sanskrit=abhisikto
-4	བཞིན་དུ་	bzhin_du	ADV	ADV	_	#N/A	advmod	_	"as;_like;_similarly;_while;_in_accordance_with_even_though;_while,_{'khor}_ever_it_turns,_-ing,_forms_the_present_continuous_tense_of_verb._accordingly;_similarly/_likewise._although/_while_being_..|Sanskrit=iva"
-5	མེ་	me	NOUN	NOUN	_	#N/A	nsubjpass	_	Fire|Sanskrit=agni
-6	དག་	dag	DET	DET	_	#N/A	det	_	plural_particle|Sanskrit=agni
-7	ཞི་བ	zhi_ba	VERB.VerbType=VerbalNoun	VERB	VerbType=VerbalNoun	#N/A	xcomp	_	pacification;_peace;_be_peaceful;_be_calm|Sanskrit=śāmyati
-8	ར་	r	SCONJ	SCONJ	_	#N/A	mark	_	"Accusative,_Dative_&_Locative_particle|Sanskrit=śāmyati"
-9	འགྱུར	'gyur	VERB	VERB	_	#N/A	parataxis	_	"will_be,_become;_see_{'gyur_ba,_gyur_pa};_increase|Sanskrit=śāmyati"
-10	།	/	PUNCT	PUNCT	_	#N/A	punct	_	||
-11	།	/	PUNCT	PUNCT	_	#N/A	punct	_	||
-12	རྒྱ་	rgya	ADJ	ADJ	_	#N/A	amod	_	vast;_broad;_extensive;_great|Sanskrit=sāgara-
-13	མཚོ་	mtsho	NOUN	NOUN	_	#N/A	dobj	_	"ocean;_great_food_sea,_oceanic_[assembly/_host]|Sanskrit=sāgara-"
-14	དང་	dang	CONJ	CONJ	_	#N/A	cc	_	and;_with;_or
-15	ནི་	ni	PART	PART	_	#N/A	dep	_	[a_separative_particle;_non-case_particle_sets_off_subject_or_topic]
-16	མྱ་ངམ་	mya_ngam	NOUN	NOUN	_	#N/A	conj	_	a_fearful_desert|Sanskrit=durgi
-17	རྒལ་	rgal	VERB	VERB	_	#N/A	advcl	_	"cross_over_1)_See_{rgal_ba}_Syn_{'das,_'das_pa}_2)_a_ford_[in_river]|Sanskrit=pātaye"
-18	ན་	na	SCONJ	SCONJ	_	#N/A	mark	_	"(1)_to;_in;_as;_at_[accusative,_dative,_locative_particle]_(2)_if;_when_[non-case_usages]_(26)_be_sick;_be_ill;_in_pain_[for_the_verb,_na_ba]|Sanskrit=sacipātaye"
-19	ཡང༌	yang*	ADV	ADV	_	#N/A	advmod	_	again;_(1)_but;_even;_also;_*;_and_(2)_light_[as_in_not_heavy]{D3}|Sanskrit=saci
-20	།	/	PUNCT	PUNCT	_	#N/A	punct	_	-
-21	།	/	PUNCT	PUNCT	_	#N/A	punct	_	_
-22	ཀླུ་	klu	NOUN	NOUN	_	#N/A	nsubj	_	serpent;_snake;_dragon_(Sanskrit)_Naga.|Sanskrit=nnāga
-23	དང་	dang	CONJ	CONJ	_	#N/A	cc	_	and;_with;_or
-24	འབྱུང་པོ་	byung_po	NOUN	NOUN	_	#N/A	conj	_	ghost|Sanskrit=bhūta
-25	ལྷ་མ་ཡིན་	lha_ma_yin	NOUN	NOUN	_	#N/A	conj	_	demigod_(Sanskrit)_asura|Sanskrit=asura
-26	གནས་	gnas	VERB	VERB	_	#N/A	parataxis	_	abide|Sanskrit=ālaye
-27	སུ	su	SCONJ	PUNCT	_	#N/A	mark	_	"Accusative,_Dative_&_Locative_particle;_who|Sanskrit=ālaye"
-28	།	/	PUNCT	SCONJ	_	#N/A	punct	_	|
-29	།	/	PUNCT	PUNCT	_	#N/A	punct	_	_
-30	སྤྱན་རས་གཟིགས་	spyan_ras_gzigs	PROPN	PROPN	_	#N/A	nmod	_	Avalokiteshvara|Sanskrit=avalokiteśvaraṃ
-31	ཀྱི་	kyi	ADP	ADP	_	#N/A	case	_	genitive_particle_of;_by;_in;_which_[as_non-case_particle]_and;_but;_(semi-colon)|Sanskrit=avalokiteśvaraṃ
-32	དབང་པོ་	dbang_po	NOUN	NOUN	_	#N/A	nmod	_	sense_faculty;_sense_power;_faculty;_power;|Sanskrit=avalokiteśvaraṃ
-33	དྲན་	dran	VERB	VERB	_	0	root	_	"to_think_of,_remember,_recall,_be_mindful,_remind|Sanskrit=smarato"
-34	ན་	na	SCONJ	SCONJ	_	#N/A	mark	_	"(1)_to;_in;_as;_at_[accusative,_dative,_locative_particle]_(2)_if;_when_[non-case_usages]_(27)_be_sick;_be_ill;_in_pain_[for_the_verb,_na_ba]|Sanskrit=smarato"
-35	ནི	ni	PART	PART	_	#N/A	dep	_	[a_separative_particle;_non-case_particle_sets_off_subject_or_topic]
-36	།	/	PUNCT	PUNCT	_	#N/A	punct	_	_
-37	།	/	PUNCT	PUNCT	_	#N/A	punct	_	_
-38	ཆུ་	chu	NOUN	NOUN	_	#N/A	nmod	_	water|Sanskrit=jala-
-39	ཡི་	yi	ADP	ADP	_	#N/A	case	_	genitive_particle;_but;_and_[non-case_usage]|Sanskrit=jala-
-40	ནང་	nang	NOUN	NOUN	_	#N/A	nmod	_	"in,_within,_inside,_inner,_in_the_midst_of,_among,_interior,_internal,_inner_aspect;_inward(ly),_internally;_among;_home,_house,_abode,_[someone's]_place;_morning"
-41	དུ་	du	ADP	ADP	_	#N/A	case	_	"accusative,_adverbial_accusative,_dative,_and_locative_particle:_to;_in;_as;_-ly;_at;_many;_plural_into._how_many"
-42	ནམ་ཡང་	nam_yang	ADV	ADV	_	#N/A	advmod	_	ever;_with_negative_never_+_pos._-_always;_never_(used_with_neg._particle_+_verb_-_double_neg.);_1)_with_neg.]_never._2)_[with_positive]_always;_+_neg._-_never_(Sanskrit)_kadAci(t);_jAtu|Sanskrit=kadāci-
-43	མི་	mi	ADV	ADV	_	#N/A	neg	_	not;_man;_human|Sanskrit=na
-44	ནུབ་	nub	VERB	VERB	_	#N/A	parataxis	_	"1)_west,_evening._2)_vi._to_sink,_to_disappear,_to_decline,_wane,_subside,_night,_supper._{lag_len}_practice,_disappear,_evening_{gcig_na}_one._set;_ex_{nyi_ma_nub}_the_sun_has_set|Sanskrit=sīdati"
-45	བོ	bo	PART	PART	_	#N/A	dep	_	"boil_over;_spill;_spill_over;_1)_terminative_[w_final_b_[sometimes_nominative_or_masculine];_2)_spill._1)_husband,_householder;_2)_I|Sanskrit=sīdati"
-46	།	/	PUNCT	PUNCT	_	#N/A	punct	_	||
+1	།	/	PUNCT	PUNCT	_	7	punct	_	||
+2	རྒྱ་	rgya	ADJ	ADJ	_	3	amod	_	vast;_broad;_extensive;_great|Sanskrit=sāgara-
+3	མཚོ་	mtsho	NOUN	NOUN	_	7	dobj	_	"ocean;_great_food_sea,_oceanic_[assembly/_host]|Sanskrit=sāgara-"
+4	དང་	dang	CONJ	CONJ	_	3	cc	_	and;_with;_or
+5	ནི་	ni	PART	PART	_	3	dep	_	[a_separative_particle;_non-case_particle_sets_off_subject_or_topic]
+6	མྱ་ངམ་	mya_ngam	NOUN	NOUN	_	3	conj	_	a_fearful_desert|Sanskrit=durgi
+7	རྒལ་	rgal	VERB	VERB	_	23	advcl	_	"cross_over_1)_See_{rgal_ba}_Syn_{'das,_'das_pa}_2)_a_ford_[in_river]|Sanskrit=pātaye"
+8	ན་	na	SCONJ	SCONJ	_	7	mark	_	"(1)_to;_in;_as;_at_[accusative,_dative,_locative_particle]_(2)_if;_when_[non-case_usages]_(26)_be_sick;_be_ill;_in_pain_[for_the_verb,_na_ba]|Sanskrit=sacipātaye"
+9	ཡང༌	yang*	ADV	ADV	_	7	advmod	_	again;_(1)_but;_even;_also;_*;_and_(2)_light_[as_in_not_heavy]{D3}|Sanskrit=saci
+10	།	/	PUNCT	PUNCT	_	7	punct	_	-
+11	།	/	PUNCT	PUNCT	_	16	punct	_	_
+12	ཀླུ་	klu	NOUN	NOUN	_	16	nsubj	_	serpent;_snake;_dragon_(Sanskrit)_Naga.|Sanskrit=nnāga
+13	དང་	dang	CONJ	CONJ	_	12	cc	_	and;_with;_or
+14	འབྱུང་པོ་	byung_po	NOUN	NOUN	_	12	conj	_	ghost|Sanskrit=bhūta
+15	ལྷ་མ་ཡིན་	lha_ma_yin	NOUN	NOUN	_	12	conj	_	demigod_(Sanskrit)_asura|Sanskrit=asura
+16	གནས་	gnas	VERB	VERB	_	7	parataxis	_	abide|Sanskrit=ālaye
+17	སུ	su	SCONJ	PUNCT	_	17	mark	_	"Accusative,_Dative_&_Locative_particle;_who|Sanskrit=ālaye"
+18	།	/	PUNCT	SCONJ	_	17	punct	_	|
+19	།	/	PUNCT	PUNCT	_	23	punct	_	_
+20	སྤྱན་རས་གཟིགས་	spyan_ras_gzigs	PROPN	PROPN	_	22	nmod	_	Avalokiteshvara|Sanskrit=avalokiteśvaraṃ
+21	ཀྱི་	kyi	ADP	ADP	_	21	case	_	genitive_particle_of;_by;_in;_which_[as_non-case_particle]_and;_but;_(semi-colon)|Sanskrit=avalokiteśvaraṃ
+22	དབང་པོ་	dbang_po	NOUN	NOUN	_	23	nmod	_	sense_faculty;_sense_power;_faculty;_power;|Sanskrit=avalokiteśvaraṃ
+23	དྲན་	dran	VERB	VERB	_	0	root	_	"to_think_of,_remember,_recall,_be_mindful,_remind|Sanskrit=smarato"
+24	ན་	na	SCONJ	SCONJ	_	23	mark	_	"(1)_to;_in;_as;_at_[accusative,_dative,_locative_particle]_(2)_if;_when_[non-case_usages]_(27)_be_sick;_be_ill;_in_pain_[for_the_verb,_na_ba]|Sanskrit=smarato"
+25	ནི	ni	PART	PART	_	23	dep	_	[a_separative_particle;_non-case_particle_sets_off_subject_or_topic]
+26	།	/	PUNCT	PUNCT	_	23	punct	_	_
+27	།	/	PUNCT	PUNCT	_	34	punct	_	_
+28	ཆུ་	chu	NOUN	NOUN	_	30	nmod	_	water|Sanskrit=jala-
+29	ཡི་	yi	ADP	ADP	_	28	case	_	genitive_particle;_but;_and_[non-case_usage]|Sanskrit=jala-
+30	ནང་	nang	NOUN	NOUN	_	34	nmod	_	"in,_within,_inside,_inner,_in_the_midst_of,_among,_interior,_internal,_inner_aspect;_inward(ly),_internally;_among;_home,_house,_abode,_[someone's]_place;_morning"
+31	དུ་	du	ADP	ADP	_	30	case	_	"accusative,_adverbial_accusative,_dative,_and_locative_particle:_to;_in;_as;_-ly;_at;_many;_plural_into._how_many"
+32	ནམ་ཡང་	nam_yang	ADV	ADV	_	34	advmod	_	ever;_with_negative_never_+_pos._-_always;_never_(used_with_neg._particle_+_verb_-_double_neg.);_1)_with_neg.]_never._2)_[with_positive]_always;_+_neg._-_never_(Sanskrit)_kadAci(t);_jAtu|Sanskrit=kadāci-
+33	མི་	mi	ADV	ADV	_	34	neg	_	not;_man;_human|Sanskrit=na
+34	ནུབ་	nub	VERB	VERB	_	23	parataxis	_	"1)_west,_evening._2)_vi._to_sink,_to_disappear,_to_decline,_wane,_subside,_night,_supper._{lag_len}_practice,_disappear,_evening_{gcig_na}_one._set;_ex_{nyi_ma_nub}_the_sun_has_set|Sanskrit=sīdati"
+35	བོ	bo	PART	PART	_	34	dep	_	"boil_over;_spill;_spill_over;_1)_terminative_[w_final_b_[sometimes_nominative_or_masculine];_2)_spill._1)_husband,_householder;_2)_I|Sanskrit=sīdati"
+36	།	/	PUNCT	PUNCT	_	34	punct	_	||
 
 ~~~
 
@@ -2742,7 +2743,6 @@ Please click [here](https://twwspes.github.io/annodoc/saddharmapundarika_sutram)
 
 ~~~conllu
 1	།	/	PUNCT	PUNCT	_	29	punct	_	||
-
 2	ཤིན་ཏུ་	shin_tu	ADV	ADV	_	3	advmod	_	very;_exceedingly
 3	དགེ་བ	dge_ba	ADJ	ADJ	_	5	amod	_	virtue_(Sanskrit)_kalyANa._kuzala._zukla._Zubha|Sanskrit=śubha-
 4	འི་	'i	ADP	ADP	_	3	case	_	genitive_particle|Sanskrit=śubha-
@@ -3318,7 +3318,6 @@ Please click [here](https://twwspes.github.io/annodoc/saddharmapundarika_sutram)
 
 ~~~
 
-
 ~~~conllu
 1	།བཅོམ་ལྡན་འདས།	bcom_ldan_'das	PROPN	PROPN	_	37	vocative	_	Bhagavat|Sanskrit=bhagavan
 2	སུ་	su	PRON	PRON	_	14	nsubj	_	"Accusative,_Dative_&_Locative_particle;_who|Sanskrit=ye-"
@@ -3421,6 +3420,9 @@ Please click [here](https://twwspes.github.io/annodoc/saddharmapundarika_sutram)
 18	ཉི་ཤུ་རྩ་བཞི་པ	nyi_shu_rtsa_bzhi_pa	NUM.NumType=Ord	NUM	NumType=Ord	16	xcomp	_	twenty_four
 19	འོ	'o	PART	PART	_	18	dep	_	{pa}_+_finishing_particle
 20	།།	//	PUNCT	PUNCT	_	16	punct	_	-
+
+~~~
+
 
 
 

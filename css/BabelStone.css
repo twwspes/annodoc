@@ -294,7 +294,7 @@
 
 @font-face {
     font-family: "Tangut Yinchuan";
-    src: url("http://babelstone.co.uk/Fonts/WOFF/TangutYinchuan.woff");
+    src: local("Tangut Yinchuan"), url("http://babelstone.co.uk/Fonts/WOFF/TangutYinchuan.woff");
 	unicode-range: U+17000-187FF;
 }
 
@@ -779,6 +779,8 @@ td.sml3
 .khitan_small { font-family: 'BabelStone Khitan Small Glyphs'; }
 .khitan_small_vert { font-family: 'BabelStone Khitan Small Rotated'; }
 .khitan_seal { font-family: 'BabelStone Khitan Seal Glyphs'; }
+.TangutYinchuan { font-family: 'Tangut Yinchuan'; }
+.TangutWenhai { font-family: 'BabelStone Tangut Wenhai'; }
 .runic { font-family: 'Segoe UI Symbol', 'Junicode', 'Cardo', 'LeedsUni', 'Everson Mono', 'Code2000'; }
 .runic_as { font-family: 'BabelStone Runic Beowulf', 'BabelStone Runic Beorhtnoth', 'BabelStone Runic Berhtwald', 'BabelStone Runic Beorhtric', 'BabelStone Runic Beagnoth', 'BabelStone Runic Byrhtferth', 'Code2000'; }
 .beagnoth { font-family: 'BabelStone Runic Beagnoth'; }

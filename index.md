@@ -8,7 +8,17 @@ title: The Lotus Sutra saddharmapuṇḍarīka-nāma-mahāyāna-sūtra 妙法蓮
 <meta http-equiv="Content-Script-Type" content="text/javascript" />
 <link rel="stylesheet" type="text/css" href="../BabelStone.css" />
 <title>The Lotus Sutra saddharmapuṇḍarīka-nāma-mahāyāna-sūtra 妙法蓮華經 དམ་པའི་ཆོས་པད་མ་དཀར་པོ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། dam pa'i chos pad ma dkar po zhes bya ba theg pa chen po'i mdo</title>
+<style>
+@font-face {
+    font-family: Tangut Yinchuan;
+    src: url(http://babelstone.co.uk/Fonts/WOFF/TangutYinchuan.woff);
+	unicode-range: U+17000-187FF;
+}
 
+div {
+    font-family: Tangut Yinchuan;
+}
+</style>
 
 </head>
 

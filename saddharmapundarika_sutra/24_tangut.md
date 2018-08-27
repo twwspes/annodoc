@@ -7,7 +7,16 @@ title: The Lotus Sutra Chapter 25 Tangut
 <meta http-equiv="Content-Script-Type" content="text/javascript" />
 <link rel="stylesheet" type="text/css" href="../BabelStone.css" />
 <title>The Lotus Sutra Chapter 25 Tangut</title>
-
+<style>
+@font-face {
+    font-family: 'Tangut Yinchuan';
+    src: local('Tangut Yinchuan'), url("http://babelstone.co.uk/Fonts/WOFF/TangutYinchuan.woff");
+	unicode-range: U+17000-187FF;
+}
+div {
+    font-family: 'Tangut Yinchuan';
+}
+</style>
 
 </head>
 

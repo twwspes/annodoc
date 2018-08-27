@@ -34,7 +34,7 @@ Feel free to email me if you find any mistakes in these treebanks.
 All rights reserved.
 
 ~~~ conllu
-1	<p class='TangutYinchuan'>&#x17913;</p>	XHZD3228=thjo̱	ADJ	ADJ	_	2	amod	_	beautiful|ChiGloss=妙|ChiTreebank=妙|LMC=mjiaẁ_|OM=mjɛẁ_|EMC=mjiawʰ_|Pinyin=miào_
+1	&#x17913;	XHZD3228=thjo̱	ADJ	ADJ	_	2	amod	_	beautiful|ChiGloss=妙|ChiTreebank=妙|LMC=mjiaẁ_|OM=mjɛẁ_|EMC=mjiawʰ_|Pinyin=miào_
 2	XHZD0467=tsji̱r	XHZD0467=tsji̱r	NOUN	NOUN	_	5	nmod	_	method|ChiGloss=法|ChiTreebank=法|LMC=fjyap/faːp_|OM=fǎ_|EMC=puap_|Pinyin=fǎ_
 3	XHZD2467=wjạ	XHZD2467=wjạ	NOUN	NOUN	_	5	nmod	_	flower|ChiGloss=花、華|ChiTreebank=蓮華|LMC=lian_xɦwaː_|OM=ljɛń_xwá_|EMC=lɛn_ɣwaɨ/ɣwɛː_|Pinyin=lián_huá_
 4	XHZD4751=sej	XHZD4751=sej	ADJ	ADJ	_	3	amod	_	clean|ChiGloss=清靜|ChiTreebank=蓮華|LMC=lian_xɦwaː_|OM=ljɛń_xwá_|EMC=lɛn_ɣwaɨ/ɣwɛː_|Pinyin=lián_huá_

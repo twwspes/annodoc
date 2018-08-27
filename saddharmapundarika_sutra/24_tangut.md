@@ -7,17 +7,7 @@ title: The Lotus Sutra Chapter 25 Tangut
 <meta http-equiv="Content-Script-Type" content="text/javascript" />
 <link rel="stylesheet" type="text/css" href="../BabelStone.css" />
 <title>The Lotus Sutra Chapter 25 Tangut</title>
-<style>
-@font-face {
-    font-family: Tangut Yinchuan;
-    src: url(http://babelstone.co.uk/Fonts/WOFF/TangutYinchuan.woff);
-	unicode-range: U+17000-187FF;
-}
 
-div {
-    font-family: Tangut Yinchuan;
-}
-</style>
 
 </head>
 
@@ -41,7 +31,7 @@ XHZD: 《夏漢字典》Xia-Han zi dian [Tangut-Chinese Dictionary] by 李範文
 Bibliography:<br>
 Nishida Tatsuo (西田龍雄) (2005), <i>Tekst Sutry Lotosa na tangutskom (Si Si︠a︡) i︠a︡zyke : iz kollekt︠s︡ii Sankt-Peterburgskogo filiala Instituta Vostokovedenii︠a︡ Rossiĭskoĭ Akademii Nauk = Seikabun "Myōhō rengekyō" shashinban (Kumarajū yaku taishō ) = Xixia version of the Lotus sutra</i>. Tōkyō : Sōka Gakkai.<br>
 Pulleyblank, E. (1991). <i>Lexicon of reconstructed pronunciation in early Middle Chinese, late Middle Chinese, and early Mandarin.</i> Vancouver [B.C.: UBC Press.<br>
-《大正新脩大藏經》[http://21dzk.l.u-tokyo.ac.jp/SAT/] (http://21dzk.l.u-tokyo.ac.jp/SAT/)<br>
+《大正新脩大藏經》[http://21dzk.l.u-tokyo.ac.jp/SAT/](http://21dzk.l.u-tokyo.ac.jp/SAT/)<br>
 陳炳應《圖解本西夏文〈觀音經〉譯釋》，《敦煌研究》1985年第5期<br>
 李範文. (1997). 《夏漢字典》 (XHZD) 北京 : 中國社會科學出版社.<br>
 

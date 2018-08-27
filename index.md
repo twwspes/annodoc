@@ -1,13 +1,23 @@
 ---
 layout: entry
-title: The Lotus Sutra saddharmapuṇḍarīka-nāma-mahāyāna-sūtra 妙法蓮華經 དམ་པའི་ཆོས་པད་མ་དཀར་པོ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། dam pa'i chos pad ma dkar po zhes bya ba theg pa chen po'i mdo
+title: The Lotus Sutra saddharmapuṇḍarīka-nāma-mahāyāna-sūtra 妙法蓮華經 དམ་པའི་ཆོས་པད་མ་དཀར་པོ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། dam pa'i chos pad ma dkar po zhes bya ba theg pa chen po'i mdo &#x17913;&#x17E59;&#x1793B;&#x17457;&#x175B0;&#x176A9;
 ---
 
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta http-equiv="Content-Script-Type" content="text/javascript" />
 <link rel="stylesheet" type="text/css" href="../BabelStone.css" />
-<title>The Lotus Sutra saddharmapuṇḍarīka-nāma-mahāyāna-sūtra 妙法蓮華經 དམ་པའི་ཆོས་པད་མ་དཀར་པོ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། dam pa'i chos pad ma dkar po zhes bya ba theg pa chen po'i mdo</title>
+<title>The Lotus Sutra saddharmapuṇḍarīka-nāma-mahāyāna-sūtra 妙法蓮華經 དམ་པའི་ཆོས་པད་མ་དཀར་པོ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། dam pa'i chos pad ma dkar po zhes bya ba theg pa chen po'i mdo &#x17913;&#x17E59;&#x1793B;&#x17457;&#x175B0;&#x176A9;</title>
+<style>
+@font-face {
+    font-family: 'Tangut Yinchuan';
+    src: local('Tangut Yinchuan'), url("http://babelstone.co.uk/Fonts/WOFF/TangutYinchuan.woff");
+	unicode-range: U+17000-187FF;
+}
+div {
+    font-family: 'Tangut Yinchuan';
+}
+</style>
 </head>
 
 
@@ -31,6 +41,6 @@ The Lotus Sutra saddharmapuṇḍarīka-nāma-mahāyāna-sūtra 妙法蓮華經 
 
 
 © T.W. WONG 2018 <br>
-Email: spes (at) connect.hku.hk
+Email: [spes@connect.hku.hk](spes@connect.hku.hk)
 Feel free to email me if you find any mistakes in these treebanks.
 All rights reserved.

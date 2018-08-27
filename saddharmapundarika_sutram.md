@@ -9,7 +9,7 @@ title: The Lotus Sutra saddharmapuṇḍarīka-nāma-mahāyāna-sūtra 妙法蓮
 <title>The Lotus Sutra saddharmapuṇḍarīka-nāma-mahāyāna-sūtra 妙法蓮華經 དམ་པའི་ཆོས་པད་མ་དཀར་པོ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། dam pa'i chos pad ma dkar po zhes bya ba theg pa chen po'i mdo &#x17913;&#x17E59;&#x1793B;&#x17457;&#x175B0;&#x176A9;</title>
 </head>
 
-The Lotus Sutra saddharmapuṇḍarīka-nāma-mahāyāna-sūtra 妙法蓮華經 &#x17913;&#x17E59;&#x1793B;&#x17457;&#x175B0;&#x176A9; དམ་པའི་ཆོས་པད་མ་དཀར་པོ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། dam pa'i chos pad ma dkar po zhes bya ba theg pa chen po'i mdo<br><br>
+The Lotus Sutra saddharmapuṇḍarīka-nāma-mahāyāna-sūtra 妙法蓮華經<p class= 'Tangut Yinchuan'>&#x17913;&#x17E59;&#x1793B;&#x17457;&#x175B0;&#x176A9;<p> དམ་པའི་ཆོས་པད་མ་དཀར་པོ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། dam pa'i chos pad ma dkar po zhes bya ba theg pa chen po'i mdo<br><br>
 
 [24 samantamukhaparivarta (Sanskrit)](http://twwspes.github.io/annodoc/saddharmapundarika_sutra/24_sanskrit)
 

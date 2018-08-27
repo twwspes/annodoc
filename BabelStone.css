@@ -1,0 +1,889 @@
+@font-face
+{
+	font-family: "BabelStone Roman";
+	src: local("BabelStone Roman"), local("BabelStoneRoman"), url("Fonts/BabelStoneRoman.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Ogham";
+	src: local("BabelStone Ogham"), local("BabelStoneOgham"), url("Fonts/BabelStoneOghamR.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Ogham";
+	src: local("BabelStone Ogham Italic"), local("BabelStoneOgham-Italic"), url("Fonts/BabelStoneOghamI.woff") format("woff");
+	font-style: italic;
+}
+
+@font-face
+{
+	font-family: "BabelStone Ogham Bound";
+	src: local("BabelStone Ogham Bound"), local("BabelStoneOghamBound"), url("Fonts/BabelStoneOghamBoundR.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Ogham Bound";
+	src: local("BabelStone Ogham Bound Italic"), local("BabelStoneOghamBound-Italic"), url("Fonts/BabelStoneOghamBoundI.woff") format("woff");
+	font-style: italic;
+}
+
+@font-face
+{
+	font-family: "BabelStone Ogham Fixed";
+	src: local("BabelStone Ogham Fixed"), local("BabelStoneOghamFixed"), url("Fonts/BabelStoneOghamFixed.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Ogham Stemless";
+	src: local("BabelStone Ogham Stemless"), local("BabelStoneOghamStemless"), url("Fonts/BabelStoneOghamStemless.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Ogham Lithic";
+	src: local("BabelStone Ogham Lithic"), local("BabelStoneOghamLithic"), url("Fonts/BabelStoneOghamLithic.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Ogham Pictish";
+	src: local("BabelStone Ogham Pictish"), local("BabelStoneOghamPictish"), url("Fonts/BabelStoneOghamPictishR.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Ogham Pictish";
+	src: local("BabelStone Ogham Pictish Italic"), local("BabelStoneOghamPictish-Italic"), url("Fonts/BabelStoneOghamPictishI.woff") format("woff");
+	font-style: italic;
+}
+
+@font-face
+{
+	font-family: "BabelStone Ogham Pictish";
+	src: local("BabelStone Ogham Pictish Bold"), local("BabelStoneOghamPictish-Bold"), url("Fonts/BabelStoneOghamPictishB.woff") format("woff");
+	font-weight: bold;
+}
+
+@font-face
+{
+	font-family: "BabelStone Ogham Pictish";
+	src: local("BabelStone Ogham Pictish Bold Italic"), local("BabelStoneOghamPictish-BoldItalic"), url("Fonts/BabelStoneOghamPictishBI.woff") format("woff");
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face
+{
+	font-family: "BabelStone Ogham Special";
+	src: local("BabelStone Ogham Special"), local("BabelStoneOghamSpecial"), url("Fonts/BabelStoneOghamSpecial.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Runic Beagnoth";
+	src: local("BabelStone Runic Beagnoth"), local("BabelStoneRunicBeagnoth"), url("Fonts/BabelStoneRunicBeagnoth.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Runic Beorhtnoth";
+	src: local("BabelStone Runic Beorhtnoth"), local("BabelStoneRunicBeorhtnoth"), url("Fonts/BabelStoneRunicBeorhtnoth.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Runic Beorhtric";
+	src: local("BabelStone Runic Beorhtric"), local("BabelStoneRunicBeorhtric"), url("Fonts/BabelStoneRunicBeorhtric.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Runic Beowulf";
+	src: local("BabelStone Runic Beowulf"), local("BabelStoneRunicBeowulf"), url("Fonts/BabelStoneRunicBeowulf.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Runic Berhtwald";
+	src: local("BabelStone Runic Berhtwald"), local("BabelStoneRunicBerhtwald"), url("Fonts/BabelStoneRunicBerhtwald.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Runic Byrhtferth";
+	src: local("BabelStone Runic Byrhtferth"), local("BabelStoneRunicByrhtferth"), url("Fonts/BabelStoneRunicByrhtferth.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Moon Runes";
+	src: local("BabelStone Moon Runes"), local("BabelStoneMoonRunes"), url("Fonts/BabelStoneMoonRunes.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Phags-pa Book";
+	src: local("BabelStone Phags-pa Book"), local("BabelStonePhags-paBook"), url("Fonts/BabelStonePhagspaBook.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Phags-pa Tibetan A";
+	src: local("BabelStone Phags-pa Tibetan A"), local("BabelStonePhags-paTibetanA"), url("Fonts/BabelStonePhagspaTibetanA.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Phags-pa Tibetan B";
+	src: local("BabelStone Phags-pa Tibetan B"), local("BabelStonePhags-paTibetanB"), url("Fonts/BabelStonePhagspaTibetanB.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Phags-pa Seal";
+	src: local("BabelStone Phags-pa Seal"), local("BabelStonePhags-paSeal"), url("Fonts/BabelStonePhagspaSeal.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Irk Bitig";
+	src: local("BabelStone Irk Bitig"), local("BabelStoneIrkBitig"), url("Fonts/BabelStoneIrkBitig.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Tibetan sMar-chen";
+	src: local("BabelStone Tibetan sMar-chen"), local("BabelStoneTibetansMar-chen"), url("Fonts/BabelStoneTibetansMarchen.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Goblin";
+	src: local("BabelStone Goblin"), local("BabelStoneGoblin"), url("Fonts/BabelStoneGoblin.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Goblin Vertical";
+	src: local("BabelStone Goblin Vertical"), local("BabelStoneGoblinVertical"), url("Fonts/BabelStoneGoblinVertical.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Centaurian";
+	src: local("BabelStone Centaurian"), local("BabelStoneCentaurian"), url("Fonts/BabelStoneCentaurian.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Pigpen";
+	src: local("BabelStone Pigpen"), local("BabelStonePigpen"), url("Fonts/BabelStonePigpen.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Club Penguin";
+	src: local("BabelStone Club Penguin"), local("BabelStoneClubPenguin"), url("Fonts/BabelStoneClubPenguin.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Leeson";
+	src: local("BabelStone Leeson"), local("BabelStoneLeeson"), url("Fonts/BabelStoneLeeson.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Khitan Large Glyphs";
+	src: local("BabelStone Khitan Large Glyphs"), local("BabelStoneKhitanLargeGlyphs"), url("Fonts/BabelStoneKhitanLargeGlyphs.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Khitan Seal Glyphs";
+	src: local("BabelStone Khitan Seal Glyphs"), local("BabelStoneKhitanSealGlyphs"), url("Fonts/BabelStoneKhitanSealGlyphs.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Khitan Small Glyphs";
+	src: local("BabelStone Khitan Small Glyphs"), local("BabelStoneKhitanSmallGlyphs"), url("Fonts/BabelStoneKhitanSmallGlyphs.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Khitan Small Rotated";
+	src: local("BabelStone Khitan Small Rotated"), local("BabelStoneKhitanSmallRotated"), url("Fonts/BabelStoneKhitanSmallRotated.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Tangut Radicals";
+	src: local("BabelStone Tangut Radicals"), local("BabelStoneTangutRadicals"), url("Fonts/BabelStoneTangutRadicals.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Tangut Components";
+	src: local("BabelStone Tangut Components"), local("BabelStoneTangutComponents"), url("Fonts/BabelStoneTangutComponents.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Tangut WHYJ";
+	src: local("BabelStone Tangut WHYJ"), local("BabelStoneTangutWHYJ"), url("Fonts/BabelStoneTangutWHYJ.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Tangut WHYJIndex";
+	src: local("BabelStone Tangut WHYJIndex"), local("BabelStoneTangutWHYJIndex"), url("Fonts/BabelStoneTangutWHYJIndex.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Tangut Nishida1966";
+	src: local("BabelStone Tangut Nishida1966"), local("BabelStoneTangutNishida1966"), url("Fonts/BabelStoneTangutNishida1966.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Tangut HXM2004";
+	src: local("BabelStone Tangut HXM2004"), local("BabelStoneTangutHXM2004"), url("Fonts/BabelStoneTangutHXM2004.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Tangut KYC2006";
+	src: local("BabelStone Tangut KYC2006"), local("BabelStoneTangutKYC2006"), url("Fonts/BabelStoneTangut.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Tangut LFW1986";
+	src: local("BabelStone Tangut LFW1986"), local("BabelStoneTangutLFW1986"), url("Fonts/BabelStoneTangutLFW1986.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Tangut LFW1986X";
+	src: local("BabelStone Tangut LFW1986X"), local("BabelStoneTangutLFW1986X"), url("Fonts/BabelStoneTangutLFW1986X.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Tangut LFW1997";
+	src: local("BabelStone Tangut LFW1997"), local("BabelStoneTangutLFW1997"), url("Fonts/BabelStoneTangutLFW1997.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Han PUA";
+	src: local("BabelStone Han PUA"), local("BabelStoneHanPUA"), url("Fonts/BabelStoneHanPUA.woff") format("woff");
+}
+
+@font-face
+{
+	font-family: "BabelStone Flags";
+	src: local("BabelStone Flags"), local("BabelStoneFlags"), url("Fonts/BabelStoneFlags.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Tangut Yinchuan";
+    src: local("Tangut Yinchuan"), url("http://babelstone.co.uk/Fonts/WOFF/TangutYinchuan.woff");
+	unicode-range: U+17000-187FF;
+}
+
+body
+{
+	background: #ffffff;
+	width: 800px;
+	margin: 0 auto;
+	padding: 10px;
+	color: #333333;
+	font-family: Georgia, Serif;
+	font-size : 11pt;
+	text-align: justify;
+	line-height: 1.5em;
+}
+
+table
+{
+	background: #ffffff;
+	margin: 0;
+	color: #333333;
+	font-family: Georgia, Serif;
+	font-size : 11pt;
+	text-align: left;
+	line-height: 1.5em;
+}
+
+a: link
+{
+	color: #5588aa;
+	text-decoration: none;
+}
+
+a: visited
+{
+	color: #999999;
+	text-decoration: none;
+}
+
+a: hover
+{
+	color: #cc6600;
+	text-decoration: underline;
+}
+
+a img
+{
+	border-width: 0;
+}
+
+p
+{
+	margin: 0 0 .75em;
+	line-height: 1.5em;
+}
+
+caption
+{
+	font-weight: bold;
+	line-height: 2.0em;
+}
+
+blockquote
+{
+	margin: 1em 20px;
+}
+
+p.date
+{
+	margin: 1.5em 0 .75em;
+	font: normal normal 78% 'Trebuchet MS',Trebuchet,Arial,Verdana,Sans-serif;
+	line-height: 1.4em;
+	text-transform: uppercase;
+	letter-spacing: .2em;
+	color: #999999;
+}
+
+h1
+{
+	font-size: 16pt;
+	font-weight: bold;
+	text-align: center;
+	color: #999999;
+}
+
+h2
+{
+	margin: .25em 0 0;
+	padding: 0 0 4px;
+	font-size: 16pt;
+	font-weight: bold;
+	line-height: 1.4em;
+	color: #333333;
+}
+
+h3
+{
+	margin: .25em 0 0;
+	padding: 0 0 4px;
+	font-size: 14pt;
+	font-weight: bold;
+	line-height: 1.4em;
+	color: #333333;
+}
+
+h4
+{
+	margin: .25em 0 0;
+	padding: 0 0 4px;
+	font-size: 12pt;
+	font-weight: bold;
+	line-height: 1.4em;
+	color: #333333;
+}
+
+hr.page
+{
+	height: 5px;
+}
+
+hr.dotted
+{
+	border-top: dotted 1px;
+}
+
+hr.hdr
+{
+	align: center;
+	width: 50%;
+}
+
+hr.mid
+{
+	height: 5px;
+	background-color: gray;
+	color: gray;
+	border: 0;
+}
+
+hr.top
+{
+	height: 12px;
+	background-color: gray;
+	color: gray;
+	border: 0;
+}
+
+hr.toe
+{
+	height: 12px;
+	background-color: gray;
+	color: gray;
+	border: 0;
+}
+
+li
+{
+	margin-left: 0px;
+	line-height: 1.5em;
+}
+
+td
+{
+	text-align: left;
+	line-height: 1.5em;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+th
+{
+	text-align: left;
+	line-height: 1.5em;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-weight: bold;
+}
+
+table.solid
+{
+	line-height: 1.5em;
+	border-spacing: 0;
+	border-collapse: collapse;
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+}
+
+th.sm
+{
+	border-spacing: 0;
+	border-collapse: collapse;
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 1.5em;
+	page-break-inside: avoid;
+}
+
+td.sm
+{
+	border-spacing: 0;
+	border-collapse: collapse;
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 1.5em;
+	page-break-inside: avoid;
+}
+
+td.sm1
+{
+	border-spacing: 0;
+	border-collapse: collapse;
+	border-left-style: solid;
+	border-right-style: solid;
+	border-top-style: solid;
+	border-bottom-style: none;
+	border-color: black;
+	border-width: 1px;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 1.5em;
+	page-break-inside: avoid;
+}
+
+td.sm2
+{
+	border-spacing: 0;
+	border-collapse: collapse;
+	border-left-style: solid;
+	border-right-style: solid;
+	border-top-style: none;
+	border-bottom-style: solid;
+	border-color: black;
+	border-width: 1px;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 1.5em;
+	page-break-inside: avoid;
+}
+
+td.sm3
+{
+	border-spacing: 0;
+	border-collapse: collapse;
+	border-left-style: solid;
+	border-right-style: solid;
+	border-top-style: none;
+	border-bottom-style: none;
+	border-color: black;
+	border-width: 1px;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 1.5em;
+	page-break-inside: avoid;
+}
+
+th.sc
+{
+	border-spacing: 0;
+	border-collapse: collapse;
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+	text-align: center;
+	vertical-align: top;
+	line-height: 1.5em;
+	page-break-inside: avoid;
+}
+
+td.sc
+{
+	border-spacing: 0;
+	border-collapse: collapse;
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+	text-align: center;
+	vertical-align: top;
+	line-height: 1.5em;
+	page-break-inside: avoid;
+}
+
+th.sl
+{
+	border-spacing: 0;
+	border-collapse: collapse;
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+	text-align: left;
+	vertical-align: top;
+	line-height: 1.5em;
+	page-break-inside: avoid;
+}
+
+td.sl
+{
+	border-spacing: 0;
+	border-collapse: collapse;
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+	text-align: left;
+	vertical-align: top;
+	line-height: 1.5em;
+	page-break-inside: avoid;
+}
+
+td.sl1
+{
+	border-spacing: 0;
+	border-collapse: collapse;
+	border-left-style: solid;
+	border-right-style: solid;
+	border-top-style: solid;
+	border-bottom-style: none;
+	border-color: black;
+	border-width: 1px;
+	text-align: left;
+	vertical-align: top;
+	line-height: 1.5em;
+	page-break-inside: avoid;
+}
+
+td.sl2
+{
+	border-spacing: 0;
+	border-collapse: collapse;
+	border-left-style: solid;
+	border-right-style: solid;
+	border-top-style: none;
+	border-bottom-style: solid;
+	border-color: black;
+	border-width: 1px;
+	text-align: left;
+	vertical-align: top;
+	line-height: 1.5em;
+	page-break-inside: avoid;
+}
+
+td.sl3
+{
+	border-spacing: 0;
+	border-collapse: collapse;
+	border-left-style: solid;
+	border-right-style: solid;
+	border-top-style: none;
+	border-bottom-style: none;
+	border-color: black;
+	border-width: 1px;
+	text-align: left;
+	vertical-align: top;
+	line-height: 1.5em;
+	page-break-inside: avoid;
+}
+
+th.sml
+{
+	border-spacing: 0;
+	border-collapse: collapse;
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+	text-align: left;
+	vertical-align: middle;
+	line-height: 1.5em;
+	page-break-inside: avoid;
+}
+
+td.sml
+{
+	border-spacing: 0;
+	border-collapse: collapse;
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+	text-align: left;
+	vertical-align: middle;
+	line-height: 1.5em;
+	page-break-inside: avoid;
+}
+
+td.sml1
+{
+	border-spacing: 0;
+	border-collapse: collapse;
+	border-left-style: solid;
+	border-right-style: solid;
+	border-top-style: solid;
+	border-bottom-style: none;
+	border-color: black;
+	border-width: 1px;
+	text-align: left;
+	vertical-align: middle;
+	line-height: 1.5em;
+	page-break-inside: avoid;
+}
+
+td.sml2
+{
+	border-spacing: 0;
+	border-collapse: collapse;
+	border-left-style: solid;
+	border-right-style: solid;
+	border-top-style: none;
+	border-bottom-style: solid;
+	border-color: black;
+	border-width: 1px;
+	text-align: left;
+	vertical-align: middle;
+	line-height: 1.5em;
+	page-break-inside: avoid;
+}
+
+td.sml3
+{
+	border-spacing: 0;
+	border-collapse: collapse;
+	border-left-style: solid;
+	border-right-style: solid;
+	border-top-style: none;
+	border-bottom-style: none;
+	border-color: black;
+	border-width: 1px;
+	text-align: left;
+	vertical-align: middle;
+	line-height: 1.5em;
+	page-break-inside: avoid;
+}
+
+/* Custom Styles */
+.italics { font-style: italic; }
+.bold { font-weight: bold; }
+.normal { font-weight: normal; }
+.mono { font-family: 'Courier New', monospace; }
+.smallcaps { font-variant: small-caps; }
+.code2000 { font-family: 'Code2000'; }
+.code2001 { font-family: 'Code2001'; }
+.bs_han { font-family: 'BabelStone Han'; }
+.bs_phags { font-family: 'BabelStone Phags-pa Book'; }
+.bs_roman { font-family: 'BabelStone Roman'; }
+.pua { font-family: 'BabelStone Han PUA'; }
+.ipa { font-family: 'BabelStone Roman', 'Charis SIL', 'Doulos SIL', 'Arial Unicode MS', 'Lucida Sans Unicode', Serif; }
+.ipa12 { font-family: 'BabelStone Roman', 'Charis SIL', 'Doulos SIL', 'Arial Unicode MS', 'Lucida Sans Unicode', Serif; }
+.pinyin { font-family: 'BabelStone Roman', 'Charis SIL', 'Doulos SIL', 'Arial Unicode MS', 'Lucida Sans Unicode', Serif; }
+.medieval { font-family: 'BabelStone Roman', 'Andron Scriptor Web' 'Cardo', 'LeedsUni', 'Junicode', 'Everson Mono', Serif; }
+.mufi { font-family: 'BabelStone Roman', 'Andron Scriptor Web' 'Cardo', 'LeedsUni', 'Junicode', 'Everson Mono', Serif; }
+.blackletter { font-family: 'Babelstone Blackletter', 'Cloister Black', Serif; }
+.insular { font-family: 'Babelstone Insular', Serif; }
+.C18 { font-family: 'Junicode', 'Cardo', 'Cambria', 'Times New Roman', Serif; }
+.symbols { font-family: 'Segoe UI Symbol', 'Unicode Symbols', 'Code2000', 'Everson Mono', 'DejaVu Sans', Serif;}
+.tibetan { font-family: 'Microsoft Himalaya', 'Tibetan Machine Uni', 'Jomolhari', 'XTashi'; }
+.phags { font-family: 'BabelStone Phags-pa Book', 'Noto Sans Phags-pa', 'Microsoft PhagsPa'; }
+.phagspa { font-family: 'BabelStone Phags-pa Book', 'Noto Sans Phags-pa', 'Microsoft PhagsPa'; }
+.phags-tib { font-family: 'BabelStone Phags-pa Tibetan A', 'BabelStone Phags-pa Tibetan B'; }
+.phags_book { font-family: 'BabelStone Phags-pa Book'; }
+.phags_tib_a { font-family: 'BabelStone Phags-pa Tibetan A'; }
+.phags_tib_b { font-family: 'BabelStone Phags-pa Tibetan B'; }
+.phags-seal { font-family: 'BabelStone Phags-pa Seal'; }
+.phags_seal { font-family: 'BabelStone Phags-pa Seal'; }
+.mong { font-family: 'Mongolian Baiti'; }
+.jurchen { font-family: 'Jurchen'; }
+.whyj { font-family: 'BabelStone Tangut WHYJ'; }
+.whyjx { font-family: 'BabelStone Tangut WHYJIndex'; }
+.smar-chen { font-family: 'BabelStone Tibetan sMar-chen'; }
+.smar_chen { font-family: 'BabelStone Tibetan sMar-chen'; }
+.tangrads { font-family: 'Babelstone Tangut Components'; }
+.TangutRadicals { font-family: 'BabelStone Tangut Radicals'; font-size: 24pt; }
+.M202 { font-family: 'Mojikyo M202'; font-size: 24pt; }
+.M203 { font-family: 'Mojikyo M203'; font-size: 24pt; }
+.khitan_large { font-family: 'BabelStone Khitan Large Glyphs'; }
+.khitan_small { font-family: 'BabelStone Khitan Small Glyphs'; }
+.khitan_small_vert { font-family: 'BabelStone Khitan Small Rotated'; }
+.khitan_seal { font-family: 'BabelStone Khitan Seal Glyphs'; }
+.TangutYinchuan { font-family: 'Tangut Yinchuan'; }
+.TangutWenhai { font-family: 'BabelStone Tangut Wenhai'; }
+.runic { font-family: 'Segoe UI Symbol', 'Junicode', 'Cardo', 'LeedsUni', 'Everson Mono', 'Code2000'; }
+.runic_as { font-family: 'BabelStone Runic Beowulf', 'BabelStone Runic Beorhtnoth', 'BabelStone Runic Berhtwald', 'BabelStone Runic Beorhtric', 'BabelStone Runic Beagnoth', 'BabelStone Runic Byrhtferth', 'Code2000'; }
+.beagnoth { font-family: 'BabelStone Runic Beagnoth'; }
+.beorhtnoth { font-family: 'BabelStone Runic Beorhtnoth'; }
+.beorhtric { font-family: 'BabelStone Runic Beorhtric'; }
+.beowulf { font-family: 'BabelStone Runic Beowulf'; }
+.berhtwald { font-family: 'BabelStone Runic Berhtwald'; }
+.byrhtferth { font-family: 'BabelStone Runic Byrhtferth'; }
+.moon { font-family: 'BabelStone Moon Runes'; }
+.moon_runes { font-family: 'BabelStone Moon Runes'; }
+.ogham { font-family: 'BabelStone Ogham', 'Segoe UI Symbol', 'DejaVu Sans', 'Code2000'; }
+.ogham_bound { font-family: 'BabelStone Ogham Bound', 'Segoe UI Symbol', 'DejaVu Sans', 'Code2000'; }
+.ogham_fixed { font-family: 'BabelStone Ogham Fixed', 'Everson Mono'; }
+.ogham_stemless { font-family: 'BabelStone Ogham Stemless', 'Segoe UI Symbol', 'DejaVu Sans', 'Code2000'; }
+.ogham_lithic { font-family: 'BabelStone Ogham Lithic', 'Segoe UI Symbol', 'DejaVu Sans', 'Code2000'; }
+.ogham_pictish { font-family: 'BabelStone Ogham Pictish', 'Segoe UI Symbol', 'DejaVu Sans', 'Code2000'; }
+.ogham_special { font-family: 'BabelStone Ogham Special', 'Segoe UI Symbol', 'DejaVu Sans', 'Code2000'; }
+.irkbitig { font-family: 'BabelStone Irk Bitig', 'Orkun', 'Old Turkic', 'Quivira'; }
+.oldturkic { font-family: 'Orkun', 'Old Turkic', 'Quivira', 'BabelStone Irk Bitig'; }
+.tangut { font-family: 'N4325_2014'; }
+.centaurian { font-family: 'BabelStone Centaurian'; }
+.goblin { font-family: 'BabelStone Goblin'; }
+.goblin_vert { font-family: 'BabelStone Goblin Vertical'; }
+.pigpen { font-family: 'BabelStone Pigpen'; }
+.penguin { font-family: 'BabelStone Club Penguin'; }
+.leeson { font-family: 'BabelStone Leeson'; }
+.hang { margin-left: 2em; text-indent: -2em; }
+.border1 { border-style: solid; border-width: 1px; border-color: black; }
+.black { color : black; }
+.grey { color : gray; }
+.red { color : red; }
+.orange { color : orange; }
+.yellow { color : yellow; }
+.green { color : green; }
+.blue { color : blue; }
+.purple { color : purple; }
+.xsmall { font-size : 6pt; }
+.vsmall { font-size : 8pt; }
+.small { font-size : 10pt; }
+.smallish { font-size : 12pt; }
+.medium { font-size : 12pt; }
+.large { font-size : 14pt; }
+.med { font-size : 16pt; }
+.big { font-size : 20pt; }
+.vbig { font-size : 24pt; }
+.xbig { font-size : 24pt; }
+.xxbig { font-size : 36pt; }
+.huge { font-size : 48pt; }
+.xhuge { font-size : 60pt; }
+.xxhuge { font-size : 72pt; }
+.left { text-align: left; }
+.right { text-align: right; }
+.centre { text-align: center; }
+.centremid { text-align: center; vertical-align: middle; }
+.centretop { text-align: center; vertical-align: top; }
+.sub { vertical-align: sub; }
+.super { vertical-align: super; }
+.baseline { vertical-align: baseline; }
+.middle { vertical-align: middle; }
+.top { vertical-align: top; }
+.bottom { vertical-align: bottom; }
+.texttop { vertical-align: text-top; }
+.textbottom { vertical-align: text-bottom; }
+
+.vert
+{
+	layout-flow: vertical-ideographic;
+	-webkit-text-orientation: sideways-right;
+	-webkit-writing-mode: vertical-rl;
+	-moz-writing-mode: vertical-rl;
+	-ms-writing-mode: vertical-rl;
+	-o-writing-mode: vertical-rl;
+	writing-mode: vertical-rl;
+	vertical-align:top;
+}
+.tbrl
+{
+	layout-flow: vertical-ideographic;
+	-webkit-text-orientation: sideways-right;
+	-webkit-writing-mode: vertical-rl;
+	-moz-writing-mode: vertical-rl;
+	-ms-writing-mode: vertical-rl;
+	-o-writing-mode: vertical-rl;
+	writing-mode: vertical-rl;
+	vertical-align:top;
+}
+.tblr
+{
+	layout-flow: vertical-ideographic;
+	-webkit-text-orientation: sideways-right;
+	-webkit-writing-mode: vertical-lr;
+	-moz-writing-mode: vertical-lr;
+	-ms-writing-mode: vertical-lr;
+	-o-writing-mode: vertical-lr;
+	writing-mode: vertical-lr;
+	vertical-align:top;
+}
+
+.ltr { direction: ltr; unicode-bidi: bidi-override; }
+.rtl { direction: rtl; unicode-bidi: bidi-override; }
+.hidden { display: none; }
+
+a:link { color: blue; text-decoration:none; }
+a:visited { color: purple; text-decoration:none; }
+a:hover { color: orange; text-decoration:underline; }
+a:active { color: red; text-decoration:underline; } 

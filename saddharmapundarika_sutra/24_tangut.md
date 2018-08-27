@@ -1037,6 +1037,1132 @@ Please click [here](https://twwspes.github.io/annodoc/saddharmapundarika_sutram)
 
 ~~~
 
+~~~ conllu
+1	𗢳	XHZD2852=tha	PROPN	PROPN	_	8	nsubj	_	Buddha|ChiGloss=佛|ChiTreebank=佛|LMC=fɦjyt/fɦut_|OM=fɔ́/fú_|EMC=but_|Pinyin=fó/fú_
+2	𗉣	XHZD0797=phji	PROPN	PROPN	_	8	dobj	_	scheme|ChiGloss=意|ChiTreebank=無盡意|LMC=ʋjyə̆/ʋuə̆_tsɦiǹ_ʔì_|OM=ʋú_tsiǹ_jì_|EMC=muə̆_dzinʼ_ʔɨʰ/ʔiʰ_|Pinyin=wú_jìn_yì_
+3	𗅋	XHZD1918=mji	PROPN	PROPN	_	2	name	_	not|ChiGloss=無|ChiTreebank=無盡意|LMC=ʋjyə̆/ʋuə̆_tsɦiǹ_ʔì_|OM=ʋú_tsiǹ_jì_|EMC=muə̆_dzinʼ_ʔɨʰ/ʔiʰ_|Pinyin=wú_jìn_yì_
+4	𗋃	XHZD3075=sji	PROPN	PROPN	_	2	name	_	limit|ChiGloss=盡|ChiTreebank=無盡意|LMC=ʋjyə̆/ʋuə̆_tsɦiǹ_ʔì_|OM=ʋú_tsiǹ_jì_|EMC=muə̆_dzinʼ_ʔɨʰ/ʔiʰ_|Pinyin=wú_jìn_yì_
+5	𘋢	XHZD5906=tshjɨ_[ɲia]	NOUN	NOUN	_	2	appos	_	Bodhisattva|ChiGloss=薩|ChiTreebank=菩薩|LMC=pfiuə̆_sat_|OM=pʰú_sǎ_|EMC=bɔ_sat_|Pinyin=pú_sà_
+6	𗥤	XHZD3574=tsjij	NOUN	NOUN	_	5	compound	_	to_know;_bodhi|ChiGloss=悟、明、菩提|ChiTreebank=菩薩|LMC=pfiuə̆_sat_|OM=pʰú_sǎ_|EMC=bɔ_sat_|Pinyin=pú_sà_
+7	𗗙	XHZD1139=·jij	ADP	ADP	_	2	case	_	a_possessive_adverb;_towards|ChiGloss=之、人、對、(stressing_obj)____
+8	𘘥	XHZD1279=·jɨ_[jɨ]	VERB	VERB	_	0	root	_	to_say|ChiGloss=為、云、說、曰、白|ChiTreebank=告|LMC=kaẁ_|OM=kaẁ_|EMC=kawʰ_|Pinyin=gào_
+9	𗩴	XHZD2636=ne̱w	ADJ	ADJ	_	11	amod	_	good|ChiGloss=善|ChiTreebank=善|LMC=ʂɦiaǹ_|OM=ʂɛǹ_|EMC=dʑianʰ_|Pinyin=shàn_
+10	𗾖	XHZD2628=go̱r	NOUN	NOUN	_	11	nmod	_	man|ChiGloss=男|ChiTreebank=男|LMC=nam_|OM=naḿ_|EMC=nəm/nam_|Pinyin=nán_
+11	𘈷	XHZD1567=gji	NOUN	NOUN	_	22	vocative	_	son|ChiGloss=子|ChiTreebank=子|LMC=tsź̩_|OM=tsž̩_|EMC=tsɨʼ/tsiʼ_|Pinyin=zǐ_
+12	𗓱	XHZD4978=tjij	ADV	ADV	_	22	advmod	_	if|ChiGloss=若|ChiTreebank=若|LMC=riak_|OM=rɔ̀_|EMC=ɲɨak_|Pinyin=ruò_
+13	𗂧	XHZD2937=lhjịj	NOUN	NOUN	_	22	nmod	_	country|ChiGloss=國、土|ChiTreebank=國土|LMC=kuə̆k_tʰuə̆́_|OM=kuǰ_tʰǔ_|EMC=kwək_tʰɔʼ_|Pinyin=guó_tǔ_
+14	𘍞	XHZD5258=·iọ_[iọ]	NOUN	NOUN	_	13	compound	_	round|ChiGloss=園、圓、、圍、院、國、堂、郭、方、蓋、凡、家|ChiTreebank=國土|LMC=kuə̆k_tʰuə̆́_|OM=kuǰ_tʰǔ_|EMC=kwək_tʰɔʼ_|Pinyin=guó_tǔ_
+15	𗅁	XHZD2983=·u	ADP	ADP	_	13	case	_	inner|ChiGloss=中____
+16	𘋢	XHZD5906=tshjɨ_[ɲia]	NOUN	NOUN	_	22	nsubj	_	Bodhisattva|ChiGloss=薩|ChiTreebank=衆生|LMC=tʂɨwŋ̀_ʂaːjŋ_|OM=tʂuŋ̀_ʂəŋ_|EMC=tɕuwŋʰ_ʂiajŋ/ʂɛːjŋ_|Pinyin=zhòng_shēng_
+17	𗋐	XHZD2724=tśhju	NOUN	NOUN	_	16	compound	_	to_have;_all|ChiGloss=有|ChiTreebank=衆生|LMC=tʂɨwŋ̀_ʂaːjŋ_|OM=tʂuŋ̀_ʂəŋ_|EMC=tɕuwŋʰ_ʂiajŋ/ʂɛːjŋ_|Pinyin=zhòng_shēng_
+18	𗢳	XHZD2852=tha	NOUN	NOUN	_	19	nmod	_	Buddha|ChiGloss=佛|ChiTreebank=佛|LMC=fɦjyt/fɦut_|OM=fɔ́/fú_|EMC=but_|Pinyin=fó/fú_
+19	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	20	dobj	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+20	𗜓	XHZD4184=śja	VERB	VERB	_	22	advcl	_	to_appear|ChiGloss=現____
+21	𗳒	XHZD5880=ŋwu	SCONJ	SCONJ	_	20	mark	_	an_auxiliary_word|ChiGloss=以…____
+22	𗌗	XHZD3053=gju	VERB	VERB	_	8	parataxis	_	to_cross|ChiGloss=渡、度|ChiTreebank=得|LMC=təə̆k_|OM=təǰ_|EMC=tək_|Pinyin=dé/děi_
+23	𗰛	XHZD1640=dzjịj	VERB	VERB	_	22	compound	_	to_cross|ChiGloss=渡、過、超|ChiTreebank=度|LMC=tɦuə̆̀_|OM=tù_|EMC=dɔʰ_|Pinyin=dù_
+24	𗟭	XHZD1274=·wo_[wo]	AUX	AUX	_	22	aux	_	should|ChiGloss=應|ChiTreebank=應|LMC=ʔiăŋ_|OM=jiŋ_|EMC=ʔiŋ_|Pinyin=yīng_
+25	𗌭	XHZD1542=ku	ADV	ADV	_	40	advmod	_	so|ChiGloss=則、故____
+26	𗯨	XHZD4713=rjur	PROPN	PROPN	_	40	nsubj	_	world|ChiGloss=世|ChiTreebank=觀世音|LMC=kuan_ʂiaj̀_ʔim_|OM=kɔn_ʂì_jim_|EMC=kwan_ɕiajʰ_ʔim_|Pinyin=guān_shì_yīn_
+27	𗙏	XHZD1586=ɣiẹ	PROPN	PROPN	_	26	name	_	sound|ChiGloss=音|ChiTreebank=觀世音|LMC=kuan_ʂiaj̀_ʔim_|OM=kɔn_ʂì_jim_|EMC=kwan_ɕiajʰ_ʔim_|Pinyin=guān_shì_yīn_
+28	𘝯	XHZD5593=bio̱	PROPN	PROPN	_	26	name	_	to_look|ChiGloss=觀|ChiTreebank=觀世音|LMC=kuan_ʂiaj̀_ʔim_|OM=kɔn_ʂì_jim_|EMC=kwan_ɕiajʰ_ʔim_|Pinyin=guān_shì_yīn_
+29	𘋢	XHZD5906=tshjɨ_[ɲia]	NOUN	NOUN	_	26	appos	_	Bodhisattva|ChiGloss=薩|ChiTreebank=菩薩|LMC=pfiuə̆_sat_|OM=pʰú_sǎ_|EMC=bɔ_sat_|Pinyin=pú_sà_
+30	𗥤	XHZD3574=tsjij	NOUN	NOUN	_	29	compound	_	to_know;_bodhi|ChiGloss=悟、明、菩提|ChiTreebank=菩薩|LMC=pfiuə̆_sat_|OM=pʰú_sǎ_|EMC=bɔ_sat_|Pinyin=pú_sà_
+31	𗢳	XHZD2852=tha	NOUN	NOUN	_	32	nmod	_	Buddha|ChiGloss=佛|ChiTreebank=佛|LMC=fɦjyt/fɦut_|OM=fɔ́/fú_|EMC=but_|Pinyin=fó/fú_
+32	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	33	dobj	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+33	𗜓	XHZD4184=śja	VERB	VERB	_	40	advcl	_	to_appear|ChiGloss=現____
+34	𗳒	XHZD5880=ŋwu	SCONJ	SCONJ	_	33	mark	_	an_auxiliary_word|ChiGloss=以…____
+35	𗳱	XHZD0388=thja	PRON	PRON	_	39	iobj	_	that|ChiGloss=它、其、彼____
+36	𗗙	XHZD1139=·jij	ADP	ADP	_	35	case	_	a_possessive_adverb;_towards|ChiGloss=之、人、對、(stressing_obj)____
+37	𗣼	XHZD2748=tśhja	ADJ	ADJ	_	38	amod	_	morals|ChiGloss=德____
+38	𗹙	XHZD0467=tsji̱r	NOUN	NOUN	_	39	dobj	_	method|ChiGloss=法|ChiTreebank=法|LMC=fjyap/faːp_|OM=fǎ_|EMC=puap_|Pinyin=fǎ_
+39	𘎪	XHZD5612=tshji̱j_[tshjij]	VERB	VERB	_	40	xcomp	_	to_speak|ChiGloss=說|ChiTreebank=說|LMC=ʂyat_|OM=ʂwɛ_|EMC=ɕwiat_|Pinyin=shuō_
+40	𘃡	XHZD5113=·wji_[wji]	VERB	VERB	_	22	parataxis	_	to_do|ChiGloss=做、作、為、與|ChiTreebank=爲|LMC=yj_|OM=uj́_|EMC=wiə̆/wi_|Pinyin=wéi_
+41	。	。	PUNCT	PUNCT	_	8	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+42	𗓱	XHZD4978=tjij	ADV	ADV	_	47	advmod	_	if|ChiGloss=若____
+43	𘞪	XHZD5356=tjịj	NOUN	NOUN	_	45	nmod	_	only|ChiGloss=獨、一|ChiTreebank=辟支佛|LMC=pʰjiajk_tʂi_fɦjyt/fɦut_|OM=[pʰǐ]_tʂr̩_fɔ́/fú_|EMC=pʰjiajk_tɕiă/tɕi_but_|Pinyin=pì_zhī_fó/fú_
+44	𗫨	XHZD3613=dwewr	NOUN	NOUN	_	43	compound	_	to_enlighten|ChiGloss=覺|ChiTreebank=辟支佛|LMC=pʰjiajk_tʂi_fɦjyt/fɦut_|OM=[pʰǐ]_tʂr̩_fɔ́/fú_|EMC=pʰjiajk_tɕiă/tɕi_but_|Pinyin=pì_zhī_fó/fú_
+45	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	47	nmod	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+46	𗳒	XHZD5880=ŋwu	ADP	ADP	_	45	case	_	an_auxiliary_word|ChiGloss=以…|ChiTreebank=以|LMC=jí_|OM=jǐ_|EMC=jɨʼ/jiʼ_|Pinyin=yǐ_
+47	𗌗	XHZD3053=gju	VERB	VERB	_	0	root	_	to_cross|ChiGloss=渡、度|ChiTreebank=得|LMC=təə̆k_|OM=təǰ_|EMC=tək_|Pinyin=dé/děi_
+48	𗰛	XHZD1640=dzjịj	VERB	VERB	_	47	compound	_	to_cross|ChiGloss=渡、過、超|ChiTreebank=度|LMC=tɦuə̆̀_|OM=tù_|EMC=dɔʰ_|Pinyin=dù_
+49	𗟭	XHZD1274=·wo_[wo]	AUX	AUX	_	47	aux	_	should|ChiGloss=應|ChiTreebank=應|LMC=ʔiăŋ_|OM=jiŋ_|EMC=ʔiŋ_|Pinyin=yīng_
+50	𗌭	XHZD1542=ku	ADV	ADV	_	61	advmod	_	so|ChiGloss=則、故____
+51	𗙏	XHZD1586=ɣiẹ	NOUN	NOUN	_	53	nmod	_	sound|ChiGloss=音|ChiTreebank=辟支佛|LMC=pʰjiajk_tʂi_fɦjyt/fɦut_|OM=[pʰǐ]_tʂr̩_fɔ́/fú_|EMC=pʰjiajk_tɕiă/tɕi_but_|Pinyin=pì_zhī_fó/fú_
+52	𗫨	XHZD3613=dwewr	NOUN	NOUN	_	51	compound	_	to_enlighten|ChiGloss=覺|ChiTreebank=辟支佛|LMC=pʰjiajk_tʂi_fɦjyt/fɦut_|OM=[pʰǐ]_tʂr̩_fɔ́/fú_|EMC=pʰjiajk_tɕiă/tɕi_but_|Pinyin=pì_zhī_fó/fú_
+53	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	54	dobj	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+54	𗜓	XHZD4184=śja	VERB	VERB	_	61	advcl	_	to_appear|ChiGloss=現|ChiTreebank=現|LMC=xɦjiaǹ_|OM=xjɛǹ_|EMC=ɣɛnʰ_|Pinyin=xiàn_
+55	𗳒	XHZD5880=ŋwu	SCONJ	SCONJ	_	54	mark	_	an_auxiliary_word|ChiGloss=以…____
+56	𗳱	XHZD0388=thja	PRON	PRON	_	60	iobj	_	that|ChiGloss=它、其、彼____
+57	𗗙	XHZD1139=·jij	ADP	ADP	_	56	case	_	a_possessive_adverb;_towards|ChiGloss=之、人、對、(stressing_obj)____
+58	𗣼	XHZD2748=tśhja	ADJ	ADJ	_	59	amod	_	morals|ChiGloss=德____
+59	𗹙	XHZD0467=tsji̱r	NOUN	NOUN	_	60	dobj	_	method|ChiGloss=法|ChiTreebank=法|LMC=fjyap/faːp_|OM=fǎ_|EMC=puap_|Pinyin=fǎ_
+60	𘎪	XHZD5612=tshji̱j_[tshjij]	VERB	VERB	_	61	xcomp	_	to_speak|ChiGloss=說|ChiTreebank=說|LMC=ʂyat_|OM=ʂwɛ_|EMC=ɕwiat_|Pinyin=shuō_
+61	𘃡	XHZD5113=·wji_[wji]	VERB	VERB	_	47	parataxis	_	to_do|ChiGloss=做、作、為、與|ChiTreebank=爲|LMC=yj_|OM=uj́_|EMC=wiə̆/wi_|Pinyin=wéi_
+62	。	。	PUNCT	PUNCT	_	47	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+63	𗓱	XHZD4978=tjij	ADV	ADV	_	68	advmod	_	if|ChiGloss=若____
+64	𗙏	XHZD1586=ɣiẹ	NOUN	NOUN	_	66	nmod	_	sound|ChiGloss=音|ChiTreebank=聲聞|LMC=ʂiajŋ_ʋjyn/ʋun_|OM=ʂiŋ_ʋuń_|EMC=ɕiajŋ_mun_|Pinyin=shēng__wén_
+65	𗓁	XHZD5026=mji	NOUN	NOUN	_	64	compound	_	to_listen|ChiGloss=聽、彌(Transcription)|ChiTreebank=聲聞|LMC=ʂiajŋ_ʋjyn/ʋun_|OM=ʂiŋ_ʋuń_|EMC=ɕiajŋ_mun_|Pinyin=shēng__wén_
+66	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	68	nmod	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+67	𗳒	XHZD5880=ŋwu	ADP	ADP	_	66	case	_	an_auxiliary_word|ChiGloss=以…|ChiTreebank=以|LMC=jí_|OM=jǐ_|EMC=jɨʼ/jiʼ_|Pinyin=yǐ_
+68	𗌗	XHZD3053=gju	VERB	VERB	_	0	root	_	to_cross|ChiGloss=渡、度|ChiTreebank=得|LMC=təə̆k_|OM=təǰ_|EMC=tək_|Pinyin=dé/děi_
+69	𗰛	XHZD1640=dzjịj	VERB	VERB	_	68	compound	_	to_cross|ChiGloss=渡、過、超|ChiTreebank=度|LMC=tɦuə̆̀_|OM=tù_|EMC=dɔʰ_|Pinyin=dù_
+70	𗟭	XHZD1274=·wo_[wo]	AUX	AUX	_	68	aux	_	should|ChiGloss=應|ChiTreebank=應|LMC=ʔiăŋ_|OM=jiŋ_|EMC=ʔiŋ_|Pinyin=yīng_
+71	𗌭	XHZD1542=ku	ADV	ADV	_	82	advmod	_	so|ChiGloss=則、故____
+72	𗙏	XHZD1586=ɣiẹ	NOUN	NOUN	_	74	nmod	_	sound|ChiGloss=音|ChiTreebank=聲聞|LMC=ʂiajŋ_ʋjyn/ʋun_|OM=ʂiŋ_ʋuń_|EMC=ɕiajŋ_mun_|Pinyin=shēng__wén_
+73	𗓁	XHZD5026=mji	NOUN	NOUN	_	72	compound	_	to_listen|ChiGloss=聽、彌(Transcription)|ChiTreebank=聲聞|LMC=ʂiajŋ_ʋjyn/ʋun_|OM=ʂiŋ_ʋuń_|EMC=ɕiajŋ_mun_|Pinyin=shēng__wén_
+74	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	75	dobj	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+75	𗜓	XHZD4184=śja	VERB	VERB	_	82	advcl	_	to_appear|ChiGloss=現|ChiTreebank=現|LMC=xɦjiaǹ_|OM=xjɛǹ_|EMC=ɣɛnʰ_|Pinyin=xiàn_
+76	𗳒	XHZD5880=ŋwu	SCONJ	SCONJ	_	75	mark	_	an_auxiliary_word|ChiGloss=以…____
+77	𗳱	XHZD0388=thja	PRON	PRON	_	81	iobj	_	that|ChiGloss=它、其、彼____
+78	𗗙	XHZD1139=·jij	ADP	ADP	_	76	case	_	a_possessive_adverb;_towards|ChiGloss=之、人、對、(stressing_obj)____
+79	𗣼	XHZD2748=tśhja	ADJ	ADJ	_	80	amod	_	morals|ChiGloss=德____
+80	𗹙	XHZD0467=tsji̱r	NOUN	NOUN	_	81	dobj	_	method|ChiGloss=法|ChiTreebank=法|LMC=fjyap/faːp_|OM=fǎ_|EMC=puap_|Pinyin=fǎ_
+81	𘎪	XHZD5612=tshji̱j_[tshjij]	VERB	VERB	_	82	xcomp	_	to_speak|ChiGloss=說|ChiTreebank=說|LMC=ʂyat_|OM=ʂwɛ_|EMC=ɕwiat_|Pinyin=shuō_
+82	𘃡	XHZD5113=·wji_[wji]	VERB	VERB	_	69	parataxis	_	to_do|ChiGloss=做、作、為、與|ChiTreebank=爲|LMC=yj_|OM=uj́_|EMC=wiə̆/wi_|Pinyin=wéi_
+83	。	。	PUNCT	PUNCT	_	69	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+84	𗓱	XHZD4978=tjij	ADV	ADV	_	89	advmod	_	if|ChiGloss=若____
+85	𗏆	XHZD2052=xiwã	NOUN	NOUN	_	86	nmod	_	a_transliteration|ChiGloss=梵(Transcription)|ChiTreebank=梵王|LMC=fɦjyam̀/fɦaːm̀_yaŋ_|OM=[faǹ]_waŋ̀_|EMC=buamʰ_wuaŋ_|Pinyin=fān_wàng_
+86	𘟙	XHZD3830=njij	NOUN	NOUN	_	87	nmod	_	king|ChiGloss=王|ChiTreebank=梵王|LMC=fɦjyam̀/fɦaːm̀_yaŋ_|OM=[faǹ]_waŋ̀_|EMC=buamʰ_wuaŋ_|Pinyin=fān_wàng_
+87	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	89	nmod	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+88	𗳒	XHZD5880=ŋwu	ADP	ADP	_	87	case	_	an_auxiliary_word|ChiGloss=以…|ChiTreebank=以|LMC=jí_|OM=jǐ_|EMC=jɨʼ/jiʼ_|Pinyin=yǐ_
+89	𗌗	XHZD3053=gju	VERB	VERB	_	0	root	_	to_cross|ChiGloss=渡、度|ChiTreebank=得|LMC=təə̆k_|OM=təǰ_|EMC=tək_|Pinyin=dé/děi_
+90	𗰛	XHZD1640=dzjịj	VERB	VERB	_	89	compound	_	to_cross|ChiGloss=渡、過、超|ChiTreebank=度|LMC=tɦuə̆̀_|OM=tù_|EMC=dɔʰ_|Pinyin=dù_
+91	𗟭	XHZD1274=·wo_[wo]	AUX	AUX	_	89	aux	_	should|ChiGloss=應|ChiTreebank=應|LMC=ʔiăŋ_|OM=jiŋ_|EMC=ʔiŋ_|Pinyin=yīng_
+92	𗌭	XHZD1542=ku	ADV	ADV	_	103	advmod	_	so|ChiGloss=則、故____
+93	𗏆	XHZD2052=xiwã	NOUN	NOUN	_	94	nmod	_	a_transliteration|ChiGloss=梵(Transcription)|ChiTreebank=梵王|LMC=fɦjyam̀/fɦaːm̀_yaŋ_|OM=[faǹ]_waŋ̀_|EMC=buamʰ_wuaŋ_|Pinyin=fān_wàng_
+94	𘟙	XHZD3830=njij	NOUN	NOUN	_	95	nmod	_	king|ChiGloss=王|ChiTreebank=梵王|LMC=fɦjyam̀/fɦaːm̀_yaŋ_|OM=[faǹ]_waŋ̀_|EMC=buamʰ_wuaŋ_|Pinyin=fān_wàng_
+95	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	96	dobj	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+96	𗜓	XHZD4184=śja	VERB	VERB	_	103	advcl	_	to_appear|ChiGloss=現|ChiTreebank=現|LMC=xɦjiaǹ_|OM=xjɛǹ_|EMC=ɣɛnʰ_|Pinyin=xiàn_
+97	𗳒	XHZD5880=ŋwu	SCONJ	SCONJ	_	96	mark	_	an_auxiliary_word|ChiGloss=以…____
+98	𗳱	XHZD0388=thja	PRON	PRON	_	102	iobj	_	that|ChiGloss=它、其、彼____
+99	𗗙	XHZD1139=·jij	ADP	ADP	_	98	case	_	a_possessive_adverb;_towards|ChiGloss=之、人、對、(stressing_obj)____
+100	𗣼	XHZD2748=tśhja	ADJ	ADJ	_	101	amod	_	morals|ChiGloss=德____
+101	𗹙	XHZD0467=tsji̱r	NOUN	NOUN	_	102	dobj	_	method|ChiGloss=法|ChiTreebank=法|LMC=fjyap/faːp_|OM=fǎ_|EMC=puap_|Pinyin=fǎ_
+102	𘎪	XHZD5612=tshji̱j_[tshjij]	VERB	VERB	_	103	xcomp	_	to_speak|ChiGloss=說|ChiTreebank=說|LMC=ʂyat_|OM=ʂwɛ_|EMC=ɕwiat_|Pinyin=shuō_
+103	𘃡	XHZD5113=·wji_[wji]	VERB	VERB	_	89	parataxis	_	to_do|ChiGloss=做、作、為、與|ChiTreebank=爲|LMC=yj_|OM=uj́_|EMC=wiə̆/wi_|Pinyin=wéi_
+104	。	。	PUNCT	PUNCT	_	89	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+105	𗷅	XHZD4502=śjɨ	NOUN	NOUN	_	107	nmod	_	curtain|ChiGloss=釋(Transcription)|ChiTreebank=帝釋|LMC=tiaj̀_ʂiajk_|OM=tì_ʂǐ_|EMC=tɛjʰ_ɕiajk_|Pinyin=dì_shì_
+106	𘋨	XHZD5306=dzjwɨ	NOUN	NOUN	_	105	compound	_	emperor|ChiGloss=帝|ChiTreebank=帝釋|LMC=tiaj̀_ʂiajk_|OM=tì_ʂǐ_|EMC=tɛjʰ_ɕiajk_|Pinyin=dì_shì_
+107	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	109	nmod	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+108	𗳒	XHZD5880=ŋwu	ADP	ADP	_	107	case	_	an_auxiliary_word|ChiGloss=以…|ChiTreebank=以|LMC=jí_|OM=jǐ_|EMC=jɨʼ/jiʼ_|Pinyin=yǐ_
+109	𗌗	XHZD3053=gju	VERB	VERB	_	0	root	_	to_cross|ChiGloss=渡、度|ChiTreebank=得|LMC=təə̆k_|OM=təǰ_|EMC=tək_|Pinyin=dé/děi_
+110	𗰛	XHZD1640=dzjịj	VERB	VERB	_	109	compound	_	to_cross|ChiGloss=渡、過、超|ChiTreebank=度|LMC=tɦuə̆̀_|OM=tù_|EMC=dɔʰ_|Pinyin=dù_
+111	𗟭	XHZD1274=·wo_[wo]	AUX	AUX	_	109	aux	_	should|ChiGloss=應|ChiTreebank=應|LMC=ʔiăŋ_|OM=jiŋ_|EMC=ʔiŋ_|Pinyin=yīng_
+112	𗌭	XHZD1542=ku	ADV	ADV	_	123	advmod	_	so|ChiGloss=則、故____
+113	𗷅	XHZD4502=śjɨ	NOUN	NOUN	_	115	nmod	_	curtain|ChiGloss=釋(Transcription)|ChiTreebank=帝釋|LMC=tiaj̀_ʂiajk_|OM=tì_ʂǐ_|EMC=tɛjʰ_ɕiajk_|Pinyin=dì_shì_
+114	𘋨	XHZD5306=dzjwɨ	NOUN	NOUN	_	113	compound	_	emperor|ChiGloss=帝|ChiTreebank=帝釋|LMC=tiaj̀_ʂiajk_|OM=tì_ʂǐ_|EMC=tɛjʰ_ɕiajk_|Pinyin=dì_shì_
+115	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	116	dobj	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+116	𗜓	XHZD4184=śja	VERB	VERB	_	123	advcl	_	to_appear|ChiGloss=現|ChiTreebank=現|LMC=xɦjiaǹ_|OM=xjɛǹ_|EMC=ɣɛnʰ_|Pinyin=xiàn_
+117	𗳒	XHZD5880=ŋwu	SCONJ	SCONJ	_	116	mark	_	an_auxiliary_word|ChiGloss=以…____
+118	𗳱	XHZD0388=thja	PRON	PRON	_	122	iobj	_	that|ChiGloss=它、其、彼____
+119	𗗙	XHZD1139=·jij	ADP	ADP	_	118	case	_	a_possessive_adverb;_towards|ChiGloss=之、人、對、(stressing_obj)____
+120	𗣼	XHZD2748=tśhja	ADJ	ADJ	_	121	amod	_	morals|ChiGloss=德____
+121	𗹙	XHZD0467=tsji̱r	NOUN	NOUN	_	122	dobj	_	method|ChiGloss=法|ChiTreebank=法|LMC=fjyap/faːp_|OM=fǎ_|EMC=puap_|Pinyin=fǎ_
+122	𘎪	XHZD5612=tshji̱j_[tshjij]	VERB	VERB	_	123	xcomp	_	to_speak|ChiGloss=說|ChiTreebank=說|LMC=ʂyat_|OM=ʂwɛ_|EMC=ɕwiat_|Pinyin=shuō_
+123	𘃡	XHZD5113=·wji_[wji]	VERB	VERB	_	109	parataxis	_	to_do|ChiGloss=做、作、為、與|ChiTreebank=爲|LMC=yj_|OM=uj́_|EMC=wiə̆/wi_|Pinyin=wéi_
+124	。	。	PUNCT	PUNCT	_	109	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+
+~~~
+
+~~~ conllu
+1	𗓱	XHZD4978=tjij	ADV	ADV	_	7	advmod	_	if|ChiGloss=若____
+2	𘝵	XHZD1245=·jij	NOUN	NOUN	_	5	nmod	_	self|ChiGloss=自|ChiTreebank=自在天|LMC=tsɦz̩̀_tsɦaj̀_tʰian_|OM=tsz̩̀_tsaj̀_tʰjɛn_|EMC=dziʰ_dzəjʼ_tʰɛn_|Pinyin=zì_zài_tiān_
+3	𗦳	XHZD3266=dzju	NOUN	NOUN	_	2	compound	_	host|ChiGloss=在、主、將|ChiTreebank=自在天|LMC=tsɦz̩̀_tsɦaj̀_tʰian_|OM=tsz̩̀_tsaj̀_tʰjɛn_|EMC=dziʰ_dzəjʼ_tʰɛn_|Pinyin=zì_zài_tiān_
+4	𗹦	XHZD3513=mə	NOUN	NOUN	_	2	compound	_	sky|ChiGloss=天|ChiTreebank=自在天|LMC=tsɦz̩̀_tsɦaj̀_tʰian_|OM=tsz̩̀_tsaj̀_tʰjɛn_|EMC=dziʰ_dzəjʼ_tʰɛn_|Pinyin=zì_zài_tiān_
+5	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	7	nmod	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+6	𗳒	XHZD5880=ŋwu	ADP	ADP	_	5	case	_	an_auxiliary_word|ChiGloss=以…|ChiTreebank=以|LMC=jí_|OM=jǐ_|EMC=jɨʼ/jiʼ_|Pinyin=yǐ_
+7	𗌗	XHZD3053=gju	VERB	VERB	_	0	root	_	to_cross|ChiGloss=渡、度|ChiTreebank=得|LMC=təə̆k_|OM=təǰ_|EMC=tək_|Pinyin=dé/děi_
+8	𗰛	XHZD1640=dzjịj	VERB	VERB	_	7	compound	_	to_cross|ChiGloss=渡、過、超|ChiTreebank=度|LMC=tɦuə̆̀_|OM=tù_|EMC=dɔʰ_|Pinyin=dù_
+9	𗟭	XHZD1274=·wo_[wo]	AUX	AUX	_	7	aux	_	should|ChiGloss=應|ChiTreebank=應|LMC=ʔiăŋ_|OM=jiŋ_|EMC=ʔiŋ_|Pinyin=yīng_
+10	𗌭	XHZD1542=ku	ADV	ADV	_	22	advmod	_	so|ChiGloss=則、故____
+11	𘝵	XHZD1245=·jij	NOUN	NOUN	_	14	nmod	_	self|ChiGloss=自|ChiTreebank=自在天|LMC=tsɦz̩̀_tsɦaj̀_tʰian_|OM=tsz̩̀_tsaj̀_tʰjɛn_|EMC=dziʰ_dzəjʼ_tʰɛn_|Pinyin=zì_zài_tiān_
+12	𗦳	XHZD3266=dzju	NOUN	NOUN	_	11	compound	_	host|ChiGloss=在、主、將|ChiTreebank=自在天|LMC=tsɦz̩̀_tsɦaj̀_tʰian_|OM=tsz̩̀_tsaj̀_tʰjɛn_|EMC=dziʰ_dzəjʼ_tʰɛn_|Pinyin=zì_zài_tiān_
+13	𗹦	XHZD3513=mə	NOUN	NOUN	_	11	compound	_	sky|ChiGloss=天|ChiTreebank=自在天|LMC=tsɦz̩̀_tsɦaj̀_tʰian_|OM=tsz̩̀_tsaj̀_tʰjɛn_|EMC=dziʰ_dzəjʼ_tʰɛn_|Pinyin=zì_zài_tiān_
+14	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	15	dobj	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+15	𗜓	XHZD4184=śja	VERB	VERB	_	22	advcl	_	to_appear|ChiGloss=現|ChiTreebank=現|LMC=xɦjiaǹ_|OM=xjɛǹ_|EMC=ɣɛnʰ_|Pinyin=xiàn_
+16	𗳒	XHZD5880=ŋwu	SCONJ	SCONJ	_	15	mark	_	an_auxiliary_word|ChiGloss=以…____
+17	𗳱	XHZD0388=thja	PRON	PRON	_	21	iobj	_	that|ChiGloss=它、其、彼____
+18	𗗙	XHZD1139=·jij	ADP	ADP	_	17	case	_	a_possessive_adverb;_towards|ChiGloss=之、人、對、(stressing_obj)____
+19	𗣼	XHZD2748=tśhja	ADJ	ADJ	_	20	amod	_	morals|ChiGloss=德____
+20	𗹙	XHZD0467=tsji̱r	NOUN	NOUN	_	21	dobj	_	method|ChiGloss=法|ChiTreebank=法|LMC=fjyap/faːp_|OM=fǎ_|EMC=puap_|Pinyin=fǎ_
+21	𘎪	XHZD5612=tshji̱j_[tshjij]	VERB	VERB	_	22	xcomp	_	to_speak|ChiGloss=說|ChiTreebank=說|LMC=ʂyat_|OM=ʂwɛ_|EMC=ɕwiat_|Pinyin=shuō_
+22	𘃡	XHZD5113=·wji_[wji]	VERB	VERB	_	7	parataxis	_	to_do|ChiGloss=做、作、為、與|ChiTreebank=爲|LMC=yj_|OM=uj́_|EMC=wiə̆/wi_|Pinyin=wéi_
+23	。	。	PUNCT	PUNCT	_	7	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+
+~~~
+
+~~~ conllu
+1	𗓱	XHZD4978=tjij	ADV	ADV	_	8	advmod	_	if|ChiGloss=若____
+2	𘜶	XHZD4457=tha_[thạ]	ADJ	ADJ	_	3	amod	_	big|ChiGloss=大|ChiTreebank=大自在天|LMC=tɦà/tɦaj̀_tsɦz̩̀_tsɦaj̀_tʰian_|OM=tà/tɔ̀/taj̀_tsz̩̀_tsaj̀_tʰjɛn_|EMC=daʼ/dajʰ_dziʰ_dzəjʼ_tʰɛn_|Pinyin=dà_zì_zài_tiān_
+3	𘝵	XHZD1245=·jij	NOUN	NOUN	_	6	nmod	_	self|ChiGloss=自|ChiTreebank=大自在天|LMC=tɦà/tɦaj̀_tsɦz̩̀_tsɦaj̀_tʰian_|OM=tà/tɔ̀/taj̀_tsz̩̀_tsaj̀_tʰjɛn_|EMC=daʼ/dajʰ_dziʰ_dzəjʼ_tʰɛn_|Pinyin=dà_zì_zài_tiān_
+4	𗦳	XHZD3266=dzju	NOUN	NOUN	_	3	compound	_	host|ChiGloss=在、主、將|ChiTreebank=大自在天|LMC=tɦà/tɦaj̀_tsɦz̩̀_tsɦaj̀_tʰian_|OM=tà/tɔ̀/taj̀_tsz̩̀_tsaj̀_tʰjɛn_|EMC=daʼ/dajʰ_dziʰ_dzəjʼ_tʰɛn_|Pinyin=dà_zì_zài_tiān_
+5	𗹦	XHZD3513=mə	NOUN	NOUN	_	3	compound	_	sky|ChiGloss=天|ChiTreebank=大自在天|LMC=tɦà/tɦaj̀_tsɦz̩̀_tsɦaj̀_tʰian_|OM=tà/tɔ̀/taj̀_tsz̩̀_tsaj̀_tʰjɛn_|EMC=daʼ/dajʰ_dziʰ_dzəjʼ_tʰɛn_|Pinyin=dà_zì_zài_tiān_
+6	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	8	nmod	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+7	𗳒	XHZD5880=ŋwu	ADP	ADP	_	6	case	_	an_auxiliary_word|ChiGloss=以…|ChiTreebank=以|LMC=jí_|OM=jǐ_|EMC=jɨʼ/jiʼ_|Pinyin=yǐ_
+8	𗌗	XHZD3053=gju	VERB	VERB	_	0	root	_	to_cross|ChiGloss=渡、度|ChiTreebank=得|LMC=təə̆k_|OM=təǰ_|EMC=tək_|Pinyin=dé/děi_
+9	𗰛	XHZD1640=dzjịj	VERB	VERB	_	8	compound	_	to_cross|ChiGloss=渡、過、超|ChiTreebank=度|LMC=tɦuə̆̀_|OM=tù_|EMC=dɔʰ_|Pinyin=dù_
+10	𗟭	XHZD1274=·wo_[wo]	AUX	AUX	_	8	aux	_	should|ChiGloss=應|ChiTreebank=應|LMC=ʔiăŋ_|OM=jiŋ_|EMC=ʔiŋ_|Pinyin=yīng_
+11	𗌭	XHZD1542=ku	ADV	ADV	_	24	advmod	_	so|ChiGloss=則、故____
+12	𘜶	XHZD4457=tha_[thạ]	ADJ	ADJ	_	13	amod	_	big|ChiGloss=大|ChiTreebank=大自在天|LMC=tɦà/tɦaj̀_tsɦz̩̀_tsɦaj̀_tʰian_|OM=tà/tɔ̀/taj̀_tsz̩̀_tsaj̀_tʰjɛn_|EMC=daʼ/dajʰ_dziʰ_dzəjʼ_tʰɛn_|Pinyin=dà_zì_zài_tiān_
+13	𘝵	XHZD1245=·jij	NOUN	NOUN	_	16	nmod	_	self|ChiGloss=自|ChiTreebank=大自在天|LMC=tɦà/tɦaj̀_tsɦz̩̀_tsɦaj̀_tʰian_|OM=tà/tɔ̀/taj̀_tsz̩̀_tsaj̀_tʰjɛn_|EMC=daʼ/dajʰ_dziʰ_dzəjʼ_tʰɛn_|Pinyin=dà_zì_zài_tiān_
+14	𗦳	XHZD3266=dzju	NOUN	NOUN	_	13	compound	_	host|ChiGloss=在、主、將|ChiTreebank=大自在天|LMC=tɦà/tɦaj̀_tsɦz̩̀_tsɦaj̀_tʰian_|OM=tà/tɔ̀/taj̀_tsz̩̀_tsaj̀_tʰjɛn_|EMC=daʼ/dajʰ_dziʰ_dzəjʼ_tʰɛn_|Pinyin=dà_zì_zài_tiān_
+15	𗹦	XHZD3513=mə	NOUN	NOUN	_	13	compound	_	sky|ChiGloss=天|ChiTreebank=大自在天|LMC=tɦà/tɦaj̀_tsɦz̩̀_tsɦaj̀_tʰian_|OM=tà/tɔ̀/taj̀_tsz̩̀_tsaj̀_tʰjɛn_|EMC=daʼ/dajʰ_dziʰ_dzəjʼ_tʰɛn_|Pinyin=dà_zì_zài_tiān_
+16	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	16	dobj	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+17	𗜓	XHZD4184=śja	VERB	VERB	_	24	advcl	_	to_appear|ChiGloss=現|ChiTreebank=現|LMC=xɦjiaǹ_|OM=xjɛǹ_|EMC=ɣɛnʰ_|Pinyin=xiàn_
+18	𗳒	XHZD5880=ŋwu	SCONJ	SCONJ	_	16	mark	_	an_auxiliary_word|ChiGloss=以…____
+19	𗳱	XHZD0388=thja	PRON	PRON	_	23	iobj	_	that|ChiGloss=它、其、彼____
+20	𗗙	XHZD1139=·jij	ADP	ADP	_	19	case	_	a_possessive_adverb;_towards|ChiGloss=之、人、對、(stressing_obj)____
+21	𗣼	XHZD2748=tśhja	ADJ	ADJ	_	22	amod	_	morals|ChiGloss=德____
+22	𗹙	XHZD0467=tsji̱r	NOUN	NOUN	_	23	dobj	_	method|ChiGloss=法|ChiTreebank=法|LMC=fjyap/faːp_|OM=fǎ_|EMC=puap_|Pinyin=fǎ_
+23	𘎪	XHZD5612=tshji̱j_[tshjij]	VERB	VERB	_	24	xcomp	_	to_speak|ChiGloss=說|ChiTreebank=說|LMC=ʂyat_|OM=ʂwɛ_|EMC=ɕwiat_|Pinyin=shuō_
+24	𘃡	XHZD5113=·wji_[wji]	VERB	VERB	_	8	parataxis	_	to_do|ChiGloss=做、作、為、與|ChiTreebank=爲|LMC=yj_|OM=uj́_|EMC=wiə̆/wi_|Pinyin=wéi_
+25	。	。	PUNCT	PUNCT	_	8	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+
+~~~
+
+~~~ conllu
+1	𗓱	XHZD4978=tjij	ADV	ADV	_	8	advmod	_	if|ChiGloss=若____
+2	𗹦	XHZD3513=mə	NOUN	NOUN	_	6	nmod	_	sky|ChiGloss=天|ChiTreebank=天大將軍|LMC=tʰian_tɦà/tɦaj̀_tsiaŋ_kyn_|OM=tʰjɛn_tà/tɔ̀/taj̀_tsjaŋ̀_kyn_|EMC=tʰɛn_daʼ/dajʰ_tsɨaŋ_kun_|Pinyin=tiān_dà_jiàng_jūn_
+3	𘜶	XHZD4457=tha_[thạ]	NOUN	NOUN	_	2	compound	_	big|ChiGloss=大|ChiTreebank=天大將軍|LMC=tʰian_tɦà/tɦaj̀_tsiaŋ_kyn_|OM=tʰjɛn_tà/tɔ̀/taj̀_tsjaŋ̀_kyn_|EMC=tʰɛn_daʼ/dajʰ_tsɨaŋ_kun_|Pinyin=tiān_dà_jiàng_jūn_
+4	𘒏	XHZD1531=gja	NOUN	NOUN	_	2	compound	_	army|ChiGloss=軍|ChiTreebank=天大將軍|LMC=tʰian_tɦà/tɦaj̀_tsiaŋ_kyn_|OM=tʰjɛn_tà/tɔ̀/taj̀_tsjaŋ̀_kyn_|EMC=tʰɛn_daʼ/dajʰ_tsɨaŋ_kun_|Pinyin=tiān_dà_jiàng_jūn_
+5	𗦳	XHZD3266=dzju	NOUN	NOUN	_	2	compound	_	host|ChiGloss=在、主、將|ChiTreebank=天大將軍|LMC=tʰian_tɦà/tɦaj̀_tsiaŋ_kyn_|OM=tʰjɛn_tà/tɔ̀/taj̀_tsjaŋ̀_kyn_|EMC=tʰɛn_daʼ/dajʰ_tsɨaŋ_kun_|Pinyin=tiān_dà_jiàng_jūn_
+6	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	8	nmod	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+7	𗳒	XHZD5880=ŋwu	ADP	ADP	_	6	case	_	an_auxiliary_word|ChiGloss=以…|ChiTreebank=以|LMC=jí_|OM=jǐ_|EMC=jɨʼ/jiʼ_|Pinyin=yǐ_
+8	𗌗	XHZD3053=gju	VERB	VERB	_	0	root	_	to_cross|ChiGloss=渡、度|ChiTreebank=得|LMC=təə̆k_|OM=təǰ_|EMC=tək_|Pinyin=dé/děi_
+9	𗰛	XHZD1640=dzjịj	VERB	VERB	_	8	compound	_	to_cross|ChiGloss=渡、過、超|ChiTreebank=度|LMC=tɦuə̆̀_|OM=tù_|EMC=dɔʰ_|Pinyin=dù_
+10	𗟭	XHZD1274=·wo_[wo]	AUX	AUX	_	8	aux	_	should|ChiGloss=應|ChiTreebank=應|LMC=ʔiăŋ_|OM=jiŋ_|EMC=ʔiŋ_|Pinyin=yīng_
+11	𗌭	XHZD1542=ku	ADV	ADV	_	24	advmod	_	so|ChiGloss=則、故____
+12	𗹦	XHZD3513=mə	NOUN	NOUN	_	16	nmod	_	sky|ChiGloss=天|ChiTreebank=天大將軍|LMC=tʰian_tɦà/tɦaj̀_tsiaŋ_kyn_|OM=tʰjɛn_tà/tɔ̀/taj̀_tsjaŋ̀_kyn_|EMC=tʰɛn_daʼ/dajʰ_tsɨaŋ_kun_|Pinyin=tiān_dà_jiàng_jūn_
+13	𘜶	XHZD4457=tha_[thạ]	NOUN	NOUN	_	12	compound	_	big|ChiGloss=大|ChiTreebank=天大將軍|LMC=tʰian_tɦà/tɦaj̀_tsiaŋ_kyn_|OM=tʰjɛn_tà/tɔ̀/taj̀_tsjaŋ̀_kyn_|EMC=tʰɛn_daʼ/dajʰ_tsɨaŋ_kun_|Pinyin=tiān_dà_jiàng_jūn_
+14	𘒏	XHZD1531=gja	NOUN	NOUN	_	12	compound	_	army|ChiGloss=軍|ChiTreebank=天大將軍|LMC=tʰian_tɦà/tɦaj̀_tsiaŋ_kyn_|OM=tʰjɛn_tà/tɔ̀/taj̀_tsjaŋ̀_kyn_|EMC=tʰɛn_daʼ/dajʰ_tsɨaŋ_kun_|Pinyin=tiān_dà_jiàng_jūn_
+15	𗦳	XHZD3266=dzju	NOUN	NOUN	_	12	compound	_	host|ChiGloss=在、主、將|ChiTreebank=天大將軍|LMC=tʰian_tɦà/tɦaj̀_tsiaŋ_kyn_|OM=tʰjɛn_tà/tɔ̀/taj̀_tsjaŋ̀_kyn_|EMC=tʰɛn_daʼ/dajʰ_tsɨaŋ_kun_|Pinyin=tiān_dà_jiàng_jūn_
+16	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	17	dobj	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+17	𗜓	XHZD4184=śja	VERB	VERB	_	24	advcl	_	to_appear|ChiGloss=現|ChiTreebank=現|LMC=xɦjiaǹ_|OM=xjɛǹ_|EMC=ɣɛnʰ_|Pinyin=xiàn_
+18	𗳒	XHZD5880=ŋwu	SCONJ	SCONJ	_	17	mark	_	an_auxiliary_word|ChiGloss=以…____
+19	𗳱	XHZD0388=thja	PRON	PRON	_	23	iobj	_	that|ChiGloss=它、其、彼____
+20	𗗙	XHZD1139=·jij	ADP	ADP	_	19	case	_	a_possessive_adverb;_towards|ChiGloss=之、人、對、(stressing_obj)____
+21	𗣼	XHZD2748=tśhja	ADJ	ADJ	_	22	amod	_	morals|ChiGloss=德____
+22	𗹙	XHZD0467=tsji̱r	NOUN	NOUN	_	23	dobj	_	method|ChiGloss=法|ChiTreebank=法|LMC=fjyap/faːp_|OM=fǎ_|EMC=puap_|Pinyin=fǎ_
+23	𘎪	XHZD5612=tshji̱j_[tshjij]	VERB	VERB	_	24	xcomp	_	to_speak|ChiGloss=說|ChiTreebank=說|LMC=ʂyat_|OM=ʂwɛ_|EMC=ɕwiat_|Pinyin=shuō_
+24	𘃡	XHZD5113=·wji_[wji]	VERB	VERB	_	8	parataxis	_	to_do|ChiGloss=做、作、為、與|ChiTreebank=爲|LMC=yj_|OM=uj́_|EMC=wiə̆/wi_|Pinyin=wéi_
+25	。	。	PUNCT	PUNCT	_	8	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+
+~~~
+
+~~~ conllu
+1	𗓱	XHZD4978=tjij	ADV	ADV	_	7	advmod	_	if|ChiGloss=若____
+2	𗁡	XHZD2923=phji	NOUN	NOUN	_	5	nmod	_	dustpan|ChiGloss=毘(Transcription)|ChiTreebank=毘沙門|LMC=pɦji_ʂaː_mun_|OM=[pʰí]_ʂa_mun_|EMC=bji_ʂaɨ/ʂɛː_mən_|Pinyin=pí_shā_mén_
+3	𗉺	XHZD1987=śia	NOUN	NOUN	_	2	compound	_	sand|ChiGloss=沙(Transcription)|ChiTreebank=毘沙門|LMC=pɦji_ʂaː_mun_|OM=[pʰí]_ʂa_mun_|EMC=bji_ʂaɨ/ʂɛː_mən_|Pinyin=pí_shā_mén_
+4	𗐺	XHZD4794=mẽ	NOUN	NOUN	_	2	compound	_	door|ChiGloss=門(Transcription)|ChiTreebank=毘沙門|LMC=pɦji_ʂaː_mun_|OM=[pʰí]_ʂa_mun_|EMC=bji_ʂaɨ/ʂɛː_mən_|Pinyin=pí_shā_mén_
+5	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	7	nmod	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+6	𗳒	XHZD5880=ŋwu	ADP	ADP	_	5	case	_	an_auxiliary_word|ChiGloss=以…|ChiTreebank=以|LMC=jí_|OM=jǐ_|EMC=jɨʼ/jiʼ_|Pinyin=yǐ_
+7	𗌗	XHZD3053=gju	VERB	VERB	_	0	root	_	to_cross|ChiGloss=渡、度|ChiTreebank=得|LMC=təə̆k_|OM=təǰ_|EMC=tək_|Pinyin=dé/děi_
+8	𗰛	XHZD1640=dzjịj	VERB	VERB	_	7	compound	_	to_cross|ChiGloss=渡、過、超|ChiTreebank=度|LMC=tɦuə̆̀_|OM=tù_|EMC=dɔʰ_|Pinyin=dù_
+9	𗟭	XHZD1274=·wo_[wo]	AUX	AUX	_	7	aux	_	should|ChiGloss=應|ChiTreebank=應|LMC=ʔiăŋ_|OM=jiŋ_|EMC=ʔiŋ_|Pinyin=yīng_
+10	𗌭	XHZD1542=ku	ADV	ADV	_	22	advmod	_	so|ChiGloss=則、故____
+11	𗁡	XHZD2923=phji	NOUN	NOUN	_	14	nmod	_	dustpan|ChiGloss=毘(Transcription)|ChiTreebank=毘沙門|LMC=pɦji_ʂaː_mun_|OM=[pʰí]_ʂa_mun_|EMC=bji_ʂaɨ/ʂɛː_mən_|Pinyin=pí_shā_mén_
+12	𗉺	XHZD1987=śia	NOUN	NOUN	_	11	compound	_	sand|ChiGloss=沙(Transcription)|ChiTreebank=毘沙門|LMC=pɦji_ʂaː_mun_|OM=[pʰí]_ʂa_mun_|EMC=bji_ʂaɨ/ʂɛː_mən_|Pinyin=pí_shā_mén_
+13	𗐺	XHZD4794=mẽ	NOUN	NOUN	_	11	compound	_	door|ChiGloss=門(Transcription)|ChiTreebank=毘沙門|LMC=pɦji_ʂaː_mun_|OM=[pʰí]_ʂa_mun_|EMC=bji_ʂaɨ/ʂɛː_mən_|Pinyin=pí_shā_mén_
+14	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	15	dobj	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+15	𗜓	XHZD4184=śja	VERB	VERB	_	22	advcl	_	to_appear|ChiGloss=現|ChiTreebank=現|LMC=xɦjiaǹ_|OM=xjɛǹ_|EMC=ɣɛnʰ_|Pinyin=xiàn_
+16	𗳒	XHZD5880=ŋwu	SCONJ	SCONJ	_	15	mark	_	an_auxiliary_word|ChiGloss=以…____
+17	𗳱	XHZD0388=thja	PRON	PRON	_	21	iobj	_	that|ChiGloss=它、其、彼____
+18	𗗙	XHZD1139=·jij	ADP	ADP	_	17	case	_	a_possessive_adverb;_towards|ChiGloss=之、人、對、(stressing_obj)____
+19	𗣼	XHZD2748=tśhja	ADJ	ADJ	_	20	amod	_	morals|ChiGloss=德____
+20	𗹙	XHZD0467=tsji̱r	NOUN	NOUN	_	21	dobj	_	method|ChiGloss=法|ChiTreebank=法|LMC=fjyap/faːp_|OM=fǎ_|EMC=puap_|Pinyin=fǎ_
+21	𘎪	XHZD5612=tshji̱j_[tshjij]	VERB	VERB	_	22	xcomp	_	to_speak|ChiGloss=說|ChiTreebank=說|LMC=ʂyat_|OM=ʂwɛ_|EMC=ɕwiat_|Pinyin=shuō_
+22	𘃡	XHZD5113=·wji_[wji]	VERB	VERB	_	7	parataxis	_	to_do|ChiGloss=做、作、為、與|ChiTreebank=爲|LMC=yj_|OM=uj́_|EMC=wiə̆/wi_|Pinyin=wéi_
+23	。	。	PUNCT	PUNCT	_	7	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+
+~~~
+
+~~~ conllu
+1	𗓱	XHZD4978=tjij	ADV	ADV	_	6	advmod	_	if|ChiGloss=若____
+2	𘟙	XHZD3830=njij	NOUN	NOUN	_	4	nmod	_	king|ChiGloss=王|ChiTreebank=小王|LMC=siaẃ_yaŋ_|OM=sjɛw̌_waŋ̀_|EMC=siawʼ_wuaŋ_|Pinyin=xiǎo_wàng_
+3	𗣫	XHZD3798=tsəj	ADJ	ADJ	_	2	amod	_	small|ChiGloss=小|ChiTreebank=小王|LMC=siaẃ_yaŋ_|OM=sjɛw̌_waŋ̀_|EMC=siawʼ_wuaŋ_|Pinyin=xiǎo_wàng_
+4	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	6	nmod	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+5	𗳒	XHZD5880=ŋwu	ADP	ADP	_	4	case	_	an_auxiliary_word|ChiGloss=以…|ChiTreebank=以|LMC=jí_|OM=jǐ_|EMC=jɨʼ/jiʼ_|Pinyin=yǐ_
+6	𗌗	XHZD3053=gju	VERB	VERB	_	0	root	_	to_cross|ChiGloss=渡、度|ChiTreebank=得|LMC=təə̆k_|OM=təǰ_|EMC=tək_|Pinyin=dé/děi_
+7	𗰛	XHZD1640=dzjịj	VERB	VERB	_	6	compound	_	to_cross|ChiGloss=渡、過、超|ChiTreebank=度|LMC=tɦuə̆̀_|OM=tù_|EMC=dɔʰ_|Pinyin=dù_
+8	𗟭	XHZD1274=·wo_[wo]	AUX	AUX	_	6	aux	_	should|ChiGloss=應|ChiTreebank=應|LMC=ʔiăŋ_|OM=jiŋ_|EMC=ʔiŋ_|Pinyin=yīng_
+9	𗌭	XHZD1542=ku	ADV	ADV	_	20	advmod	_	so|ChiGloss=則、故____
+10	𘟙	XHZD3830=njij	NOUN	NOUN	_	12	nmod	_	king|ChiGloss=王|ChiTreebank=小王|LMC=siaẃ_yaŋ_|OM=sjɛw̌_waŋ̀_|EMC=siawʼ_wuaŋ_|Pinyin=xiǎo_wàng_
+11	𗣫	XHZD3798=tsəj	ADJ	ADJ	_	10	amod	_	small|ChiGloss=小|ChiTreebank=小王|LMC=siaẃ_yaŋ_|OM=sjɛw̌_waŋ̀_|EMC=siawʼ_wuaŋ_|Pinyin=xiǎo_wàng_
+12	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	13	dobj	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+13	𗜓	XHZD4184=śja	VERB	VERB	_	20	advcl	_	to_appear|ChiGloss=現|ChiTreebank=現|LMC=xɦjiaǹ_|OM=xjɛǹ_|EMC=ɣɛnʰ_|Pinyin=xiàn_
+14	𗳒	XHZD5880=ŋwu	SCONJ	SCONJ	_	13	mark	_	an_auxiliary_word|ChiGloss=以…____
+15	𗳱	XHZD0388=thja	PRON	PRON	_	19	iobj	_	that|ChiGloss=它、其、彼____
+16	𗗙	XHZD1139=·jij	ADP	ADP	_	15	case	_	a_possessive_adverb;_towards|ChiGloss=之、人、對、(stressing_obj)____
+17	𗣼	XHZD2748=tśhja	ADJ	ADJ	_	18	amod	_	morals|ChiGloss=德____
+18	𗹙	XHZD0467=tsji̱r	NOUN	NOUN	_	19	dobj	_	method|ChiGloss=法|ChiTreebank=法|LMC=fjyap/faːp_|OM=fǎ_|EMC=puap_|Pinyin=fǎ_
+19	𘎪	XHZD5612=tshji̱j_[tshjij]	VERB	VERB	_	20	xcomp	_	to_speak|ChiGloss=說|ChiTreebank=說|LMC=ʂyat_|OM=ʂwɛ_|EMC=ɕwiat_|Pinyin=shuō_
+20	𘃡	XHZD5113=·wji_[wji]	VERB	VERB	_	6	parataxis	_	to_do|ChiGloss=做、作、為、與|ChiTreebank=爲|LMC=yj_|OM=uj́_|EMC=wiə̆/wi_|Pinyin=wéi_
+21	。	。	PUNCT	PUNCT	_	6	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+
+~~~
+
+~~~ conllu
+1	𗓱	XHZD4978=tjij	ADV	ADV	_	6	advmod	_	if|ChiGloss=若____
+2	𗥗	XHZD3234=phə	NOUN	NOUN	_	4	nmod	_	man_of_wealth|ChiGloss=(富)翁|ChiTreebank=長者|LMC=trɦiaŋ_tsiá_|OM=tʂʰaŋ́_tʂiǎ_|EMC=drɨaŋ_tɕiaʼ_|Pinyin=cháng_zhě_
+3	𗁆	XHZD2381=bjịj	NOUN	NOUN	_	2	compound	_	man_of_wealth|ChiGloss=富(翁)|ChiTreebank=長者|LMC=trɦiaŋ_tsiá_|OM=tʂʰaŋ́_tʂiǎ_|EMC=drɨaŋ_tɕiaʼ_|Pinyin=cháng_zhě_
+4	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	6	nmod	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+5	𗳒	XHZD5880=ŋwu	ADP	ADP	_	4	case	_	an_auxiliary_word|ChiGloss=以…|ChiTreebank=以|LMC=jí_|OM=jǐ_|EMC=jɨʼ/jiʼ_|Pinyin=yǐ_
+6	𗌗	XHZD3053=gju	VERB	VERB	_	0	root	_	to_cross|ChiGloss=渡、度|ChiTreebank=得|LMC=təə̆k_|OM=təǰ_|EMC=tək_|Pinyin=dé/děi_
+7	𗰛	XHZD1640=dzjịj	VERB	VERB	_	6	compound	_	to_cross|ChiGloss=渡、過、超|ChiTreebank=度|LMC=tɦuə̆̀_|OM=tù_|EMC=dɔʰ_|Pinyin=dù_
+8	𗟭	XHZD1274=·wo_[wo]	AUX	AUX	_	6	aux	_	should|ChiGloss=應|ChiTreebank=應|LMC=ʔiăŋ_|OM=jiŋ_|EMC=ʔiŋ_|Pinyin=yīng_
+9	𗌭	XHZD1542=ku	ADV	ADV	_	20	advmod	_	so|ChiGloss=則、故____
+10	𗥗	XHZD3234=phə	NOUN	NOUN	_	12	nmod	_	man_of_wealth|ChiGloss=(富)翁|ChiTreebank=長者|LMC=trɦiaŋ_tsiá_|OM=tʂʰaŋ́_tʂiǎ_|EMC=drɨaŋ_tɕiaʼ_|Pinyin=cháng_zhě_
+11	𗁆	XHZD2381=bjịj	NOUN	NOUN	_	10	compound	_	man_of_wealth|ChiGloss=富(翁)|ChiTreebank=長者|LMC=trɦiaŋ_tsiá_|OM=tʂʰaŋ́_tʂiǎ_|EMC=drɨaŋ_tɕiaʼ_|Pinyin=cháng_zhě_
+12	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	13	dobj	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+13	𗜓	XHZD4184=śja	VERB	VERB	_	20	advcl	_	to_appear|ChiGloss=現|ChiTreebank=現|LMC=xɦjiaǹ_|OM=xjɛǹ_|EMC=ɣɛnʰ_|Pinyin=xiàn_
+14	𗳒	XHZD5880=ŋwu	SCONJ	SCONJ	_	13	mark	_	an_auxiliary_word|ChiGloss=以…____
+15	𗳱	XHZD0388=thja	PRON	PRON	_	19	iobj	_	that|ChiGloss=它、其、彼____
+16	𗗙	XHZD1139=·jij	ADP	ADP	_	15	case	_	a_possessive_adverb;_towards|ChiGloss=之、人、對、(stressing_obj)____
+17	𗣼	XHZD2748=tśhja	ADJ	ADJ	_	18	amod	_	morals|ChiGloss=德____
+18	𗹙	XHZD0467=tsji̱r	NOUN	NOUN	_	19	dobj	_	method|ChiGloss=法|ChiTreebank=法|LMC=fjyap/faːp_|OM=fǎ_|EMC=puap_|Pinyin=fǎ_
+19	𘎪	XHZD5612=tshji̱j_[tshjij]	VERB	VERB	_	20	xcomp	_	to_speak|ChiGloss=說|ChiTreebank=說|LMC=ʂyat_|OM=ʂwɛ_|EMC=ɕwiat_|Pinyin=shuō_
+20	𘃡	XHZD5113=·wji_[wji]	VERB	VERB	_	6	parataxis	_	to_do|ChiGloss=做、作、為、與|ChiTreebank=爲|LMC=yj_|OM=uj́_|EMC=wiə̆/wi_|Pinyin=wéi_
+21	。	。	PUNCT	PUNCT	_	6	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+
+~~~
+
+~~~ conllu
+1	𗓱	XHZD4978=tjij	ADV	ADV	_	6	advmod	_	if|ChiGloss=若____
+2	𘗠	XHZD5689=ɣa	NOUN	NOUN	_	4	nmod	_	door|ChiGloss=門|ChiTreebank=居士|LMC=kiə̆/kyə̆_ʂɦr̩_|OM=ky_ʂr̩̀_|EMC=kɨə̆_dʑɨʼ/dʑiʼ_|Pinyin=jū_shì_
+3	𗖻	XHZD1830=pjụ	NOUN	NOUN	_	2	compound	_	respect|ChiGloss=尊|ChiTreebank=居士|LMC=kiə̆/kyə̆_ʂɦr̩_|OM=ky_ʂr̩̀_|EMC=kɨə̆_dʑɨʼ/dʑiʼ_|Pinyin=jū_shì_
+4	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	6	nmod	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+5	𗳒	XHZD5880=ŋwu	ADP	ADP	_	4	case	_	an_auxiliary_word|ChiGloss=以…|ChiTreebank=以|LMC=jí_|OM=jǐ_|EMC=jɨʼ/jiʼ_|Pinyin=yǐ_
+6	𗌗	XHZD3053=gju	VERB	VERB	_	0	root	_	to_cross|ChiGloss=渡、度|ChiTreebank=得|LMC=təə̆k_|OM=təǰ_|EMC=tək_|Pinyin=dé/děi_
+7	𗰛	XHZD1640=dzjịj	VERB	VERB	_	6	compound	_	to_cross|ChiGloss=渡、過、超|ChiTreebank=度|LMC=tɦuə̆̀_|OM=tù_|EMC=dɔʰ_|Pinyin=dù_
+8	𗟭	XHZD1274=·wo_[wo]	AUX	AUX	_	6	aux	_	should|ChiGloss=應|ChiTreebank=應|LMC=ʔiăŋ_|OM=jiŋ_|EMC=ʔiŋ_|Pinyin=yīng_
+9	𗌭	XHZD1542=ku	ADV	ADV	_	20	advmod	_	so|ChiGloss=則、故____
+10	𘗠	XHZD5689=ɣa	NOUN	NOUN	_	12	nmod	_	door|ChiGloss=門|ChiTreebank=居士|LMC=kiə̆/kyə̆_ʂɦr̩_|OM=ky_ʂr̩̀_|EMC=kɨə̆_dʑɨʼ/dʑiʼ_|Pinyin=jū_shì_
+11	𗖻	XHZD1830=pjụ	NOUN	NOUN	_	10	compound	_	respect|ChiGloss=尊|ChiTreebank=居士|LMC=kiə̆/kyə̆_ʂɦr̩_|OM=ky_ʂr̩̀_|EMC=kɨə̆_dʑɨʼ/dʑiʼ_|Pinyin=jū_shì_
+12	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	13	dobj	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+13	𗜓	XHZD4184=śja	VERB	VERB	_	20	advcl	_	to_appear|ChiGloss=現|ChiTreebank=現|LMC=xɦjiaǹ_|OM=xjɛǹ_|EMC=ɣɛnʰ_|Pinyin=xiàn_
+14	𗳒	XHZD5880=ŋwu	SCONJ	SCONJ	_	13	mark	_	an_auxiliary_word|ChiGloss=以…____
+15	𗳱	XHZD0388=thja	PRON	PRON	_	19	iobj	_	that|ChiGloss=它、其、彼____
+16	𗗙	XHZD1139=·jij	ADP	ADP	_	15	case	_	a_possessive_adverb;_towards|ChiGloss=之、人、對、(stressing_obj)____
+17	𗣼	XHZD2748=tśhja	ADJ	ADJ	_	18	amod	_	morals|ChiGloss=德____
+18	𗹙	XHZD0467=tsji̱r	NOUN	NOUN	_	19	dobj	_	method|ChiGloss=法|ChiTreebank=法|LMC=fjyap/faːp_|OM=fǎ_|EMC=puap_|Pinyin=fǎ_
+19	𘎪	XHZD5612=tshji̱j_[tshjij]	VERB	VERB	_	20	xcomp	_	to_speak|ChiGloss=說|ChiTreebank=說|LMC=ʂyat_|OM=ʂwɛ_|EMC=ɕwiat_|Pinyin=shuō_
+20	𘃡	XHZD5113=·wji_[wji]	VERB	VERB	_	6	parataxis	_	to_do|ChiGloss=做、作、為、與|ChiTreebank=爲|LMC=yj_|OM=uj́_|EMC=wiə̆/wi_|Pinyin=wéi_
+21	。	。	PUNCT	PUNCT	_	6	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+
+~~~
+
+~~~ conllu
+1	𗓱	XHZD4978=tjij	ADV	ADV	_	6	advmod	_	if|ChiGloss=若____
+2	𗂸	XHZD3508=bji	NOUN	NOUN	_	4	nmod	_	prime_minister|ChiGloss=臣|ChiTreebank=宰官|LMC=tsaj́_kuan_|OM=tsaǰ_kɔn_|EMC=tsəjʼ_kwan_|Pinyin=zǎi_guān_
+3	𗂅	XHZD2384=mjijr	NOUN	NOUN	_	2	compound	_	prime_minister|ChiGloss=相|ChiTreebank=宰官|LMC=tsaj́_kuan_|OM=tsaǰ_kɔn_|EMC=tsəjʼ_kwan_|Pinyin=zǎi_guān_
+4	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	6	nmod	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+5	𗳒	XHZD5880=ŋwu	ADP	ADP	_	4	case	_	an_auxiliary_word|ChiGloss=以…|ChiTreebank=以|LMC=jí_|OM=jǐ_|EMC=jɨʼ/jiʼ_|Pinyin=yǐ_
+6	𗌗	XHZD3053=gju	VERB	VERB	_	0	root	_	to_cross|ChiGloss=渡、度|ChiTreebank=得|LMC=təə̆k_|OM=təǰ_|EMC=tək_|Pinyin=dé/děi_
+7	𗰛	XHZD1640=dzjịj	VERB	VERB	_	6	compound	_	to_cross|ChiGloss=渡、過、超|ChiTreebank=度|LMC=tɦuə̆̀_|OM=tù_|EMC=dɔʰ_|Pinyin=dù_
+8	𗟭	XHZD1274=·wo_[wo]	AUX	AUX	_	6	aux	_	should|ChiGloss=應|ChiTreebank=應|LMC=ʔiăŋ_|OM=jiŋ_|EMC=ʔiŋ_|Pinyin=yīng_
+9	𗌭	XHZD1542=ku	ADV	ADV	_	20	advmod	_	so|ChiGloss=則、故____
+10	𗂸	XHZD3508=bji	NOUN	NOUN	_	12	nmod	_	prime_minister|ChiGloss=臣|ChiTreebank=宰官|LMC=tsaj́_kuan_|OM=tsaǰ_kɔn_|EMC=tsəjʼ_kwan_|Pinyin=zǎi_guān_
+11	𗂅	XHZD2384=mjijr	NOUN	NOUN	_	10	compound	_	prime_minister|ChiGloss=相|ChiTreebank=宰官|LMC=tsaj́_kuan_|OM=tsaǰ_kɔn_|EMC=tsəjʼ_kwan_|Pinyin=zǎi_guān_
+12	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	13	dobj	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+13	𗜓	XHZD4184=śja	VERB	VERB	_	20	advcl	_	to_appear|ChiGloss=現|ChiTreebank=現|LMC=xɦjiaǹ_|OM=xjɛǹ_|EMC=ɣɛnʰ_|Pinyin=xiàn_
+14	𗳒	XHZD5880=ŋwu	SCONJ	SCONJ	_	13	mark	_	an_auxiliary_word|ChiGloss=以…____
+15	𗳱	XHZD0388=thja	PRON	PRON	_	19	iobj	_	that|ChiGloss=它、其、彼____
+16	𗗙	XHZD1139=·jij	ADP	ADP	_	15	case	_	a_possessive_adverb;_towards|ChiGloss=之、人、對、(stressing_obj)____
+17	𗣼	XHZD2748=tśhja	ADJ	ADJ	_	18	amod	_	morals|ChiGloss=德____
+18	𗹙	XHZD0467=tsji̱r	NOUN	NOUN	_	19	dobj	_	method|ChiGloss=法|ChiTreebank=法|LMC=fjyap/faːp_|OM=fǎ_|EMC=puap_|Pinyin=fǎ_
+19	𘎪	XHZD5612=tshji̱j_[tshjij]	VERB	VERB	_	20	xcomp	_	to_speak|ChiGloss=說|ChiTreebank=說|LMC=ʂyat_|OM=ʂwɛ_|EMC=ɕwiat_|Pinyin=shuō_
+20	𘃡	XHZD5113=·wji_[wji]	VERB	VERB	_	6	parataxis	_	to_do|ChiGloss=做、作、為、與|ChiTreebank=爲|LMC=yj_|OM=uj́_|EMC=wiə̆/wi_|Pinyin=wéi_
+21	。	。	PUNCT	PUNCT	_	6	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+
+~~~
+
+~~~ conllu
+1	𗓱	XHZD4978=tjij	ADV	ADV	_	7	advmod	_	if|ChiGloss=若____
+2	𗣧	XHZD2640=pho	NOUN	NOUN	_	5	nmod	_	thin|ChiGloss=波、婆、摩、訶(Transcription)|ChiTreebank=婆羅門|LMC=pɦua_la_mun_|OM=pʰɔ́_lɔ́_mun_|EMC=ba_la_mən_|Pinyin=pó_luó_mén_
+3	𗓽	XHZD4710=lo	NOUN	NOUN	_	2	compound	_	a_transliteration|ChiGloss=羅(Transcription)|ChiTreebank=婆羅門|LMC=pɦua_la_mun_|OM=pʰɔ́_lɔ́_mun_|EMC=ba_la_mən_|Pinyin=pó_luó_mén_
+4	𗐺	XHZD4794=mẽ	NOUN	NOUN	_	2	compound	_	door|ChiGloss=門(Transcription)|ChiTreebank=婆羅門|LMC=pɦua_la_mun_|OM=pʰɔ́_lɔ́_mun_|EMC=ba_la_mən_|Pinyin=pó_luó_mén_
+5	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	7	nmod	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+6	𗳒	XHZD5880=ŋwu	ADP	ADP	_	5	case	_	an_auxiliary_word|ChiGloss=以…|ChiTreebank=以|LMC=jí_|OM=jǐ_|EMC=jɨʼ/jiʼ_|Pinyin=yǐ_
+7	𗌗	XHZD3053=gju	VERB	VERB	_	0	root	_	to_cross|ChiGloss=渡、度|ChiTreebank=得|LMC=təə̆k_|OM=təǰ_|EMC=tək_|Pinyin=dé/děi_
+8	𗰛	XHZD1640=dzjịj	VERB	VERB	_	7	compound	_	to_cross|ChiGloss=渡、過、超|ChiTreebank=度|LMC=tɦuə̆̀_|OM=tù_|EMC=dɔʰ_|Pinyin=dù_
+9	𗟭	XHZD1274=·wo_[wo]	AUX	AUX	_	7	aux	_	should|ChiGloss=應|ChiTreebank=應|LMC=ʔiăŋ_|OM=jiŋ_|EMC=ʔiŋ_|Pinyin=yīng_
+10	𗌭	XHZD1542=ku	ADV	ADV	_	22	advmod	_	so|ChiGloss=則、故____
+11	𗣧	XHZD2640=pho	NOUN	NOUN	_	14	nmod	_	thin|ChiGloss=波、婆、摩、訶(Transcription)|ChiTreebank=婆羅門|LMC=pɦua_la_mun_|OM=pʰɔ́_lɔ́_mun_|EMC=ba_la_mən_|Pinyin=pó_luó_mén_
+12	𗓽	XHZD4710=lo	NOUN	NOUN	_	11	compound	_	a_transliteration|ChiGloss=羅(Transcription)|ChiTreebank=婆羅門|LMC=pɦua_la_mun_|OM=pʰɔ́_lɔ́_mun_|EMC=ba_la_mən_|Pinyin=pó_luó_mén_
+13	𗐺	XHZD4794=mẽ	NOUN	NOUN	_	11	compound	_	door|ChiGloss=門(Transcription)|ChiTreebank=婆羅門|LMC=pɦua_la_mun_|OM=pʰɔ́_lɔ́_mun_|EMC=ba_la_mən_|Pinyin=pó_luó_mén_
+14	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	14	dobj	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+15	𗜓	XHZD4184=śja	VERB	VERB	_	22	advcl	_	to_appear|ChiGloss=現|ChiTreebank=現|LMC=xɦjiaǹ_|OM=xjɛǹ_|EMC=ɣɛnʰ_|Pinyin=xiàn_
+16	𗳒	XHZD5880=ŋwu	SCONJ	SCONJ	_	14	mark	_	an_auxiliary_word|ChiGloss=以…____
+17	𗳱	XHZD0388=thja	PRON	PRON	_	21	iobj	_	that|ChiGloss=它、其、彼____
+18	𗗙	XHZD1139=·jij	ADP	ADP	_	17	case	_	a_possessive_adverb;_towards|ChiGloss=之、人、對、(stressing_obj)____
+19	𗣼	XHZD2748=tśhja	ADJ	ADJ	_	20	amod	_	morals|ChiGloss=德____
+20	𗹙	XHZD0467=tsji̱r	NOUN	NOUN	_	21	dobj	_	method|ChiGloss=法|ChiTreebank=法|LMC=fjyap/faːp_|OM=fǎ_|EMC=puap_|Pinyin=fǎ_
+21	𘎪	XHZD5612=tshji̱j_[tshjij]	VERB	VERB	_	22	xcomp	_	to_speak|ChiGloss=說|ChiTreebank=說|LMC=ʂyat_|OM=ʂwɛ_|EMC=ɕwiat_|Pinyin=shuō_
+22	𘃡	XHZD5113=·wji_[wji]	VERB	VERB	_	7	parataxis	_	to_do|ChiGloss=做、作、為、與|ChiTreebank=爲|LMC=yj_|OM=uj́_|EMC=wiə̆/wi_|Pinyin=wéi_
+23	。	。	PUNCT	PUNCT	_	7	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+
+~~~
+
+~~~ conllu
+1	𗓱	XHZD4978=tjij	ADV	ADV	_	15	advmod	_	if|ChiGloss=若____
+2	𘜉	XHZD1427=phji	NOUN	NOUN	_	13	nmod	_	to_lose|ChiGloss=比(Transcription)|ChiTreebank=比丘|LMC=pjí_kʰiw_|OM=pǐ_kʰiw_|EMC=pjiʼ_kʰuw_|Pinyin=bɪ̌_qiū_
+3	𗴼	XHZD0006=khjiw	NOUN	NOUN	_	2	compound	_	a_transliteration|ChiGloss=丘(Transcription)|ChiTreebank=比丘|LMC=pjí_kʰiw_|OM=pǐ_kʰiw_|EMC=pjiʼ_kʰuw_|Pinyin=bɪ̌_qiū_
+4	𘜉	XHZD1427=phji	NOUN	NOUN	_	2	conj	_	to_lose|ChiGloss=比(Transcription)|ChiTreebank=比丘尼|LMC=pjí_kʰiw_nri_|OM=pǐ_kʰiw_ní_|EMC=pjiʼ_kʰuw_nri_|Pinyin=bɪ̌_qiū_ní_
+5	𗴼	XHZD0006=khjiw	NOUN	NOUN	_	4	compound	_	a_transliteration|ChiGloss=丘(Transcription)|ChiTreebank=比丘尼|LMC=pjí_kʰiw_nri_|OM=pǐ_kʰiw_ní_|EMC=pjiʼ_kʰuw_nri_|Pinyin=bɪ̌_qiū_ní_
+6	𘆵	XHZD0666=dzji_[dźji]	NOUN	NOUN	_	4	compound	_	to_clear_away|ChiGloss=尼(Transcription)|ChiTreebank=比丘尼|LMC=pjí_kʰiw_nri_|OM=pǐ_kʰiw_ní_|EMC=pjiʼ_kʰuw_nri_|Pinyin=bɪ̌_qiū_ní_
+7	𗰨	XHZD1844=·jiw	NOUN	NOUN	_	2	conj	_	an_old-fashioned_long_narrow_table_or_desk|ChiGloss=優(Transcription)|ChiTreebank=優婆塞|LMC=ʔiw_pɦua_səə̆k|OM=jiw_pʰɔ́_sz̩|EMC=ʔuw_ba_sək|Pinyin=yōu_pó_sēi
+8	𗣧	XHZD2640=pho	NOUN	NOUN	_	7	compound	_	thin|ChiGloss=波、婆、摩、訶(Transcription)|ChiTreebank=優婆塞|LMC=ʔiw_pɦua_səə̆k|OM=jiw_pʰɔ́_sz̩|EMC=ʔuw_ba_sək|Pinyin=yōu_pó_sēi
+9	𗁸	XHZD1921=se	NOUN	NOUN	_	7	compound	_	to_tighten|ChiGloss=塞(Transcription)|ChiTreebank=優婆塞|LMC=ʔiw_pɦua_səə̆k|OM=jiw_pʰɔ́_sz̩|EMC=ʔuw_ba_sək|Pinyin=yōu_pó_sēi
+10	𗰨	XHZD1844=·jiw	NOUN	NOUN	_	2	conj	_	an_old-fashioned_long_narrow_table_or_desk|ChiGloss=優(Transcription)|ChiTreebank=優婆夷|LMC=ʔiw_pɦua_ji_|OM=jiw_pʰɔ́_jí_|EMC=ʔuw_ba_ji_|Pinyin=yōu_pó_yí_
+11	𗣧	XHZD2640=pho	NOUN	NOUN	_	10	compound	_	thin|ChiGloss=波、婆、摩、訶(Transcription)|ChiTreebank=優婆夷|LMC=ʔiw_pɦua_ji_|OM=jiw_pʰɔ́_jí_|EMC=ʔuw_ba_ji_|Pinyin=yōu_pó_yí_
+12	𗱪	XHZD0932=·ji	NOUN	NOUN	_	10	compound	_	many|ChiGloss=夷(Transcription)|ChiTreebank=優婆夷|LMC=ʔiw_pɦua_ji_|OM=jiw_pʰɔ́_jí_|EMC=ʔuw_ba_ji_|Pinyin=yōu_pó_yí_
+13	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	15	nmod	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+14	𗳒	XHZD5880=ŋwu	ADP	ADP	_	13	case	_	an_auxiliary_word|ChiGloss=以…|ChiTreebank=以|LMC=jí_|OM=jǐ_|EMC=jɨʼ/jiʼ_|Pinyin=yǐ_
+15	𗌗	XHZD3053=gju	VERB	VERB	_	0	root	_	to_cross|ChiGloss=渡、度|ChiTreebank=得|LMC=təə̆k_|OM=təǰ_|EMC=tək_|Pinyin=dé/děi_
+16	𗰛	XHZD1640=dzjịj	VERB	VERB	_	15	compound	_	to_cross|ChiGloss=渡、過、超|ChiTreebank=度|LMC=tɦuə̆̀_|OM=tù_|EMC=dɔʰ_|Pinyin=dù_
+17	𗟭	XHZD1274=·wo_[wo]	AUX	AUX	_	15	aux	_	should|ChiGloss=應|ChiTreebank=應|LMC=ʔiăŋ_|OM=jiŋ_|EMC=ʔiŋ_|Pinyin=yīng_
+18	𗌭	XHZD1542=ku	ADV	ADV	_	38	advmod	_	so|ChiGloss=則、故____
+19	𘜉	XHZD1427=phji	NOUN	NOUN	_	30	nmod	_	to_lose|ChiGloss=比(Transcription)|ChiTreebank=比丘|LMC=pjí_kʰiw_|OM=pǐ_kʰiw_|EMC=pjiʼ_kʰuw_|Pinyin=bɪ̌_qiū_
+20	𗴼	XHZD0006=khjiw	NOUN	NOUN	_	19	compound	_	a_transliteration|ChiGloss=丘(Transcription)|ChiTreebank=比丘|LMC=pjí_kʰiw_|OM=pǐ_kʰiw_|EMC=pjiʼ_kʰuw_|Pinyin=bɪ̌_qiū_
+21	𘜉	XHZD1427=phji	NOUN	NOUN	_	19	conj	_	to_lose|ChiGloss=比(Transcription)|ChiTreebank=比丘尼|LMC=pjí_kʰiw_nri_|OM=pǐ_kʰiw_ní_|EMC=pjiʼ_kʰuw_nri_|Pinyin=bɪ̌_qiū_ní_
+22	𗴼	XHZD0006=khjiw	NOUN	NOUN	_	21	compound	_	a_transliteration|ChiGloss=丘(Transcription)|ChiTreebank=比丘尼|LMC=pjí_kʰiw_nri_|OM=pǐ_kʰiw_ní_|EMC=pjiʼ_kʰuw_nri_|Pinyin=bɪ̌_qiū_ní_
+23	𘆵	XHZD0666=dzji_[dźji]	NOUN	NOUN	_	21	compound	_	to_clear_away|ChiGloss=尼(Transcription)|ChiTreebank=比丘尼|LMC=pjí_kʰiw_nri_|OM=pǐ_kʰiw_ní_|EMC=pjiʼ_kʰuw_nri_|Pinyin=bɪ̌_qiū_ní_
+24	𗰨	XHZD1844=·jiw	NOUN	NOUN	_	19	conj	_	an_old-fashioned_long_narrow_table_or_desk|ChiGloss=優(Transcription)|ChiTreebank=優婆塞|LMC=ʔiw_pɦua_səə̆k|OM=jiw_pʰɔ́_sz̩|EMC=ʔuw_ba_sək|Pinyin=yōu_pó_sēi
+25	𗣧	XHZD2640=pho	NOUN	NOUN	_	24	compound	_	thin|ChiGloss=波、婆、摩、訶(Transcription)|ChiTreebank=優婆塞|LMC=ʔiw_pɦua_səə̆k|OM=jiw_pʰɔ́_sz̩|EMC=ʔuw_ba_sək|Pinyin=yōu_pó_sēi
+26	𗁸	XHZD1921=se	NOUN	NOUN	_	24	compound	_	to_tighten|ChiGloss=塞(Transcription)|ChiTreebank=優婆塞|LMC=ʔiw_pɦua_səə̆k|OM=jiw_pʰɔ́_sz̩|EMC=ʔuw_ba_sək|Pinyin=yōu_pó_sēi
+27	𗰨	XHZD1844=·jiw	NOUN	NOUN	_	19	conj	_	an_old-fashioned_long_narrow_table_or_desk|ChiGloss=優(Transcription)|ChiTreebank=優婆夷|LMC=ʔiw_pɦua_ji_|OM=jiw_pʰɔ́_jí_|EMC=ʔuw_ba_ji_|Pinyin=yōu_pó_yí_
+28	𗣧	XHZD2640=pho	NOUN	NOUN	_	27	compound	_	thin|ChiGloss=波、婆、摩、訶(Transcription)|ChiTreebank=優婆夷|LMC=ʔiw_pɦua_ji_|OM=jiw_pʰɔ́_jí_|EMC=ʔuw_ba_ji_|Pinyin=yōu_pó_yí_
+29	𗱪	XHZD0932=·ji	NOUN	NOUN	_	27	compound	_	many|ChiGloss=夷(Transcription)|ChiTreebank=優婆夷|LMC=ʔiw_pɦua_ji_|OM=jiw_pʰɔ́_jí_|EMC=ʔuw_ba_ji_|Pinyin=yōu_pó_yí_
+30	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	31	dobj	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+31	𗜓	XHZD4184=śja	VERB	VERB	_	38	advcl	_	to_appear|ChiGloss=現|ChiTreebank=現|LMC=xɦjiaǹ_|OM=xjɛǹ_|EMC=ɣɛnʰ_|Pinyin=xiàn_
+32	𗳒	XHZD5880=ŋwu	SCONJ	SCONJ	_	31	mark	_	an_auxiliary_word|ChiGloss=以…____
+33	𗳱	XHZD0388=thja	PRON	PRON	_	37	iobj	_	that|ChiGloss=它、其、彼____
+34	𗗙	XHZD1139=·jij	ADP	ADP	_	33	case	_	a_possessive_adverb;_towards|ChiGloss=之、人、對、(stressing_obj)____
+35	𗣼	XHZD2748=tśhja	ADJ	ADJ	_	36	amod	_	morals|ChiGloss=德____
+36	𗹙	XHZD0467=tsji̱r	NOUN	NOUN	_	37	dobj	_	method|ChiGloss=法|ChiTreebank=法|LMC=fjyap/faːp_|OM=fǎ_|EMC=puap_|Pinyin=fǎ_
+37	𘎪	XHZD5612=tshji̱j_[tshjij]	VERB	VERB	_	38	xcomp	_	to_speak|ChiGloss=說|ChiTreebank=說|LMC=ʂyat_|OM=ʂwɛ_|EMC=ɕwiat_|Pinyin=shuō_
+38	𘃡	XHZD5113=·wji_[wji]	VERB	VERB	_	15	parataxis	_	to_do|ChiGloss=做、作、為、與|ChiTreebank=爲|LMC=yj_|OM=uj́_|EMC=wiə̆/wi_|Pinyin=wéi_
+39	。	。	PUNCT	PUNCT	_	15	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+
+~~~
+
+~~~ conllu
+1	𗥗	XHZD3234=phə	NOUN	NOUN	_	10	nmod	_	man_of_wealth|ChiGloss=(富)翁|ChiTreebank=長者|LMC=trɦiaŋ_tsiá_|OM=tʂʰaŋ́_tʂiǎ_|EMC=drɨaŋ_tɕiaʼ_|Pinyin=cháng_zhě_
+2	𗁆	XHZD2381=bjịj	NOUN	NOUN	_	1	compound	_	man_of_wealth|ChiGloss=富(翁)|ChiTreebank=長者|LMC=trɦiaŋ_tsiá_|OM=tʂʰaŋ́_tʂiǎ_|EMC=drɨaŋ_tɕiaʼ_|Pinyin=cháng_zhě_
+3	𘗠	XHZD5689=ɣa	NOUN	NOUN	_	1	conj	_	door|ChiGloss=門|ChiTreebank=居士|LMC=kiə̆/kyə̆_ʂɦr̩_|OM=ky_ʂr̩̀_|EMC=kɨə̆_dʑɨʼ/dʑiʼ_|Pinyin=jū_shì_
+4	𗖻	XHZD1830=pjụ	NOUN	NOUN	_	3	compound	_	respect|ChiGloss=尊|ChiTreebank=居士|LMC=kiə̆/kyə̆_ʂɦr̩_|OM=ky_ʂr̩̀_|EMC=kɨə̆_dʑɨʼ/dʑiʼ_|Pinyin=jū_shì_
+5	𗂸	XHZD3508=bji	NOUN	NOUN	_	1	conj	_	prime_minister|ChiGloss=臣|ChiTreebank=宰官|LMC=tsaj́_kuan_|OM=tsaǰ_kɔn_|EMC=tsəjʼ_kwan_|Pinyin=zǎi_guān_
+6	𗂅	XHZD2384=mjijr	NOUN	NOUN	_	5	compound	_	prime_minister|ChiGloss=相|ChiTreebank=宰官|LMC=tsaj́_kuan_|OM=tsaǰ_kɔn_|EMC=tsəjʼ_kwan_|Pinyin=zǎi_guān_
+7	𗣧	XHZD2640=pho	NOUN	NOUN	_	1	conj	_	thin|ChiGloss=波、婆、摩、訶(Transcription)|ChiTreebank=婆羅門|LMC=pɦua_la_mun_|OM=pʰɔ́_lɔ́_mun_|EMC=ba_la_mən_|Pinyin=pó_luó_mén_
+8	𗓽	XHZD4710=lo	NOUN	NOUN	_	7	compound	_	a_transliteration|ChiGloss=羅(Transcription)|ChiTreebank=婆羅門|LMC=pɦua_la_mun_|OM=pʰɔ́_lɔ́_mun_|EMC=ba_la_mən_|Pinyin=pó_luó_mén_
+9	𗐺	XHZD4794=mẽ	NOUN	NOUN	_	7	compound	_	door|ChiGloss=門(Transcription)|ChiTreebank=婆羅門|LMC=pɦua_la_mun_|OM=pʰɔ́_lɔ́_mun_|EMC=ba_la_mən_|Pinyin=pó_luó_mén_
+10	𗡸	XHZD0243=sji	NOUN	NOUN	_	11	nmod	_	daughter-in-law|ChiGloss=女|ChiTreebank=婦女|LMC=fɦjyẁ/fɦuẁ_nriə̆́/nryə̆́_|OM=fù_ry̌_|EMC=buwʼ_nrɨə̆ʼ_|Pinyin=fù_rǔ_
+11	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	13	nmod	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+12	𗳒	XHZD5880=ŋwu	ADP	ADP	_	11	case	_	an_auxiliary_word|ChiGloss=以…|ChiTreebank=以|LMC=jí_|OM=jǐ_|EMC=jɨʼ/jiʼ_|Pinyin=yǐ_
+13	𗌗	XHZD3053=gju	VERB	VERB	_	0	root	_	to_cross|ChiGloss=渡、度|ChiTreebank=得|LMC=təə̆k_|OM=təǰ_|EMC=tək_|Pinyin=dé/děi_
+14	𗰛	XHZD1640=dzjịj	VERB	VERB	_	13	compound	_	to_cross|ChiGloss=渡、過、超|ChiTreebank=度|LMC=tɦuə̆̀_|OM=tù_|EMC=dɔʰ_|Pinyin=dù_
+15	𗟭	XHZD1274=·wo_[wo]	AUX	AUX	_	13	aux	_	should|ChiGloss=應|ChiTreebank=應|LMC=ʔiăŋ_|OM=jiŋ_|EMC=ʔiŋ_|Pinyin=yīng_
+16	𗌭	XHZD1542=ku	ADV	ADV	_	26	advmod	_	so|ChiGloss=則、故____
+17	𗡸	XHZD0243=sji	NOUN	NOUN	_	18	nmod	_	daughter-in-law|ChiGloss=女|ChiTreebank=婦女|LMC=fɦjyẁ/fɦuẁ_nriə̆́/nryə̆́_|OM=fù_ry̌_|EMC=buwʼ_nrɨə̆ʼ_|Pinyin=fù_rǔ_
+18	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	19	dobj	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+19	𗜓	XHZD4184=śja	VERB	VERB	_	26	advcl	_	to_appear|ChiGloss=現|ChiTreebank=現|LMC=xɦjiaǹ_|OM=xjɛǹ_|EMC=ɣɛnʰ_|Pinyin=xiàn_
+20	𗳒	XHZD5880=ŋwu	SCONJ	SCONJ	_	19	mark	_	an_auxiliary_word|ChiGloss=以…____
+21	𗳱	XHZD0388=thja	PRON	PRON	_	25	iobj	_	that|ChiGloss=它、其、彼____
+22	𗗙	XHZD1139=·jij	ADP	ADP	_	21	case	_	a_possessive_adverb;_towards|ChiGloss=之、人、對、(stressing_obj)____
+23	𗣼	XHZD2748=tśhja	ADJ	ADJ	_	24	amod	_	morals|ChiGloss=德____
+24	𗹙	XHZD0467=tsji̱r	NOUN	NOUN	_	25	dobj	_	method|ChiGloss=法|ChiTreebank=法|LMC=fjyap/faːp_|OM=fǎ_|EMC=puap_|Pinyin=fǎ_
+25	𘎪	XHZD5612=tshji̱j_[tshjij]	VERB	VERB	_	26	xcomp	_	to_speak|ChiGloss=說|ChiTreebank=說|LMC=ʂyat_|OM=ʂwɛ_|EMC=ɕwiat_|Pinyin=shuō_
+26	𘃡	XHZD5113=·wji_[wji]	VERB	VERB	_	13	parataxis	_	to_do|ChiGloss=做、作、為、與|ChiTreebank=爲|LMC=yj_|OM=uj́_|EMC=wiə̆/wi_|Pinyin=wéi_
+27	。	。	PUNCT	PUNCT	_	13	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+
+~~~
+
+~~~ conllu
+1	𗓱	XHZD4978=tjij	ADV	ADV	_	8	advmod	_	if|ChiGloss=若____
+2	𘁛	XHZD5525=zjɨ̣	NOUN	NOUN	_	3	nmod	_	children|ChiGloss=童|ChiTreebank=童男|LMC=tɦəwŋ_nam_|OM=tʰuŋ́_naḿ_|EMC=dəwŋ_nəm/nam_|Pinyin=tóng_nán_
+3	𘄄	XHZD1085=zji	NOUN	NOUN	_	6	nmod	_	man|ChiGloss=男|ChiTreebank=童男|LMC=tɦəwŋ_nam_|OM=tʰuŋ́_naḿ_|EMC=dəwŋ_nəm/nam_|Pinyin=tóng_nán_
+4	𘁛	XHZD5525=zjɨ̣	NOUN	NOUN	_	5	nmod	_	children|ChiGloss=童|ChiTreebank=童女|LMC=tɦəwŋ_nriə̆́/nryə̆́_|OM=tʰuŋ́_ry̌_|EMC=dəwŋ_nrɨə̆ʼ_|Pinyin=tóng_rǔ_
+5	𗕪	XHZD0960=mjịj	NOUN	NOUN	_	3	conj	_	woman|ChiGloss=女|ChiTreebank=童女|LMC=tɦəwŋ_nriə̆́/nryə̆́_|OM=tʰuŋ́_ry̌_|EMC=dəwŋ_nrɨə̆ʼ_|Pinyin=tóng_rǔ_
+6	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	8	nmod	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+7	𗳒	XHZD5880=ŋwu	ADP	ADP	_	6	case	_	an_auxiliary_word|ChiGloss=以…|ChiTreebank=以|LMC=jí_|OM=jǐ_|EMC=jɨʼ/jiʼ_|Pinyin=yǐ_
+8	𗌗	XHZD3053=gju	VERB	VERB	_	0	root	_	to_cross|ChiGloss=渡、度|ChiTreebank=得|LMC=təə̆k_|OM=təǰ_|EMC=tək_|Pinyin=dé/děi_
+9	𗰛	XHZD1640=dzjịj	VERB	VERB	_	8	compound	_	to_cross|ChiGloss=渡、過、超|ChiTreebank=度|LMC=tɦuə̆̀_|OM=tù_|EMC=dɔʰ_|Pinyin=dù_
+10	𗟭	XHZD1274=·wo_[wo]	AUX	AUX	_	8	aux	_	should|ChiGloss=應|ChiTreebank=應|LMC=ʔiăŋ_|OM=jiŋ_|EMC=ʔiŋ_|Pinyin=yīng_
+11	𗌭	XHZD1542=ku	ADV	ADV	_	24	advmod	_	so|ChiGloss=則、故____
+12	𘁛	XHZD5525=zjɨ̣	NOUN	NOUN	_	13	nmod	_	children|ChiGloss=童|ChiTreebank=童男|LMC=tɦəwŋ_nam_|OM=tʰuŋ́_naḿ_|EMC=dəwŋ_nəm/nam_|Pinyin=tóng_nán_
+13	𘄄	XHZD1085=zji	NOUN	NOUN	_	16	nmod	_	man|ChiGloss=男|ChiTreebank=童男|LMC=tɦəwŋ_nam_|OM=tʰuŋ́_naḿ_|EMC=dəwŋ_nəm/nam_|Pinyin=tóng_nán_
+14	𘁛	XHZD5525=zjɨ̣	NOUN	NOUN	_	15	nmod	_	children|ChiGloss=童|ChiTreebank=童女|LMC=tɦəwŋ_nriə̆́/nryə̆́_|OM=tʰuŋ́_ry̌_|EMC=dəwŋ_nrɨə̆ʼ_|Pinyin=tóng_rǔ_
+15	𗕪	XHZD0960=mjịj	NOUN	NOUN	_	13	conj	_	woman|ChiGloss=女|ChiTreebank=童女|LMC=tɦəwŋ_nriə̆́/nryə̆́_|OM=tʰuŋ́_ry̌_|EMC=dəwŋ_nrɨə̆ʼ_|Pinyin=tóng_rǔ_
+16	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	17	dobj	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+17	𗜓	XHZD4184=śja	VERB	VERB	_	24	advcl	_	to_appear|ChiGloss=現|ChiTreebank=現|LMC=xɦjiaǹ_|OM=xjɛǹ_|EMC=ɣɛnʰ_|Pinyin=xiàn_
+18	𗳒	XHZD5880=ŋwu	SCONJ	SCONJ	_	17	mark	_	an_auxiliary_word|ChiGloss=以…____
+19	𗳱	XHZD0388=thja	PRON	PRON	_	23	iobj	_	that|ChiGloss=它、其、彼____
+20	𗗙	XHZD1139=·jij	ADP	ADP	_	19	case	_	a_possessive_adverb;_towards|ChiGloss=之、人、對、(stressing_obj)____
+21	𗣼	XHZD2748=tśhja	ADJ	ADJ	_	22	amod	_	morals|ChiGloss=德____
+22	𗹙	XHZD0467=tsji̱r	NOUN	NOUN	_	23	dobj	_	method|ChiGloss=法|ChiTreebank=法|LMC=fjyap/faːp_|OM=fǎ_|EMC=puap_|Pinyin=fǎ_
+23	𘎪	XHZD5612=tshji̱j_[tshjij]	VERB	VERB	_	24	xcomp	_	to_speak|ChiGloss=說|ChiTreebank=說|LMC=ʂyat_|OM=ʂwɛ_|EMC=ɕwiat_|Pinyin=shuō_
+24	𘃡	XHZD5113=·wji_[wji]	VERB	VERB	_	8	parataxis	_	to_do|ChiGloss=做、作、為、與|ChiTreebank=爲|LMC=yj_|OM=uj́_|EMC=wiə̆/wi_|Pinyin=wéi_
+25	。	。	PUNCT	PUNCT	_	8	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+
+~~~
+
+~~~ conllu
+1	𗓱	XHZD4978=tjij	ADV	ADV	_	28	advmod	_	if|ChiGloss=若____
+2	𘓱	XHZD1107=ŋwə	NOUN	NOUN	_	26	nmod	_	heaven|ChiGloss=天|ChiTreebank=天|LMC=tʰian_|OM=tʰjɛn_|EMC=tʰɛn_|Pinyin=tiān_
+3	𗵃	XHZD0083=·we_[we]	NOUN	NOUN	_	2	compound	_	dragon|ChiGloss=龍|ChiTreebank=龍|LMC=lywŋ_|OM=ljuŋ́_|EMC=luawŋ_|Pinyin=lóng_
+4	𗥫	XHZD3807=·jij	NOUN	NOUN	_	2	conj	_	light|ChiGloss=夜(Transcription)|ChiTreebank=夜叉|LMC=jià_tʂʰaː_|OM=jɛ̀_tʂʰa_|EMC=jiaʰ_tʂʰaɨ/tʂʰɛː_|Pinyin=yè_chā_
+5	𘀺	XHZD4003=khja_[kha]	NOUN	NOUN	_	4	compound	_	to_draw_(water)|ChiGloss=汲、伽、叉(Transcription)|ChiTreebank=夜叉|LMC=jià_tʂʰaː_|OM=jɛ̀_tʂʰa_|EMC=jiaʰ_tʂʰaɨ/tʂʰɛː_|Pinyin=yè_chā_
+6	𗯊	XHZD5110=khjã_[khja]	NOUN	NOUN	_	2	conj	_	a_transliteration|ChiGloss=乾(Transcription)|ChiTreebank=乾闥婆|LMC=kɦian/kan_tʰat_pɦua_|OM=kʰjɛń/kan_[tʰǎ]_pʰɔ́_|EMC=gian/kan_tʰat_ba_|Pinyin=qián/gān_tà_pó_
+7	𗣩	XHZD3640=tha	NOUN	NOUN	_	6	compound	_	to_rely_on|ChiGloss=闥(Transcription)|ChiTreebank=乾闥婆|LMC=kɦian/kan_tʰat_pɦua_|OM=kʰjɛń/kan_[tʰǎ]_pʰɔ́_|EMC=gian/kan_tʰat_ba_|Pinyin=qián/gān_tà_pó_
+8	𗣧	XHZD2640=pho	NOUN	NOUN	_	6	compound	_	thin|ChiGloss=波、婆、摩、訶(Transcription)|ChiTreebank=乾闥婆|LMC=kɦian/kan_tʰat_pɦua_|OM=kʰjɛń/kan_[tʰǎ]_pʰɔ́_|EMC=gian/kan_tʰat_ba_|Pinyin=qián/gān_tà_pó_
+9	𗠝	XHZD4541=·a_[a]	NOUN	NOUN	_	2	conj	_	a_transliteration|ChiGloss=阿(Transcription)|ChiTreebank=阿修羅|LMC=ʔa_siw_la_|OM=ɔ_xiw_lɔ́_|EMC=ʔa_suw_la_|Pinyin=ā/à/ē_xiū_luó_
+10	𘏱	XHZD5391=sew	NOUN	NOUN	_	9	compound	_	piebald|ChiGloss=修(Transcription)|ChiTreebank=阿修羅|LMC=ʔa_siw_la_|OM=ɔ_xiw_lɔ́_|EMC=ʔa_suw_la_|Pinyin=ā/à/ē_xiū_luó_
+11	𗓽	XHZD4710=lo	NOUN	NOUN	_	9	compound	_	a_transliteration|ChiGloss=羅(Transcription)|ChiTreebank=阿修羅|LMC=ʔa_siw_la_|OM=ɔ_xiw_lɔ́_|EMC=ʔa_suw_la_|Pinyin=ā/à/ē_xiū_luó_
+12	𗡝	XHZD4620=kja	NOUN	NOUN	_	2	conj	_	how_about|ChiGloss=迦(Transcription)|ChiTreebank=迦樓羅|LMC=kia_ləw_la_|OM=[kjɛ]_ləẃ_lɔ́_|EMC=kɨa_ləw_la_|Pinyin=jiā_lóu_luó_
+13	𗜪	XHZD4348=lew	NOUN	NOUN	_	12	compound	_	building|ChiGloss=樓(Transcription)|ChiTreebank=迦樓羅|LMC=kia_ləw_la_|OM=[kjɛ]_ləẃ_lɔ́_|EMC=kɨa_ləw_la_|Pinyin=jiā_lóu_luó_
+14	𗓽	XHZD4710=lo	NOUN	NOUN	_	12	compound	_	a_transliteration|ChiGloss=羅(Transcription)|ChiTreebank=迦樓羅|LMC=kia_ləw_la_|OM=[kjɛ]_ləẃ_lɔ́_|EMC=kɨa_ləw_la_|Pinyin=jiā_lóu_luó_
+15	𗷭	XHZD0830=kjĩ	NOUN	NOUN	_	2	conj	_	a_transliteration|ChiGloss=緊(Transcription)|ChiTreebank=緊那羅|LMC=kjiń_ná/nà/na_la_|OM=kiň_nɔ̌/nɔ̀/nà/nɔ́_lɔ́_|EMC=kjinʼ_naʼ/naʰ/na_la_|Pinyin=jǐn_nǎ/nà/nuó/nuò_luó_
+16	𗅾	XHZD2915=no	NOUN	NOUN	_	15	compound	_	rib|ChiGloss=那(Transcription)|ChiTreebank=緊那羅|LMC=kjiń_ná/nà/na_la_|OM=kiň_nɔ̌/nɔ̀/nà/nɔ́_lɔ́_|EMC=kjinʼ_naʼ/naʰ/na_la_|Pinyin=jǐn_nǎ/nà/nuó/nuò_luó_
+17	𗓽	XHZD4710=lo	NOUN	NOUN	_	15	compound	_	a_transliteration|ChiGloss=羅(Transcription)|ChiTreebank=緊那羅|LMC=kjiń_ná/nà/na_la_|OM=kiň_nɔ̌/nɔ̀/nà/nɔ́_lɔ́_|EMC=kjinʼ_naʼ/naʰ/na_la_|Pinyin=jǐn_nǎ/nà/nuó/nuò_luó_
+18	𘉒	XHZD4575=mo	NOUN	NOUN	_	2	conj	_	shame|ChiGloss=摩(Transcription)|ChiTreebank=摩睺羅伽|LMC=mua_xɦəw_la_kɦia_|OM=mɔ́_xəẃ_lɔ́_[kʰjɛ]_|EMC=ma_ɣəw_la_gɨa_|Pinyin=mó_hóu_luó_qié_
+19	𗺹	XHZD3379=xew	NOUN	NOUN	_	18	compound	_	a_kind_of_grass|ChiGloss=睺(Transcription)|ChiTreebank=摩睺羅伽|LMC=mua_xɦəw_la_kɦia_|OM=mɔ́_xəẃ_lɔ́_[kʰjɛ]_|EMC=ma_ɣəw_la_gɨa_|Pinyin=mó_hóu_luó_qié_
+20	𗓽	XHZD4710=lo	NOUN	NOUN	_	18	compound	_	a_transliteration|ChiGloss=羅(Transcription)|ChiTreebank=摩睺羅伽|LMC=mua_xɦəw_la_kɦia_|OM=mɔ́_xəẃ_lɔ́_[kʰjɛ]_|EMC=ma_ɣəw_la_gɨa_|Pinyin=mó_hóu_luó_qié_
+21	𘀺	XHZD4003=khja_[kha]	NOUN	NOUN	_	18	compound	_	to_draw_(water)|ChiGloss=汲、伽、叉(Transcription)|ChiTreebank=摩睺羅伽|LMC=mua_xɦəw_la_kɦia_|OM=mɔ́_xəẃ_lɔ́_[kʰjɛ]_|EMC=ma_ɣəw_la_gɨa_|Pinyin=mó_hóu_luó_qié_
+22	𘓐	XHZD2541=dzjwo	NOUN	NOUN	_	2	conj	_	person|ChiGloss=人|ChiTreebank=人|LMC=rin_|OM=riń_|EMC=ɲin_|Pinyin=rén_
+23	𗅋	XHZD1918=mji	NOUN	NOUN	_	2	conj	_	not|ChiGloss=無|ChiTreebank=非人|LMC=fjyj/fji_rin_|OM=fi_riń_|EMC=puj_ɲin_|Pinyin=fēI_rén_
+24	𘓐	XHZD2541=dzjwo	NOUN	NOUN	_	23	compound	_	person|ChiGloss=人|ChiTreebank=非人|LMC=fjyj/fji_rin_|OM=fi_riń_|EMC=puj_ɲin_|Pinyin=fēI_rén_
+25	𘆄	XHZD0724=njɨ	CONJ	CONJ	_	2	cc	_	and_so_on|ChiGloss=等|ChiTreebank=等|LMC=təə̆ŋ́_|OM=təŋ̌_|EMC=təŋʼ_|Pinyin=děng_
+26	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	28	nmod	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+27	𗳒	XHZD5880=ŋwu	ADP	ADP	_	26	case	_	an_auxiliary_word|ChiGloss=以…|ChiTreebank=以|LMC=jí_|OM=jǐ_|EMC=jɨʼ/jiʼ_|Pinyin=yǐ_
+28	𗌗	XHZD3053=gju	VERB	VERB	_	0	root	_	to_cross|ChiGloss=渡、度|ChiTreebank=得|LMC=təə̆k_|OM=təǰ_|EMC=tək_|Pinyin=dé/děi_
+29	𗰛	XHZD1640=dzjịj	VERB	VERB	_	28	compound	_	to_cross|ChiGloss=渡、過、超|ChiTreebank=度|LMC=tɦuə̆̀_|OM=tù_|EMC=dɔʰ_|Pinyin=dù_
+30	𗟭	XHZD1274=·wo_[wo]	AUX	AUX	_	28	aux	_	should|ChiGloss=應|ChiTreebank=應|LMC=ʔiăŋ_|OM=jiŋ_|EMC=ʔiŋ_|Pinyin=yīng_
+31	𗌭	XHZD1542=ku	ADV	ADV	_	42	advmod	_	so|ChiGloss=則、故____
+32	𗋕	XHZD2019=thja	PRON	PRON	_	34	nmod	_	these|ChiGloss=其|ChiTreebank=之|LMC=tʂi_|OM=tʂr̩_|EMC=tɕɨ/tɕi_|Pinyin=zhī_
+33	𘜔	XHZD0497=ŋewr	ADJ	ADJ	_	34	amod	_	number|ChiGloss=數|ChiTreebank=之|LMC=tʂi_|OM=tʂr̩_|EMC=tɕɨ/tɕi_|Pinyin=zhī_
+34	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	35	dobj	_	body|ChiGloss=身|ChiTreebank=之|LMC=tʂi_|OM=tʂr̩_|EMC=tɕɨ/tɕi_|Pinyin=zhī_
+35	𗜓	XHZD4184=śja	VERB	VERB	_	42	advcl	_	to_appear|ChiGloss=現|ChiTreebank=現|LMC=xɦjiaǹ_|OM=xjɛǹ_|EMC=ɣɛnʰ_|Pinyin=xiàn_
+36	𗳒	XHZD5880=ŋwu	SCONJ	SCONJ	_	35	mark	_	an_auxiliary_word|ChiGloss=以…____
+37	𗳱	XHZD0388=thja	PRON	PRON	_	41	iobj	_	that|ChiGloss=它、其、彼____
+38	𗗙	XHZD1139=·jij	ADP	ADP	_	37	case	_	a_possessive_adverb;_towards|ChiGloss=之、人、對、(stressing_obj)____
+39	𗣼	XHZD2748=tśhja	ADJ	ADJ	_	40	amod	_	morals|ChiGloss=德____
+40	𗹙	XHZD0467=tsji̱r	NOUN	NOUN	_	41	dobj	_	method|ChiGloss=法|ChiTreebank=法|LMC=fjyap/faːp_|OM=fǎ_|EMC=puap_|Pinyin=fǎ_
+41	𘎪	XHZD5612=tshji̱j_[tshjij]	VERB	VERB	_	42	xcomp	_	to_speak|ChiGloss=說|ChiTreebank=說|LMC=ʂyat_|OM=ʂwɛ_|EMC=ɕwiat_|Pinyin=shuō_
+42	𘃡	XHZD5113=·wji_[wji]	VERB	VERB	_	28	parataxis	_	to_do|ChiGloss=做、作、為、與|ChiTreebank=爲|LMC=yj_|OM=uj́_|EMC=wiə̆/wi_|Pinyin=wéi_
+43	。	。	PUNCT	PUNCT	_	28	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+
+~~~
+
+~~~ conllu
+1	𗓱	XHZD4978=tjij	ADV	ADV	_	8	advmod	_	if|ChiGloss=若____
+2	𗵒	XHZD0152=kiẹ	NOUN	NOUN	_	6	nmod	_	gold|ChiGloss=金|ChiTreebank=執金剛|LMC=tʂip_kim_kaŋ_|OM=[tʂǐ]_kim_kaŋ_|EMC=tɕip_kim_kaŋ_|Pinyin=zhí_jīn_gāng_
+3	𘗁	XHZD4735=dźja	NOUN	NOUN	_	2	compound	_	sharp|ChiGloss=剛|ChiTreebank=執金剛|LMC=tʂip_kim_kaŋ_|OM=[tʂǐ]_kim_kaŋ_|EMC=tɕip_kim_kaŋ_|Pinyin=zhí_jīn_gāng_
+4	𗧯	XHZD2135=·ji̱j_[ji̱j]	NOUN	NOUN	_	2	compound	_	to_hold|ChiGloss=持|ChiTreebank=執金剛|LMC=tʂip_kim_kaŋ_|OM=[tʂǐ]_kim_kaŋ_|EMC=tɕip_kim_kaŋ_|Pinyin=zhí_jīn_gāng_
+5	𗼈	XHZD2546=njạ	NOUN	NOUN	_	2	compound	_	god|ChiGloss=神|ChiTreebank=執金剛|LMC=tʂip_kim_kaŋ_|OM=[tʂǐ]_kim_kaŋ_|EMC=tɕip_kim_kaŋ_|Pinyin=zhí_jīn_gāng_
+6	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	8	nmod	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+7	𗳒	XHZD5880=ŋwu	ADP	ADP	_	6	case	_	an_auxiliary_word|ChiGloss=以…|ChiTreebank=以|LMC=jí_|OM=jǐ_|EMC=jɨʼ/jiʼ_|Pinyin=yǐ_
+8	𗌗	XHZD3053=gju	VERB	VERB	_	0	root	_	to_cross|ChiGloss=渡、度|ChiTreebank=得|LMC=təə̆k_|OM=təǰ_|EMC=tək_|Pinyin=dé/děi_
+9	𗰛	XHZD1640=dzjịj	VERB	VERB	_	8	compound	_	to_cross|ChiGloss=渡、過、超|ChiTreebank=度|LMC=tɦuə̆̀_|OM=tù_|EMC=dɔʰ_|Pinyin=dù_
+10	𗟭	XHZD1274=·wo_[wo]	AUX	AUX	_	8	aux	_	should|ChiGloss=應|ChiTreebank=應|LMC=ʔiăŋ_|OM=jiŋ_|EMC=ʔiŋ_|Pinyin=yīng_
+11	𗌭	XHZD1542=ku	ADV	ADV	_	24	advmod	_	so|ChiGloss=則、故____
+12	𗵒	XHZD0152=kiẹ	NOUN	NOUN	_	16	nmod	_	gold|ChiGloss=金|ChiTreebank=執金剛|LMC=tʂip_kim_kaŋ_|OM=[tʂǐ]_kim_kaŋ_|EMC=tɕip_kim_kaŋ_|Pinyin=zhí_jīn_gāng_
+13	𘗁	XHZD4735=dźja	NOUN	NOUN	_	12	compound	_	sharp|ChiGloss=剛|ChiTreebank=執金剛|LMC=tʂip_kim_kaŋ_|OM=[tʂǐ]_kim_kaŋ_|EMC=tɕip_kim_kaŋ_|Pinyin=zhí_jīn_gāng_
+14	𗧯	XHZD2135=·ji̱j_[ji̱j]	NOUN	NOUN	_	12	compound	_	to_hold|ChiGloss=持|ChiTreebank=執金剛|LMC=tʂip_kim_kaŋ_|OM=[tʂǐ]_kim_kaŋ_|EMC=tɕip_kim_kaŋ_|Pinyin=zhí_jīn_gāng_
+15	𗼈	XHZD2546=njạ	NOUN	NOUN	_	12	compound	_	god|ChiGloss=神|ChiTreebank=執金剛|LMC=tʂip_kim_kaŋ_|OM=[tʂǐ]_kim_kaŋ_|EMC=tɕip_kim_kaŋ_|Pinyin=zhí_jīn_gāng_
+16	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	17	dobj	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+17	𗜓	XHZD4184=śja	VERB	VERB	_	24	advcl	_	to_appear|ChiGloss=現|ChiTreebank=現|LMC=xɦjiaǹ_|OM=xjɛǹ_|EMC=ɣɛnʰ_|Pinyin=xiàn_
+18	𗳒	XHZD5880=ŋwu	SCONJ	SCONJ	_	17	mark	_	an_auxiliary_word|ChiGloss=以…____
+19	𗳱	XHZD0388=thja	PRON	PRON	_	23	iobj	_	that|ChiGloss=它、其、彼____
+20	𗗙	XHZD1139=·jij	ADP	ADP	_	19	case	_	a_possessive_adverb;_towards|ChiGloss=之、人、對、(stressing_obj)____
+21	𗣼	XHZD2748=tśhja	ADJ	ADJ	_	22	amod	_	morals|ChiGloss=德____
+22	𗹙	XHZD0467=tsji̱r	NOUN	NOUN	_	23	dobj	_	method|ChiGloss=法|ChiTreebank=法|LMC=fjyap/faːp_|OM=fǎ_|EMC=puap_|Pinyin=fǎ_
+23	𘎪	XHZD5612=tshji̱j_[tshjij]	VERB	VERB	_	24	xcomp	_	to_speak|ChiGloss=說|ChiTreebank=說|LMC=ʂyat_|OM=ʂwɛ_|EMC=ɕwiat_|Pinyin=shuō_
+24	𘃡	XHZD5113=·wji_[wji]	VERB	VERB	_	8	parataxis	_	to_do|ChiGloss=做、作、為、與|ChiTreebank=爲|LMC=yj_|OM=uj́_|EMC=wiə̆/wi_|Pinyin=wéi_
+25	。	。	PUNCT	PUNCT	_	8	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+
+~~~
+
+~~~ conllu
+1	𗉣	XHZD0797=phji	PROPN	PROPN	_	24	vocative	_	scheme|ChiGloss=意|ChiTreebank=無盡意|LMC=ʋjyə̆/ʋuə̆_tsɦiǹ_ʔì_|OM=ʋú_tsiǹ_jì_|EMC=muə̆_dzinʼ_ʔɨʰ/ʔiʰ_|Pinyin=wú_jìn_yì_
+2	𗅋	XHZD1918=mji	PROPN	PROPN	_	1	name	_	not|ChiGloss=無|ChiTreebank=無盡意|LMC=ʋjyə̆/ʋuə̆_tsɦiǹ_ʔì_|OM=ʋú_tsiǹ_jì_|EMC=muə̆_dzinʼ_ʔɨʰ/ʔiʰ_|Pinyin=wú_jìn_yì_
+3	𗋃	XHZD3075=sji	PROPN	PROPN	_	1	name	_	limit|ChiGloss=盡|ChiTreebank=無盡意|LMC=ʋjyə̆/ʋuə̆_tsɦiǹ_ʔì_|OM=ʋú_tsiǹ_jì_|EMC=muə̆_dzinʼ_ʔɨʰ/ʔiʰ_|Pinyin=wú_jìn_yì_
+4	𗋕	XHZD2019=thja	DET	DET	_	5	det	_	this|ChiGloss=其|ChiTreebank=是|LMC=ʂɦì_|OM=ʂr̩̀_|EMC=dʑiə̆ʼ/dʑiʼ_|Pinyin=shì_
+5	𗯨	XHZD4713=rjur	PROPN	PROPN	_	24	nsubj	_	world|ChiGloss=世|ChiTreebank=觀世音|LMC=kuan_ʂiaj̀_ʔim_|OM=kɔn_ʂì_jim_|EMC=kwan_ɕiajʰ_ʔim_|Pinyin=guān_shì_yīn_
+6	𗙏	XHZD1586=ɣiẹ	PROPN	PROPN	_	5	name	_	sound|ChiGloss=音|ChiTreebank=觀世音|LMC=kuan_ʂiaj̀_ʔim_|OM=kɔn_ʂì_jim_|EMC=kwan_ɕiajʰ_ʔim_|Pinyin=guān_shì_yīn_
+7	𘝯	XHZD5593=bio̱	PROPN	PROPN	_	5	name	_	to_look|ChiGloss=觀|ChiTreebank=觀世音|LMC=kuan_ʂiaj̀_ʔim_|OM=kɔn_ʂì_jim_|EMC=kwan_ɕiajʰ_ʔim_|Pinyin=guān_shì_yīn_
+8	𘋢	XHZD5906=tshjɨ_[ɲia]	NOUN	NOUN	_	5	appos	_	Bodhisattva|ChiGloss=薩|ChiTreebank=菩薩|LMC=pfiuə̆_sat_|OM=pʰú_sǎ_|EMC=bɔ_sat_|Pinyin=pú_sà_
+9	𗥤	XHZD3574=tsjij	NOUN	NOUN	_	8	compound	_	to_know;_bodhi|ChiGloss=悟、明、菩提|ChiTreebank=菩薩|LMC=pfiuə̆_sat_|OM=pʰú_sǎ_|EMC=bɔ_sat_|Pinyin=pú_sà_
+10	𘌽	XHZD5354=thjɨ	PRON	PRON	_	12	nmod	_	this|ChiGloss=此|ChiTreebank=是|LMC=ʂɦì_|OM=ʂr̩̀_|EMC=dʑiə̆ʼ/dʑiʼ_|Pinyin=shì_
+11	𗍊	XHZD0290=sju	ADP	ADP	_	10	case	_	as|ChiGloss=如|ChiTreebank=如|LMC=riə̆/ryə̆_|OM=rý_|EMC=ɲɨə̆_|Pinyin=rú_
+12	𗣼	XHZD2748=tśhja	NOUN	NOUN	_	14	dobj	_	morals|ChiGloss=德|ChiTreebank=德|LMC=təə̆k_|OM=təǰ_|EMC=tək_|Pinyin=dé_
+13	𘉐	XHZD4587=·io̱w_[io̱w]	NOUN	NOUN	_	12	conj	_	contribution|ChiGloss=功|ChiTreebank=功|LMC=kəwŋ_|OM=kuŋ_|EMC=kəwŋ_|Pinyin=gōng_
+14	𗵆	XHZD0113=śjɨj	VERB	VERB	_	24	advcl	_	to_accomplish|ChiGloss=成|ChiTreebank=成就|LMC=ʂɦiajŋ_tsɦiẁ_|OM=tʂʰiŋ́_tsiẁ_|EMC=dʑiajŋ_dzuwʰ_|Pinyin=chéng_jiù_
+15	𗨄	XHZD2132=·jiw_[jiw]	VERB	VERB	_	14	compound	_	achievement|ChiGloss=成就|ChiTreebank=成就|LMC=ʂɦiajŋ_tsɦiẁ_|OM=tʂʰiŋ́_tsiẁ_|EMC=dʑiajŋ_dzuwʰ_|Pinyin=chéng_jiù_
+16	𗖵	XHZD0433=bju	SCONJ	SCONJ	_	14	mark	_	for|ChiGloss=(Instrumental_sense_to_the_following__item)_為、依、因、由____
+17	𘋠	XHZD5932=mə	ADJ	ADJ	_	19	amod	_	kind|ChiGloss=種|ChiTreebank=種種|LMC=tʂywŋ̀_tʂywŋ̀_|OM=tʂuŋ̀_tʂuŋ̀_|EMC=tɕuawŋʰ_tɕuawŋʰ_|Pinyin=zhòng_zhòng_
+18	𘋠	XHZD5932=mə	ADJ	ADJ	_	17	compound	_	kind|ChiGloss=種|ChiTreebank=種種|LMC=tʂywŋ̀_tʂywŋ̀_|OM=tʂuŋ̀_tʂuŋ̀_|EMC=tɕuawŋʰ_tɕuawŋʰ_|Pinyin=zhòng_zhòng_
+19	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	24	nmod	_	body|ChiGloss=身|ChiTreebank=形|LMC=xɦjiajŋ_|OM=xiŋ́_|EMC=ɣɛjŋ_|Pinyin=xíng_
+20	𗳒	XHZD5880=ŋwu	ADP	ADP	_	19	case	_	an_auxiliary_word|ChiGloss=以…|ChiTreebank=諸|LMC=tʂiă/tʂyă_|OM=tʂy_|EMC=tɕɨă_|Pinyin=zhū_
+21	𗱕	XHZD0968=rjur	DET	DET	_	22	det	_	all|ChiGloss=諸|ChiTreebank=國|LMC=kuə̆k_|OM=kuǰ_|EMC=kwək_|Pinyin=guó_
+22	𗂧	XHZD2937=lhjịj	NOUN	NOUN	_	24	nmod	_	country|ChiGloss=國、土|ChiTreebank=土|LMC=tʰuə̆́_|OM=Sat_|EMC=tʰɔʼ_|Pinyin=tǔ_
+23	𗧥	XHZD2858=zjir	ADV	ADV	_	24	advmod	_	long|ChiGloss=長、遍|ChiTreebank=遊|LMC=jiw_|OM=jiẃ_|EMC=juw_|Pinyin=yóu_
+24	𘕂	XHZD3852=dźjij	VERB	VERB	_	0	root	_	to_go|ChiGloss=行|ChiTreebank=遊|LMC=jiw_|OM=jiẃ_|EMC=juw_|Pinyin=yóu_
+25	𘋢	XHZD5906=tshjɨ_[ɲia]	NOUN	NOUN	_	28	dobj	_	Bodhisattva|ChiGloss=薩|ChiTreebank=衆生|LMC=tʂɨwŋ̀_ʂaːjŋ_|OM=tʂuŋ̀_ʂəŋ_|EMC=tɕuwŋʰ_ʂiajŋ/ʂɛːjŋ_|Pinyin=zhòng_shēng_
+26	𗋐	XHZD2724=tśhju	NOUN	NOUN	_	25	compound	_	to_have;_all|ChiGloss=有|ChiTreebank=衆生|LMC=tʂɨwŋ̀_ʂaːjŋ_|OM=tʂuŋ̀_ʂəŋ_|EMC=tɕuwŋʰ_ʂiajŋ/ʂɛːjŋ_|Pinyin=zhòng_shēng_
+27	𗗙	XHZD1139=·jij	ADP	ADP	_	25	case	_	a_possessive_adverb;_towards|ChiGloss=之、人、對、(stressing_obj)____
+28	𗌗	XHZD3053=gju	VERB	VERB	_	24	conj	_	to_cross|ChiGloss=渡、度|ChiTreebank=度|LMC=tɦuə̆̀_|OM=tù_|EMC=dɔʰ_|Pinyin=dù_
+29	𗰛	XHZD1640=dzjịj	VERB	VERB	_	28	compound	_	to_cross|ChiGloss=渡、過、超|ChiTreebank=脫|LMC=tʰuat_|OM=tʰɔ̌_|EMC=tʰwat/dwat_|Pinyin=tuō_
+30	𗩱	XHZD2620=njwi	AUX	AUX	_	28	aux	_	can|ChiGloss=能____
+31	𗌭	XHZD1542=ku	ADV	ADV	_	46	advmod	_	so|ChiGloss=則、故____
+32	𘌽	XHZD5354=thjɨ	DET	DET	_	33	det	_	this|ChiGloss=此|ChiTreebank=是|LMC=ʂɦì_|OM=ʂr̩̀_|EMC=dʑiə̆ʼ/dʑiʼ_|Pinyin=shì_
+33	𘔼	XHZD2484=nio̱w	NOUN	NOUN	_	46	nmod	_	cause|ChiGloss=緣|ChiTreebank=故|LMC=kuə̆̀_|OM=kù_|EMC=kɔʰ_|Pinyin=dù_
+34	𗍳	XHZD4028=nji	PRON	PRON	_	46	nsubj	_	you|ChiGloss=汝|ChiTreebank=汝|LMC=riə̆́/ryə̆́_|OM=ry̌_|EMC=ɲɨə̆ʼ_|Pinyin=rǔ_
+35	𘆄	XHZD0724=njɨ	CONJ	CONJ	_	34	cc	_	and_so_on|ChiGloss=等|ChiTreebank=等|LMC=təə̆ŋ́_|OM=təŋ̌_|EMC=təŋʼ_|Pinyin=děng_
+36	𗤶	XHZD2518=nji̱j	NOUN	NOUN	_	46	nmod	_	heart|ChiGloss=心|ChiTreebank=一心|LMC=ʔjit_sim_|OM=[jì/jǐ_sim]_|EMC=ʔjit_sim_|Pinyin=yī_xīn_
+37	𗨳	XHZD3175=tjị	ADJ	ADJ	_	36	amod	_	to_return|ChiGloss=誠|ChiTreebank=一心|LMC=ʔjit_sim_|OM=[jì/jǐ_sim]_|EMC=ʔjit_sim_|Pinyin=yī_xīn_
+38	𗳒	XHZD5880=ŋwu	ADP	ADP	_	36	case	_	an_auxiliary_word|ChiGloss=以…____
+39	𗋕	XHZD2019=thja	DET	DET	_	40	det	_	this|ChiGloss=其____
+40	𗯨	XHZD4713=rjur	PROPN	PROPN	_	46	dobj	_	world|ChiGloss=世|ChiTreebank=觀世音|LMC=kuan_ʂiaj̀_ʔim_|OM=kɔn_ʂì_jim_|EMC=kwan_ɕiajʰ_ʔim_|Pinyin=guān_shì_yīn_
+41	𗙏	XHZD1586=ɣiẹ	PROPN	PROPN	_	40	name	_	sound|ChiGloss=音|ChiTreebank=觀世音|LMC=kuan_ʂiaj̀_ʔim_|OM=kɔn_ʂì_jim_|EMC=kwan_ɕiajʰ_ʔim_|Pinyin=guān_shì_yīn_
+42	𘝯	XHZD5593=bio̱	PROPN	PROPN	_	40	name	_	to_look|ChiGloss=觀|ChiTreebank=觀世音|LMC=kuan_ʂiaj̀_ʔim_|OM=kɔn_ʂì_jim_|EMC=kwan_ɕiajʰ_ʔim_|Pinyin=guān_shì_yīn_
+43	𘋢	XHZD5906=tshjɨ_[ɲia]	NOUN	NOUN	_	40	appos	_	Bodhisattva|ChiGloss=薩|ChiTreebank=菩薩|LMC=pfiuə̆_sat_|OM=pʰú_sǎ_|EMC=bɔ_sat_|Pinyin=pú_sà_
+44	𗥤	XHZD3574=tsjij	NOUN	NOUN	_	43	compound	_	to_know;_bodhi|ChiGloss=悟、明、菩提|ChiTreebank=菩薩|LMC=pfiuə̆_sat_|OM=pʰú_sǎ_|EMC=bɔ_sat_|Pinyin=pú_sà_
+45	𗗙	XHZD1139=·jij	ADP	ADP	_	40	case	_	a_possessive_adverb;_towards|ChiGloss=之、人、對、(stressing_obj)____
+46	𗴿	XHZD0105=kjụ	VERB	VERB	_	24	parataxis	_	to_pray|ChiGloss=求|ChiTreebank=供養|LMC=kywŋ̀_jiaŋ́_|OM=kuŋ̀_jaŋ̌_|EMC=kuawŋʰ_jɨaŋʼ_|Pinyin=gòng_yǎng_
+47	𗒀	XHZD4887=tshwew	VERB	VERB	_	46	compound	_	to_support|ChiGloss=供養|ChiTreebank=供養|LMC=kywŋ̀_jiaŋ́_|OM=kuŋ̀_jaŋ̌_|EMC=kuawŋʰ_jɨaŋʼ_|Pinyin=gòng_yǎng_
+48	𗦇	XHZD2090=lew	AUX	AUX	_	46	aux	_	must|ChiGloss=應|ChiTreebank=應|LMC=ʔiăŋ_|OM=jiŋ_|EMC=ʔiŋ_|Pinyin=yīng_
+49	。	。	PUNCT	PUNCT	_	46	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+50	𗋕	XHZD2019=thja	DET	DET	_	51	det	_	other|ChiGloss=其|ChiTreebank=是|LMC=ʂɦì_|OM=ʂr̩̀_|EMC=dʑiə̆ʼ/dʑiʼ_|Pinyin=shì_
+51	𗯨	XHZD4713=rjur	PROPN	PROPN	_	67	nsubj	_	world|ChiGloss=世|ChiTreebank=觀世音|LMC=kuan_ʂiaj̀_ʔim_|OM=kɔn_ʂì_jim_|EMC=kwan_ɕiajʰ_ʔim_|Pinyin=guān_shì_yīn_
+52	𗙏	XHZD1586=ɣiẹ	PROPN	PROPN	_	51	name	_	sound|ChiGloss=音|ChiTreebank=觀世音|LMC=kuan_ʂiaj̀_ʔim_|OM=kɔn_ʂì_jim_|EMC=kwan_ɕiajʰ_ʔim_|Pinyin=guān_shì_yīn_
+53	𘝯	XHZD5593=bio̱	PROPN	PROPN	_	51	name	_	to_look|ChiGloss=觀|ChiTreebank=觀世音|LMC=kuan_ʂiaj̀_ʔim_|OM=kɔn_ʂì_jim_|EMC=kwan_ɕiajʰ_ʔim_|Pinyin=guān_shì_yīn_
+54	𘏞	XHZD5685=po	NOUN	NOUN	_	51	appos	_	to_report|ChiGloss=菩(Transcription)|ChiTreebank=菩薩|LMC=pfiuə̆_sat_|OM=pʰú_sǎ_|EMC=bɔ_sat_|Pinyin=pú_sà_
+55	𗢈	XHZD4037=tsa	NOUN	NOUN	_	54	compound	_	village|ChiGloss=薩(Transcription)|ChiTreebank=菩薩|LMC=pfiuə̆_sat_|OM=pʰú_sǎ_|EMC=bɔ_sat_|Pinyin=pú_sà_
+56	𗓚	XHZD4737=ma	NOUN	NOUN	_	51	appos	_	to_apply|ChiGloss=摩(Transcription)|ChiTreebank=摩訶薩|LMC=mua_xa_sat_|OM=mɔ́_xɔ_sǎ_|EMC=ma_xa_sat_|Pinyin=mó_hē_sà_
+57	𘄽	XHZD0685=ŋạ	NOUN	NOUN	_	56	compound	_	good|ChiGloss=善、好、良、美、妙、訶(Transcription)|ChiTreebank=摩訶薩|LMC=mua_xa_sat_|OM=mɔ́_xɔ_sǎ_|EMC=ma_xa_sat_|Pinyin=mó_hē_sà_
+58	𗢈	XHZD4037=tsa	NOUN	NOUN	_	56	compound	_	village|ChiGloss=薩(Transcription)|ChiTreebank=摩訶薩|LMC=mua_xa_sat_|OM=mɔ́_xɔ_sǎ_|EMC=ma_xa_sat_|Pinyin=mó_hē_sà_
+59	𗫂	XHZD3583=tja	ADP	ADP	_	51	case	_	"an_affix_stressing_subj|ChiGloss=(after_verb,_Adj,_Num)_者、以、之、乃、則、(stressing_subj)____"
+60	𗴒	XHZD2539=kjạ	NOUN	NOUN	_	67	nmod	_	to_fear|ChiGloss=畏懼|ChiTreebank=畏|LMC=ʔyj̀_|OM=uj̀_|EMC=ʔujʰ_|Pinyin=wèi_
+61	𗃬	XHZD3424=le	NOUN	NOUN	_	60	conj	_	fear|ChiGloss=怖|ChiTreebank=怖|LMC=pʰuə̆̀_|OM=pù_|EMC=pʰɔʰ_|Pinyin=bù_
+62	𗤺	XHZD2466=lhjwɨ	ADJ	ADJ	_	63	amod	_	abrupt|ChiGloss=驟、暴、疾|ChiTreebank=急|LMC=kip_|OM=kǐ_|EMC=kip_|Pinyin=jí_
+63	𗧹	XHZD2444=ŋjir_[ŋjĩ]	NOUN	NOUN	_	60	conj	_	disaster|ChiGloss=災難|ChiTreebank=難|LMC=nan/naǹ_|OM=nań/naǹ_|EMC=nan_|Pinyin=nán/nàn_
+64	𘂤	XHZD5993=kha	ADP	ADP	_	60	case	_	centre|ChiGloss=中、間|ChiTreebank=之中|LMC=tʂi_triwŋ|OM=tʂr̩_tʂuŋ|EMC=tɕɨ/tɕi_|Pinyin=zhī_zhōng
+65	𗃬	XHZD3424=le	NOUN	NOUN	_	67	dobj	_	fear|ChiGloss=怖|ChiTreebank=無畏|LMC=ʋjyə̆/ʋuə̆_ʔyj̀_|OM=ʋú_uj̀_|EMC=muə̆_ʔujʰ_|Pinyin=wú_wèi_
+66	𗤋	XHZD2194=mjij	DET	DET	_	65	det	_	not|ChiGloss=無、非、不|ChiTreebank=無畏|LMC=ʋjyə̆/ʋuə̆_ʔyj̀_|OM=ʋú_uj̀_|EMC=muə̆_ʔujʰ_|Pinyin=wú_wèi_
+67	𘈈	XHZD2047=mji̱	VERB	VERB	_	0	root	_	to_hand_out|ChiGloss=施|ChiTreebank=施|LMC=ʂi_|OM=ʂr̩_|EMC=ɕiə̆/ɕi_|Pinyin=shī_
+68	𗩱	XHZD2620=njwi	AUX	AUX	_	67	aux	_	can|ChiGloss=能|ChiTreebank=能|LMC=nəə̆ŋ_|OM=nəŋ́_|EMC=nəŋ/nəj_|Pinyin=néng_
+69	𗌭	XHZD1542=ku	ADV	ADV	_	86	advmod	_	so|ChiGloss=則、故____
+70	𘘦	XHZD0322=tśhjwo	SCONJ	SCONJ	_	86	mark	_	a_modal_auxiliary|ChiGloss=方、故、然|ChiTreebank=故|LMC=kuə̆̀_|OM=kù_|EMC=kɔʰ_|Pinyin=dù_
+71	𘌽	XHZD5354=thjɨ	PRON	PRON	_	70	mwe	_	this|ChiGloss=此|ChiTreebank=此|LMC=tsʰź̩_|OM=tsʰž̩_|EMC=tsʰiə̆ʼ/tsʰiʼ_|Pinyin=cǐ_
+72	𗦗	XHZD2670=so	NOUN	NOUN	_	86	nmod	_	man|ChiGloss=娑(Transcription)|ChiTreebank=娑婆|LMC=sa_pɦua_|OM=sɔ_pʰɔ́_|EMC=sa_ba_|Pinyin=suō_pó_
+73	𗣧	XHZD2640=pho	NOUN	NOUN	_	72	compound	_	thin|ChiGloss=波、婆、摩、訶(Transcription)|ChiTreebank=娑婆|LMC=sa_pɦua_|OM=sɔ_pʰɔ́_|EMC=sa_ba_|Pinyin=suō_pó_
+74	𗯨	XHZD4713=rjur	NOUN	NOUN	_	72	nmod	_	world|ChiGloss=世|ChiTreebank=世|LMC=ʂiaj̀_|OM=ʂì_|EMC=ɕiajʰ_|Pinyin=shì_
+75	𗐯	XHZD4719=kiẹj	NOUN	NOUN	_	74	compound	_	boundary|ChiGloss=界|ChiTreebank=界|LMC=kjaːj̀_|OM=kjaj̀_|EMC=kəɨjʰ/kɛːjʰ_|Pinyin=jiè_
+76	𗅁	XHZD2983=·u	ADP	ADP	_	72	case	_	inner|ChiGloss=中____
+77	𗑷	XHZD4683=to	PRON	PRON	_	86	nsubj	_	all|ChiGloss=皆、悉、盡、總|ChiTreebank=皆|LMC=kjaːj_|OM=kjaj_|EMC=kəɨj/kɛ:j_|Pinyin=jiē_
+78	𗄊	XHZD0010=zji	PRON	PRON	_	77	compound	_	all|ChiGloss=皆、俱、咸、普、悉|ChiTreebank=皆|LMC=kjaːj_|OM=kjaj_|EMC=kəɨj/kɛ:j_|Pinyin=jiē_
+79	𗳱	XHZD0388=thja	PRON	PRON	_	85	dobj	_	that|ChiGloss=它、其、彼|ChiTreebank=之|LMC=tʂi_|OM=tʂr̩_|EMC=tɕɨ/tɕi_|Pinyin=zhī_
+80	𗗙	XHZD1139=·jij	ADP	ADP	_	79	case	_	a_possessive_adverb;_towards|ChiGloss=之、人、對、(stressing_obj)____
+81	𗃬	XHZD3424=le	NOUN	NOUN	_	83	dobj	_	fear|ChiGloss=怖|ChiTreebank=無畏|LMC=ʋjyə̆/ʋuə̆_ʔyj̀_|OM=ʋú_uj̀_|EMC=muə̆_ʔujʰ_|Pinyin=wú_wèi_
+82	𗤋	XHZD2194=mjij	DET	DET	_	81	det	_	not|ChiGloss=無、非、不|ChiTreebank=無畏|LMC=ʋjyə̆/ʋuə̆_ʔyj̀_|OM=ʋú_uj̀_|EMC=muə̆_ʔujʰ_|Pinyin=wú_wèi_
+83	𘈈	XHZD2047=mji̱	VERB	VERB	_	84	acl	_	to_hand_out|ChiGloss=施|ChiTreebank=施|LMC=ʂi_|OM=ʂr̩_|EMC=ɕiə̆/ɕi_|Pinyin=shī_
+84	𗇋	XHZD3818=mjijr	NOUN	NOUN	_	85	dobj	_	an_auxiliary_word|ChiGloss=者、(代)人也、(after_Noun/Adj./Verb)_a_person_involved_in_the_matter|ChiTreebank=者|LMC=tsiá_|OM=tʂiǎ_|EMC=tɕiaʼ_|Pinyin=zhě_
+85	𘟂	XHZD0508=ŋwu	VERB	VERB	_	86	xcomp	_	to_be|ChiGloss=是、對(wrong-right)、於|ChiTreebank=爲|LMC=yj_|OM=uj́_|EMC=wiə̆/wi_|Pinyin=wéi_
+86	𘘥	XHZD1279=·jɨ_[jɨ]	VERB	VERB	_	67	parataxis	_	to_say|ChiGloss=為、云、說、曰、白____
+87	𘃞	XHZD5285=ljɨ	PART	PART	_	86	discourse	_	one;_discourse_particle|ChiGloss=也、矣、一、獨、(叠字)一一____
+88	。	。	PUNCT	PUNCT	_	67	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+
+~~~
+
+~~~ conllu
+1	𗿳	XHZD3589=dzjɨj	NOUN	NOUN	_	10	nmod	_	time|ChiGloss=時____
+2	𗉣	XHZD0797=phji	PROPN	PROPN	_	10	nsubj	_	scheme|ChiGloss=意|ChiTreebank=無盡意|LMC=ʋjyə̆/ʋuə̆_tsɦiǹ_ʔì_|OM=ʋú_tsiǹ_jì_|EMC=muə̆_dzinʼ_ʔɨʰ/ʔiʰ_|Pinyin=wú_jìn_yì_
+3	𗅋	XHZD1918=mji	PROPN	PROPN	_	2	name	_	not|ChiGloss=無|ChiTreebank=無盡意|LMC=ʋjyə̆/ʋuə̆_tsɦiǹ_ʔì_|OM=ʋú_tsiǹ_jì_|EMC=muə̆_dzinʼ_ʔɨʰ/ʔiʰ_|Pinyin=wú_jìn_yì_
+4	𗋃	XHZD3075=sji	PROPN	PROPN	_	2	name	_	limit|ChiGloss=盡|ChiTreebank=無盡意|LMC=ʋjyə̆/ʋuə̆_tsɦiǹ_ʔì_|OM=ʋú_tsiǹ_jì_|EMC=muə̆_dzinʼ_ʔɨʰ/ʔiʰ_|Pinyin=wú_jìn_yì_
+5	𘋢	XHZD5906=tshjɨ_[ɲia]	NOUN	NOUN	_	2	appos	_	Bodhisattva|ChiGloss=薩|ChiTreebank=菩薩|LMC=pfiuə̆_sat_|OM=pʰú_sǎ_|EMC=bɔ_sat_|Pinyin=pú_sà_
+6	𗥤	XHZD3574=tsjij	NOUN	NOUN	_	5	compound	_	to_know;_bodhi|ChiGloss=悟、明、菩提|ChiTreebank=菩薩|LMC=pfiuə̆_sat_|OM=pʰú_sǎ_|EMC=bɔ_sat_|Pinyin=pú_sà_
+7	𗢳	XHZD2852=tha	NOUN	NOUN	_	10	iobj	_	Buddha|ChiGloss=佛|ChiTreebank=佛|LMC=fɦjyt/fɦut_|OM=fɔ́/fú_|EMC=but_|Pinyin=fó/fú_
+8	𗗙	XHZD1139=·jij	ADP	ADP	_	7	case	_	a_possessive_adverb;_towards|ChiGloss=之、人、對、(stressing_obj)____
+9	𘒣	XHZD1045=dạ	NOUN	NOUN	_	10	dobj	_	speech|ChiGloss=言|ChiTreebank=言|LMC=ŋian_|OM=jɛń_|EMC=ŋɨan_|Pinyin=yán_
+10	𘘥	XHZD1279=·jɨ_[jɨ]	VERB	VERB	_	0	root	_	to_say|ChiGloss=為、云、說、曰、白|ChiTreebank=白|LMC=pɦaːjk_|OM=paj́_|EMC=baɨjk/bɛːjk_|Pinyin=bái_
+11	𗯨	XHZD4713=rjur	PROPN	PROPN	_	21	vocative	_	world|ChiGloss=世|ChiTreebank=世尊|LMC=ʂiaj̀_tsun_|OM=ʂì_tsun_|EMC=ɕiajʰ_tswən_|Pinyin=shì_zūn_
+12	𗖻	XHZD1830=pjụ	PROPN	PROPN	_	11	compound	_	respect|ChiGloss=尊|ChiTreebank=世尊|LMC=ʂiaj̀_tsun_|OM=ʂì_tsun_|EMC=ɕiajʰ_tswən_|Pinyin=shì_zūn_
+13	𗧓	XHZD2098=ŋa	PRON	PRON	_	21	nsubj	_	I|ChiGloss=我|ChiTreebank=我|LMC=ŋá_|OM=wɔ̌_|EMC=ŋaʼ_|Pinyin=wǒ_
+14	𗫈	XHZD3133=sjij	ADV	ADV	_	21	advmod	_	this_morning;_today|ChiGloss=今|ChiTreebank=今|LMC=kim_|OM=kim_|EMC=kim_|Pinyin=jīn_
+15	𗯨	XHZD4713=rjur	PROPN	PROPN	_	21	dobj	_	world|ChiGloss=世|ChiTreebank=觀世音|LMC=kuan_ʂiaj̀_ʔim_|OM=kɔn_ʂì_jim_|EMC=kwan_ɕiajʰ_ʔim_|Pinyin=guān_shì_yīn_
+16	𗙏	XHZD1586=ɣiẹ	PROPN	PROPN	_	15	name	_	sound|ChiGloss=音|ChiTreebank=觀世音|LMC=kuan_ʂiaj̀_ʔim_|OM=kɔn_ʂì_jim_|EMC=kwan_ɕiajʰ_ʔim_|Pinyin=guān_shì_yīn_
+17	𘝯	XHZD5593=bio̱	PROPN	PROPN	_	15	name	_	to_look|ChiGloss=觀|ChiTreebank=觀世音|LMC=kuan_ʂiaj̀_ʔim_|OM=kɔn_ʂì_jim_|EMC=kwan_ɕiajʰ_ʔim_|Pinyin=guān_shì_yīn_
+18	𘋢	XHZD5906=tshjɨ_[ɲia]	NOUN	NOUN	_	15	appos	_	Bodhisattva|ChiGloss=薩|ChiTreebank=菩薩|LMC=pfiuə̆_sat_|OM=pʰú_sǎ_|EMC=bɔ_sat_|Pinyin=pú_sà_
+19	𗥤	XHZD3574=tsjij	NOUN	NOUN	_	18	compound	_	to_know;_bodhi|ChiGloss=悟、明、菩提|ChiTreebank=菩薩|LMC=pfiuə̆_sat_|OM=pʰú_sǎ_|EMC=bɔ_sat_|Pinyin=pú_sà_
+20	𗗙	XHZD1139=·jij	ADP	ADP	_	15	case	_	a_possessive_adverb;_towards|ChiGloss=之、人、對、(stressing_obj)____
+21	𗴿	XHZD0105=kjụ	VERB	VERB	_	10	parataxis	_	to_pray|ChiGloss=求|ChiTreebank=供養|LMC=kywŋ̀_jiaŋ́_|OM=kuŋ̀_jaŋ̌_|EMC=kuawŋʰ_jɨaŋʼ_|Pinyin=gòng_yǎng_
+22	𗒀	XHZD4887=tshwew	VERB	VERB	_	21	compound	_	to_support|ChiGloss=供養|ChiTreebank=供養|LMC=kywŋ̀_jiaŋ́_|OM=kuŋ̀_jaŋ̌_|EMC=kuawŋʰ_jɨaŋʼ_|Pinyin=gòng_yǎng_
+23	𗧓	XHZD2098=ŋa	PRON	PRON	_	25	nsubj	_	I|ChiGloss=我____
+24	𗗟	XHZD1101=·jij	AUX	AUX	_	25	aux	_	will|ChiGloss=將、臨、欲____
+25	𘘥	XHZD1279=·jɨ_[jɨ]	VERB	VERB	_	21	conj	_	to_say|ChiGloss=為、云、說、曰、白____
+26	𗉮	XHZD0824=tśhjɨ	ADV	ADV	_	40	advmod	_	immediately|ChiGloss=立即、遂|ChiTreebank=即|LMC=tsiə̆_|OM=[tsǐ]_|EMC=tsik_|Pinyin=jí_
+27	𘃛	XHZD5417=rjar	ADV	ADV	_	26	compound	_	immediate|ChiGloss=立即|ChiTreebank=即|LMC=tsiə̆_|OM=[tsǐ]_|EMC=tsik_|Pinyin=jí_
+28	𗒕	XHZD4895=ljwịj	NOUN	NOUN	_	40	nmod	_	neck|ChiGloss=頸、枷|ChiTreebank=頸|LMC=kjiajŋ́_|OM=kiŋ̌_|EMC=kjiajŋʼ/gjiajŋ_|Pinyin=jǐng_
+29	𘕿	XHZD5856=ɣa	ADP	ADP	_	28	case	_	a_preposition|ChiGloss=(after_the_modifier)_於、上、中、下、而、(time_modifier)____
+30	𘊝	XHZD2798=·jir_[jir]	NUM	NUM	_	32	nummod	_	hundred|ChiGloss=百|ChiTreebank=百千|LMC=paːjk_|OM=paǰ_|EMC=paɨjk/pɛːjk_|Pinyin=bǎi/bó_
+31	𗡞	XHZD0359=tụ	NUM	NUM	_	32	nummod	_	thousand|ChiGloss=千|ChiTreebank=百千|LMC=paːjk_|OM=paǰ_|EMC=paɨjk/pɛːjk_|Pinyin=bǎi/bó_
+32	𗍬	XHZD4048=lju	NOUN	NOUN	_	33	nmod	_	a_unit_of_weight|ChiGloss=兩|ChiTreebank=兩|LMC=liaŋ_|OM=ljaŋ̌_|EMC=lɨaŋʼ_|Pinyin=liǎng_
+33	𗵒	XHZD0152=kiẹ	NOUN	NOUN	_	34	xcomp	_	gold|ChiGloss=金|ChiTreebank=金|LMC=kim_|OM=kim_|EMC=kim_|Pinyin=jīn_
+34	𗋐	XHZD2724=tśhju	VERB	VERB	_	37	acl	_	to_have;_all|ChiGloss=有|ChiTreebank=直|LMC=trɦiăk_|OM=tʂí_|EMC=drik_|Pinyin=zhí_
+35	𗫔	XHZD3119=·ji	ADJ	ADJ	_	36	amod	_	many|ChiGloss=多|ChiTreebank=寶珠|LMC=puaẃ_tʂyă_|OM=pɔw̌_tʂy_|EMC=pawʼ_tɕuă_|Pinyin=bǎo_zhū_
+36	𘏨	XHZD5655=ljɨ̣	NOUN	NOUN	_	37	nmod	_	treasure|ChiGloss=寶|ChiTreebank=寶珠|LMC=puaẃ_tʂyă_|OM=pɔw̌_tʂy_|EMC=pawʼ_tɕuă_|Pinyin=bǎo_zhū_
+37	𗡦	XHZD0592=·jɨr	NOUN	NOUN	_	40	dobj	_	a_necklace_of_precious_stones|ChiGloss=瓔|ChiTreebank=瓔珞|LMC=?_lak_|OM=?_laẁ_|EMC=?_lak_|Pinyin=yīng_luò_
+38	𗙲	XHZD1634=rer	NOUN	NOUN	_	37	compound	_	jade_necklace|ChiGloss=珞|ChiTreebank=瓔珞|LMC=?_lak_|OM=?_laẁ_|EMC=?_lak_|Pinyin=yīng_luò_
+39	𗞞	XHZD4342=dja	ADV	ADV	_	40	advmod	_	an_auxiliary_word|ChiGloss=(before_verb)_已、所、而，(showing_tendency)____
+40	𗱌	XHZD1799=thu	VERB	VERB	_	21	conj	_	to_free_oneself|ChiGloss=解、脫|ChiTreebank=解|LMC=kjaːj́_|OM=kjaǰ_|EMC=kaɨjʼ/kɛːjʼ_|Pinyin=jiě_
+41	𗯨	XHZD4713=rjur	PROPN	PROPN	_	46	iobj	_	world|ChiGloss=世|ChiTreebank=之|LMC=tʂi_|OM=tʂr̩_|EMC=tɕɨ/tɕi_|Pinyin=zhī_
+42	𗙏	XHZD1586=ɣiẹ	PROPN	PROPN	_	41	name	_	sound|ChiGloss=音|ChiTreebank=之|LMC=tʂi_|OM=tʂr̩_|EMC=tɕɨ/tɕi_|Pinyin=zhī_
+43	𘝯	XHZD5593=bio̱	PROPN	PROPN	_	41	name	_	to_look|ChiGloss=觀|ChiTreebank=之|LMC=tʂi_|OM=tʂr̩_|EMC=tɕɨ/tɕi_|Pinyin=zhī_
+44	𗗙	XHZD1139=·jij	ADP	ADP	_	41	case	_	a_possessive_adverb;_towards|ChiGloss=之、人、對、(stressing_obj)____
+45	𗞞	XHZD4342=dja	ADV	ADV	_	46	advmod	_	an_auxiliary_word|ChiGloss=(before_verb)_已、所、而，(showing_tendency)____
+46	𘈈	XHZD2047=mji̱	VERB	VERB	_	40	xcomp	_	to_hand_out|ChiGloss=施|ChiTreebank=與|LMC=jiắ/jyắ_|OM=y̌_|EMC=jɨăʼ_|Pinyin=yǔ_
+47	𘌽	XHZD5354=thjɨ	PRON	PRON	_	49	nmod	_	this|ChiGloss=此|ChiTreebank=是|LMC=ʂɦì_|OM=ʂr̩̀_|EMC=dʑiə̆ʼ/dʑiʼ_|Pinyin=shì_
+48	𗍊	XHZD0290=sju	ADP	ADP	_	47	case	_	as|ChiGloss=如|ChiTreebank=是|LMC=ʂɦì_|OM=ʂr̩̀_|EMC=dʑiə̆ʼ/dʑiʼ_|Pinyin=shì_
+49	𘒣	XHZD1045=dạ	NOUN	NOUN	_	50	dobj	_	speech|ChiGloss=言|ChiTreebank=言|LMC=ŋian_|OM=jɛń_|EMC=ŋɨan_|Pinyin=yán_
+50	𘘥	XHZD1279=·jɨ_[jɨ]	VERB	VERB	_	46	conj	_	to_say|ChiGloss=為、云、說、曰、白|ChiTreebank=作|LMC=tsuɔ̀_|OM=tsù_|EMC=tsɔʰ_|Pinyin=zuò_
+51	𘜶	XHZD4457=tha_[thạ]	ADJ	ADJ	_	52	amod	_	big|ChiGloss=大|ChiTreebank=仁|LMC=rin_|OM=riń_|EMC=ɲin_|Pinyin=rén_
+52	𗇋	XHZD3818=mjijr	NOUN	NOUN	_	61	vocative	_	an_auxiliary_word|ChiGloss=者、(代)人也、(after_Noun/Adj./Verb)_a_person_involved_in_the_matter|ChiTreebank=者|LMC=tsiá_|OM=tʂiǎ_|EMC=tɕiaʼ_|Pinyin=zhě_
+53	𘌽	XHZD5354=thjɨ	DET	DET	_	54	det	_	this|ChiGloss=此|ChiTreebank=此|LMC=tsʰź̩_|OM=tsʰž̩_|EMC=tsʰiə̆ʼ/tsʰiʼ_|Pinyin=cǐ_
+54	𗹙	XHZD0467=tsji̱r	NOUN	NOUN	_	55	dobj	_	method|ChiGloss=法|ChiTreebank=法|LMC=fjyap/faːp_|OM=fǎ_|EMC=puap_|Pinyin=fǎ_
+55	𘈈	XHZD2047=mji̱	VERB	VERB	_	58	acl	_	to_hand_out|ChiGloss=施|ChiTreebank=施|LMC=ʂi_|OM=ʂr̩_|EMC=ɕiə̆/ɕi_|Pinyin=shī_
+56	𘀭	XHZD3934=kiwej	ADJ	ADJ	_	57	amod	_	TRUE|ChiGloss=珍|ChiTreebank=珍寶|LMC=trin_puaẃ_|OM=tʂin_pɔw̌_|EMC=trin_pawʼ_|Pinyin=zhēn_bǎo_
+57	𘏨	XHZD5655=ljɨ̣	NOUN	NOUN	_	58	nmod	_	treasure|ChiGloss=寶|ChiTreebank=珍寶|LMC=trin_puaẃ_|OM=tʂin_pɔw̌_|EMC=trin_pawʼ_|Pinyin=zhēn_bǎo_
+58	𗡦	XHZD0592=·jɨr	NOUN	NOUN	_	61	dobj	_	a_necklace_of_precious_stones|ChiGloss=瓔|ChiTreebank=瓔珞|LMC=?_lak_|OM=?_laẁ_|EMC=?_lak_|Pinyin=yīng_luò_
+59	𗙲	XHZD1634=rer	NOUN	NOUN	_	58	compound	_	jade_necklace|ChiGloss=珞|ChiTreebank=瓔珞|LMC=?_lak_|OM=?_laẁ_|EMC=?_lak_|Pinyin=yīng_luò_
+60	𗋚	XHZD2590=·wjɨ_[wjɨ]	ADV	ADV	_	61	advmod	_	a_prefix_means_something_is_already_done|ChiGloss=(before_verb)_所、已、從、且、於、過、要、猶____
+61	𘎨	XHZD5591=lhjị	VERB	VERB	_	50	parataxis	_	to_bear_(a_burden)|ChiGloss=承受|ChiTreebank=受|LMC=ʂɦiẁ_|OM=ʂiẁ_|EMC=dʑuwʼ_|Pinyin=shòu_
+62	𘉞	XHZD4601=nja	AUX	AUX	_	61	aux	_	an_auxiliary_word|ChiGloss=使、令、當、被(疑問)____
+63	𘘥	XHZD1279=·jɨ_[jɨ]	VERB	VERB	_	50	mwe	_	to_say|ChiGloss=為、云、說、曰、白____
+64	。	。	PUNCT	PUNCT	_	10	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+65	𗿳	XHZD3589=dzjɨj	NOUN	NOUN	_	71	nmod	_	time|ChiGloss=時|ChiTreebank=時|LMC=ʂɦi_|OM=ʂŕ̩_|EMC=dʑɨ/dʑi_|Pinyin=shí_
+66	𗯨	XHZD4713=rjur	PROPN	PROPN	_	71	nsubj	_	world|ChiGloss=世|ChiTreebank=觀世音|LMC=kuan_ʂiaj̀_ʔim_|OM=kɔn_ʂì_jim_|EMC=kwan_ɕiajʰ_ʔim_|Pinyin=guān_shì_yīn_
+67	𗙏	XHZD1586=ɣiẹ	PROPN	PROPN	_	66	name	_	sound|ChiGloss=音|ChiTreebank=觀世音|LMC=kuan_ʂiaj̀_ʔim_|OM=kɔn_ʂì_jim_|EMC=kwan_ɕiajʰ_ʔim_|Pinyin=guān_shì_yīn_
+68	𘝯	XHZD5593=bio̱	PROPN	PROPN	_	66	name	_	to_look|ChiGloss=觀|ChiTreebank=觀世音|LMC=kuan_ʂiaj̀_ʔim_|OM=kɔn_ʂì_jim_|EMC=kwan_ɕiajʰ_ʔim_|Pinyin=guān_shì_yīn_
+69	𘋢	XHZD5906=tshjɨ_[ɲia]	NOUN	NOUN	_	66	appos	_	Bodhisattva|ChiGloss=薩|ChiTreebank=菩薩|LMC=pfiuə̆_sat_|OM=pʰú_sǎ_|EMC=bɔ_sat_|Pinyin=pú_sà_
+70	𗥤	XHZD3574=tsjij	NOUN	NOUN	_	69	compound	_	to_know;_bodhi|ChiGloss=悟、明、菩提|ChiTreebank=菩薩|LMC=pfiuə̆_sat_|OM=pʰú_sǎ_|EMC=bɔ_sat_|Pinyin=pú_sà_
+71	𗒐	XHZD5030=ɣiwej	VERB	VERB	_	0	root	_	to_receive|ChiGloss=受|ChiTreebank=受|LMC=ʂɦiẁ_|OM=ʂiẁ_|EMC=dʑuwʼ_|Pinyin=shòu_
+72	𗨙	XHZD3159=lhjịj_[lhjij]	VERB	VERB	_	71	compound	_	to_bear_(a_burden)|ChiGloss=受|ChiTreebank=受|LMC=ʂɦiẁ_|OM=ʂiẁ_|EMC=dʑuwʼ_|Pinyin=shòu_
+73	𘖑	XHZD5643=mjɨ	PART	PART	_	71	neg	_	not|ChiGloss=無|ChiTreebank=不|LMC=put_|OM=pǔ_|EMC=pət/put_|Pinyin=bù_
+74	𗳢	XHZD0303=dzjij_[dźjij]	AUX	AUX	_	71	aux	_	to_agree|ChiGloss=肯|ChiTreebank=肯|LMC=kʰəə̆ŋ́_|OM=kʰəň_|EMC=kʰəŋʼ_|Pinyin=kěn_
+75	。	。	PUNCT	PUNCT	_	71	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+
+~~~
+
+~~~ conllu
+1	𗉣	XHZD0797=phji	PROPN	PROPN	_	12	nsubj	_	scheme|ChiGloss=意|ChiTreebank=無盡意|LMC=ʋjyə̆/ʋuə̆_tsɦiǹ_ʔì_|OM=ʋú_tsiǹ_jì_|EMC=muə̆_dzinʼ_ʔɨʰ/ʔiʰ_|Pinyin=wú_jìn_yì_
+2	𗅋	XHZD1918=mji	PROPN	PROPN	_	1	name	_	not|ChiGloss=無|ChiTreebank=無盡意|LMC=ʋjyə̆/ʋuə̆_tsɦiǹ_ʔì_|OM=ʋú_tsiǹ_jì_|EMC=muə̆_dzinʼ_ʔɨʰ/ʔiʰ_|Pinyin=wú_jìn_yì_
+3	𗋃	XHZD3075=sji	PROPN	PROPN	_	1	name	_	limit|ChiGloss=盡|ChiTreebank=無盡意|LMC=ʋjyə̆/ʋuə̆_tsɦiǹ_ʔì_|OM=ʋú_tsiǹ_jì_|EMC=muə̆_dzinʼ_ʔɨʰ/ʔiʰ_|Pinyin=wú_jìn_yì_
+4	𗅉	XHZD1906=nio̱w	ADV	ADV	_	12	advmod	_	a_conjunction|ChiGloss=後、及、又、并、更、外、逐、之、已、必|ChiTreebank=復|LMC=fɦjywk/fɦuwk_|OM=fú/fǔ_|EMC=buwk_|Pinyin=fù_
+5	𗯨	XHZD4713=rjur	PROPN	PROPN	_	12	iobj	_	world|ChiGloss=世|ChiTreebank=觀世音|LMC=kuan_ʂiaj̀_ʔim_|OM=kɔn_ʂì_jim_|EMC=kwan_ɕiajʰ_ʔim_|Pinyin=guān_shì_yīn_
+6	𗙏	XHZD1586=ɣiẹ	PROPN	PROPN	_	5	name	_	sound|ChiGloss=音|ChiTreebank=觀世音|LMC=kuan_ʂiaj̀_ʔim_|OM=kɔn_ʂì_jim_|EMC=kwan_ɕiajʰ_ʔim_|Pinyin=guān_shì_yīn_
+7	𘝯	XHZD5593=bio̱	PROPN	PROPN	_	5	name	_	to_look|ChiGloss=觀|ChiTreebank=觀世音|LMC=kuan_ʂiaj̀_ʔim_|OM=kɔn_ʂì_jim_|EMC=kwan_ɕiajʰ_ʔim_|Pinyin=guān_shì_yīn_
+8	𘋢	XHZD5906=tshjɨ_[ɲia]	NOUN	NOUN	_	5	appos	_	Bodhisattva|ChiGloss=薩|ChiTreebank=菩薩|LMC=pfiuə̆_sat_|OM=pʰú_sǎ_|EMC=bɔ_sat_|Pinyin=pú_sà_
+9	𗥤	XHZD3574=tsjij	NOUN	NOUN	_	8	compound	_	to_know;_bodhi|ChiGloss=悟、明、菩提|ChiTreebank=菩薩|LMC=pfiuə̆_sat_|OM=pʰú_sǎ_|EMC=bɔ_sat_|Pinyin=pú_sà_
+10	𗗙	XHZD1139=·jij	ADP	ADP	_	5	case	_	a_possessive_adverb;_towards|ChiGloss=之、人、對、(stressing_obj)____
+11	𘒣	XHZD1045=dạ	NOUN	NOUN	_	12	dobj	_	speech|ChiGloss=言|ChiTreebank=言|LMC=ŋian_|OM=jɛń_|EMC=ŋɨan_|Pinyin=yán_
+12	𘘥	XHZD1279=·jɨ_[jɨ]	VERB	VERB	_	0	root	_	to_say|ChiGloss=為、云、說、曰、白|ChiTreebank=白|LMC=pɦaːjk_|OM=paj́_|EMC=baɨjk/bɛːjk_|Pinyin=bái_
+13	𘜶	XHZD4457=tha_[thạ]	ADJ	ADJ	_	14	amod	_	big|ChiGloss=大|ChiTreebank=仁|LMC=rin_|OM=riń_|EMC=ɲin_|Pinyin=rén_
+14	𗇋	XHZD3818=mjijr	NOUN	NOUN	_	25	vocative	_	an_auxiliary_word|ChiGloss=者、(代)人也、(after_Noun/Adj./Verb)_a_person_involved_in_the_matter|ChiTreebank=者|LMC=tsiá_|OM=tʂiǎ_|EMC=tɕiaʼ_|Pinyin=zhě_
+15	𗧓	XHZD2098=ŋa	PRON	PRON	_	18	dobj	_	I|ChiGloss=我|ChiTreebank=我|LMC=ŋá_|OM=wɔ̌_|EMC=ŋaʼ_|Pinyin=wǒ_
+16	𘆄	XHZD0724=njɨ	CONJ	CONJ	_	15	cc	_	and_so_on|ChiGloss=等|ChiTreebank=等|LMC=təə̆ŋ́_|OM=təŋ̌_|EMC=təŋʼ_|Pinyin=děng_
+17	𗗙	XHZD1139=·jij	ADP	ADP	_	15	case	_	a_possessive_adverb;_towards|ChiGloss=之、人、對、(stressing_obj)|ChiTreebank=愍|LMC=miń_|OM=miň_|EMC=minʼ_|Pinyin=mǐn_
+18	𗕿	XHZD1483=njij	VERB	VERB	_	25	advcl	_	kind|ChiGloss=慈|ChiTreebank=愍|LMC=miń_|OM=miň_|EMC=minʼ_|Pinyin=mǐn_
+19	𘖛	XHZD5345=śjow	VERB	VERB	_	18	compound	_	kind|ChiGloss=愍|ChiTreebank=故|LMC=kuə̆̀_|OM=kù_|EMC=kɔʰ_|Pinyin=dù_
+20	𗖵	XHZD0433=bju	SCONJ	SCONJ	_	18	mark	_	for|ChiGloss=(Instrumental_sense_to_the_following__item)_為、依、因、由____
+21	𘌽	XHZD5354=thjɨ	DET	DET	_	22	det	_	this|ChiGloss=此|ChiTreebank=此|LMC=tsʰź̩_|OM=tsʰž̩_|EMC=tsʰiə̆ʼ/tsʰiʼ_|Pinyin=cǐ_
+22	𗡦	XHZD0592=·jɨr	NOUN	NOUN	_	25	dobj	_	a_necklace_of_precious_stones|ChiGloss=瓔|ChiTreebank=瓔珞|LMC=?_lak_|OM=?_laẁ_|EMC=?_lak_|Pinyin=yīng_luò_
+23	𗙲	XHZD1634=rer	NOUN	NOUN	_	22	compound	_	jade_necklace|ChiGloss=珞|ChiTreebank=瓔珞|LMC=?_lak_|OM=?_laẁ_|EMC=?_lak_|Pinyin=yīng_luò_
+24	𗋚	XHZD2590=·wjɨ_[wjɨ]	ADV	ADV	_	25	advmod	_	a_prefix_means_something_is_already_done|ChiGloss=(before_verb)_所、已、從、且、於、過、要、猶____
+25	𘎨	XHZD5591=lhjị	VERB	VERB	_	12	parataxis	_	to_bear_(a_burden)|ChiGloss=承受|ChiTreebank=受|LMC=ʂɦiẁ_|OM=ʂiẁ_|EMC=dʑuwʼ_|Pinyin=shòu_
+26	𘉞	XHZD4601=nja	AUX	AUX	_	25	aux	_	an_auxiliary_word|ChiGloss=使、令、當、被(疑問)____
+27	𘘣	XHZD1278=·jɨ_[jɨ]	VERB	VERB	_	12	mwe	_	to_say|ChiGloss=謂、云、說、曰、白____
+28	。	。	PUNCT	PUNCT	_	12	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+29	𗉘	XHZD1374=tśhjɨ	DET	DET	_	30	det	_	a_pronoun|ChiGloss=爾|ChiTreebank=爾|LMC=rí_|OM=rř̩_|EMC=ɲiə̆ʼ/ɲiʼ_|Pinyin=ěr_
+30	𘝨	XHZD4861=zjọ	NOUN	NOUN	_	38	nmod	_	time|ChiGloss=時|ChiTreebank=時|LMC=ʂɦi_|OM=ʂŕ̩_|EMC=dʑɨ/dʑi_|Pinyin=shí_
+31	𗢳	XHZD2852=tha	PROPN	PROPN	_	38	nsubj	_	Buddha|ChiGloss=佛|ChiTreebank=佛|LMC=fɦjyt/fɦut_|OM=fɔ́/fú_|EMC=but_|Pinyin=fó/fú_
+32	𗯨	XHZD4713=rjur	PROPN	PROPN	_	38	iobj	_	world|ChiGloss=世|ChiTreebank=觀世音|LMC=kuan_ʂiaj̀_ʔim_|OM=kɔn_ʂì_jim_|EMC=kwan_ɕiajʰ_ʔim_|Pinyin=guān_shì_yīn_
+33	𗙏	XHZD1586=ɣiẹ	PROPN	PROPN	_	32	name	_	sound|ChiGloss=音|ChiTreebank=觀世音|LMC=kuan_ʂiaj̀_ʔim_|OM=kɔn_ʂì_jim_|EMC=kwan_ɕiajʰ_ʔim_|Pinyin=guān_shì_yīn_
+34	𘝯	XHZD5593=bio̱	PROPN	PROPN	_	32	name	_	to_look|ChiGloss=觀|ChiTreebank=觀世音|LMC=kuan_ʂiaj̀_ʔim_|OM=kɔn_ʂì_jim_|EMC=kwan_ɕiajʰ_ʔim_|Pinyin=guān_shì_yīn_
+35	𘋢	XHZD5906=tshjɨ_[ɲia]	NOUN	NOUN	_	32	appos	_	Bodhisattva|ChiGloss=薩|ChiTreebank=菩薩|LMC=pfiuə̆_sat_|OM=pʰú_sǎ_|EMC=bɔ_sat_|Pinyin=pú_sà_
+36	𗥤	XHZD3574=tsjij	NOUN	NOUN	_	35	compound	_	to_know;_bodhi|ChiGloss=悟、明、菩提|ChiTreebank=菩薩|LMC=pfiuə̆_sat_|OM=pʰú_sǎ_|EMC=bɔ_sat_|Pinyin=pú_sà_
+37	𗗙	XHZD1139=·jij	ADP	ADP	_	32	case	_	a_possessive_adverb;_towards|ChiGloss=之、人、對、(stressing_obj)____
+38	𘘥	XHZD1279=·jɨ_[jɨ]	VERB	VERB	_	0	root	_	to_say|ChiGloss=為、云、說、曰、白|ChiTreebank=告|LMC=kaẁ_|OM=kaẁ_|EMC=kawʰ_|Pinyin=gào_
+39	𘌽	XHZD5354=thjɨ	DET	DET	_	40	det	_	this|ChiGloss=此|ChiTreebank=此|LMC=tsʰź̩_|OM=tsʰž̩_|EMC=tsʰiə̆ʼ/tsʰiʼ_|Pinyin=cǐ_
+40	𗉣	XHZD0797=phji	PROPN	PROPN	_	74	dobj	_	scheme|ChiGloss=意|ChiTreebank=無盡意|LMC=ʋjyə̆/ʋuə̆_tsɦiǹ_ʔì_|OM=ʋú_tsiǹ_jì_|EMC=muə̆_dzinʼ_ʔɨʰ/ʔiʰ_|Pinyin=wú_jìn_yì_
+41	𗅋	XHZD1918=mji	PROPN	PROPN	_	40	name	_	not|ChiGloss=無|ChiTreebank=無盡意|LMC=ʋjyə̆/ʋuə̆_tsɦiǹ_ʔì_|OM=ʋú_tsiǹ_jì_|EMC=muə̆_dzinʼ_ʔɨʰ/ʔiʰ_|Pinyin=wú_jìn_yì_
+42	𗋃	XHZD3075=sji	PROPN	PROPN	_	40	name	_	limit|ChiGloss=盡|ChiTreebank=無盡意|LMC=ʋjyə̆/ʋuə̆_tsɦiǹ_ʔì_|OM=ʋú_tsiǹ_jì_|EMC=muə̆_dzinʼ_ʔɨʰ/ʔiʰ_|Pinyin=wú_jìn_yì_
+43	𘋢	XHZD5906=tshjɨ_[ɲia]	NOUN	NOUN	_	40	appos	_	Bodhisattva|ChiGloss=薩|ChiTreebank=菩薩|LMC=pfiuə̆_sat_|OM=pʰú_sǎ_|EMC=bɔ_sat_|Pinyin=pú_sà_
+44	𗥤	XHZD3574=tsjij	NOUN	NOUN	_	43	compound	_	to_know;_bodhi|ChiGloss=悟、明、菩提|ChiTreebank=菩薩|LMC=pfiuə̆_sat_|OM=pʰú_sǎ_|EMC=bɔ_sat_|Pinyin=pú_sà_
+45	𘓁	XHZD4444=ljɨ̣	CONJ	CONJ	_	40	cc	_	a_conjunction_means_“and”|ChiGloss=及、雖、與|ChiTreebank=及|LMC=kɦip_|OM=kí_|EMC=gip_|Pinyin=jí_
+46	𗅉	XHZD1906=nio̱w	CONJ	CONJ	_	45	compound	_	a_conjunction|ChiGloss=後、及、又、并、更、外、逐、之、已、必|ChiTreebank=及|LMC=kɦip_|OM=kí_|EMC=gip_|Pinyin=jí_
+47	𗥃	XHZD2205=ljɨ̱r_[ljɨr]	NUM	NUM	_	48	nummod	_	four|ChiGloss=四|ChiTreebank=四衆|LMC=sz̩̀_tʂɨwŋ̀_|OM=sz̩̀_tʂuŋ̀_|EMC=siʰ_tɕuwŋʰ_|Pinyin=sì_zhòng_
+48	𗿷	XHZD3126=dźjij	NOUN	NOUN	_	40	conj	_	to_have|ChiGloss=有、(if_reduplicated)_所有|ChiTreebank=四衆|LMC=sz̩̀_tʂɨwŋ̀_|OM=sz̩̀_tʂuŋ̀_|EMC=siʰ_tɕuwŋʰ_|Pinyin=sì_zhòng_
+49	𘓱	XHZD1107=ŋwə	NOUN	NOUN	_	40	conj	_	heaven|ChiGloss=天|ChiTreebank=天|LMC=tʰian_|OM=tʰjɛn_|EMC=tʰɛn_|Pinyin=tiān_
+50	𗵃	XHZD0083=·we_[we]	NOUN	NOUN	_	49	compound	_	dragon|ChiGloss=龍|ChiTreebank=龍|LMC=lywŋ_|OM=ljuŋ́_|EMC=luawŋ_|Pinyin=lóng_
+51	𗥫	XHZD3807=·jij	NOUN	NOUN	_	40	conj	_	light|ChiGloss=夜(Transcription)|ChiTreebank=夜叉|LMC=jià_tʂʰaː_|OM=jɛ̀_tʂʰa_|EMC=jiaʰ_tʂʰaɨ/tʂʰɛː_|Pinyin=yè_chā_
+52	𘀺	XHZD4003=khja_[kha]	NOUN	NOUN	_	51	compound	_	to_draw_(water)|ChiGloss=汲、伽、叉(Transcription)|ChiTreebank=夜叉|LMC=jià_tʂʰaː_|OM=jɛ̀_tʂʰa_|EMC=jiaʰ_tʂʰaɨ/tʂʰɛː_|Pinyin=yè_chā_
+53	𗯊	XHZD5110=khjã_[khja]	NOUN	NOUN	_	40	conj	_	a_transliteration|ChiGloss=乾(Transcription)|ChiTreebank=乾闥婆|LMC=kɦian/kan_tʰat_pɦua_|OM=kʰjɛń/kan_[tʰǎ]_pʰɔ́_|EMC=gian/kan_tʰat_ba_|Pinyin=qián/gān_tà_pó_
+54	𗣩	XHZD3640=tha	NOUN	NOUN	_	53	compound	_	to_rely_on|ChiGloss=闥(Transcription)|ChiTreebank=乾闥婆|LMC=kɦian/kan_tʰat_pɦua_|OM=kʰjɛń/kan_[tʰǎ]_pʰɔ́_|EMC=gian/kan_tʰat_ba_|Pinyin=qián/gān_tà_pó_
+55	𗣧	XHZD2640=pho	NOUN	NOUN	_	53	compound	_	thin|ChiGloss=波、婆、摩、訶(Transcription)|ChiTreebank=乾闥婆|LMC=kɦian/kan_tʰat_pɦua_|OM=kʰjɛń/kan_[tʰǎ]_pʰɔ́_|EMC=gian/kan_tʰat_ba_|Pinyin=qián/gān_tà_pó_
+56	𗠝	XHZD4541=·a_[a]	NOUN	NOUN	_	40	conj	_	a_transliteration|ChiGloss=阿(Transcription)|ChiTreebank=阿修羅|LMC=ʔa_siw_la_|OM=ɔ_xiw_lɔ́_|EMC=ʔa_suw_la_|Pinyin=ā/à/ē_xiū_luó_
+57	𘏱	XHZD5391=sew	NOUN	NOUN	_	56	compound	_	piebald|ChiGloss=修(Transcription)|ChiTreebank=阿修羅|LMC=ʔa_siw_la_|OM=ɔ_xiw_lɔ́_|EMC=ʔa_suw_la_|Pinyin=ā/à/ē_xiū_luó_
+58	𗓽	XHZD4710=lo	NOUN	NOUN	_	56	compound	_	a_transliteration|ChiGloss=羅(Transcription)|ChiTreebank=阿修羅|LMC=ʔa_siw_la_|OM=ɔ_xiw_lɔ́_|EMC=ʔa_suw_la_|Pinyin=ā/à/ē_xiū_luó_
+59	𗡝	XHZD4620=kja	NOUN	NOUN	_	40	conj	_	how_about|ChiGloss=迦(Transcription)|ChiTreebank=迦樓羅|LMC=kia_ləw_la_|OM=[kjɛ]_ləẃ_lɔ́_|EMC=kɨa_ləw_la_|Pinyin=jiā_lóu_luó_
+60	𗜪	XHZD4348=lew	NOUN	NOUN	_	59	compound	_	building|ChiGloss=樓(Transcription)|ChiTreebank=迦樓羅|LMC=kia_ləw_la_|OM=[kjɛ]_ləẃ_lɔ́_|EMC=kɨa_ləw_la_|Pinyin=jiā_lóu_luó_
+61	𗓽	XHZD4710=lo	NOUN	NOUN	_	59	compound	_	a_transliteration|ChiGloss=羅(Transcription)|ChiTreebank=迦樓羅|LMC=kia_ləw_la_|OM=[kjɛ]_ləẃ_lɔ́_|EMC=kɨa_ləw_la_|Pinyin=jiā_lóu_luó_
+62	𗷭	XHZD0830=kjĩ	NOUN	NOUN	_	40	conj	_	a_transliteration|ChiGloss=緊(Transcription)|ChiTreebank=緊那羅|LMC=kjiń_ná/nà/na_la_|OM=kiň_nɔ̌/nɔ̀/nà/nɔ́_lɔ́_|EMC=kjinʼ_naʼ/naʰ/na_la_|Pinyin=jǐn_nǎ/nà/nuó/nuò_luó_
+63	𗅾	XHZD2915=no	NOUN	NOUN	_	62	compound	_	rib|ChiGloss=那(Transcription)|ChiTreebank=緊那羅|LMC=kjiń_ná/nà/na_la_|OM=kiň_nɔ̌/nɔ̀/nà/nɔ́_lɔ́_|EMC=kjinʼ_naʼ/naʰ/na_la_|Pinyin=jǐn_nǎ/nà/nuó/nuò_luó_
+64	𗓽	XHZD4710=lo	NOUN	NOUN	_	62	compound	_	a_transliteration|ChiGloss=羅(Transcription)|ChiTreebank=緊那羅|LMC=kjiń_ná/nà/na_la_|OM=kiň_nɔ̌/nɔ̀/nà/nɔ́_lɔ́_|EMC=kjinʼ_naʼ/naʰ/na_la_|Pinyin=jǐn_nǎ/nà/nuó/nuò_luó_
+65	𘉒	XHZD4575=mo	NOUN	NOUN	_	40	conj	_	shame|ChiGloss=摩(Transcription)|ChiTreebank=摩睺羅伽|LMC=mua_xɦəw_la_kɦia_|OM=mɔ́_xəẃ_lɔ́_[kʰjɛ]_|EMC=ma_ɣəw_la_gɨa_|Pinyin=mó_hóu_luó_qié_
+66	𗺹	XHZD3379=xew	NOUN	NOUN	_	65	compound	_	a_kind_of_grass|ChiGloss=睺(Transcription)|ChiTreebank=摩睺羅伽|LMC=mua_xɦəw_la_kɦia_|OM=mɔ́_xəẃ_lɔ́_[kʰjɛ]_|EMC=ma_ɣəw_la_gɨa_|Pinyin=mó_hóu_luó_qié_
+67	𗓽	XHZD4710=lo	NOUN	NOUN	_	65	compound	_	a_transliteration|ChiGloss=羅(Transcription)|ChiTreebank=摩睺羅伽|LMC=mua_xɦəw_la_kɦia_|OM=mɔ́_xəẃ_lɔ́_[kʰjɛ]_|EMC=ma_ɣəw_la_gɨa_|Pinyin=mó_hóu_luó_qié_
+68	𘀺	XHZD4003=khja_[kha]	NOUN	NOUN	_	65	compound	_	to_draw_(water)|ChiGloss=汲、伽、叉(Transcription)|ChiTreebank=摩睺羅伽|LMC=mua_xɦəw_la_kɦia_|OM=mɔ́_xəẃ_lɔ́_[kʰjɛ]_|EMC=ma_ɣəw_la_gɨa_|Pinyin=mó_hóu_luó_qié_
+69	𘓐	XHZD2541=dzjwo	NOUN	NOUN	_	40	conj	_	person|ChiGloss=人|ChiTreebank=人|LMC=rin_|OM=riń_|EMC=ɲin_|Pinyin=rén_
+70	𗅋	XHZD1918=mji	NOUN	NOUN	_	40	conj	_	not|ChiGloss=無|ChiTreebank=非人|LMC=fjyj/fji_rin_|OM=fi_riń_|EMC=puj_ɲin_|Pinyin=fēI_rén_
+71	𘓐	XHZD2541=dzjwo	NOUN	NOUN	_	70	compound	_	person|ChiGloss=人|ChiTreebank=非人|LMC=fjyj/fji_rin_|OM=fi_riń_|EMC=puj_ɲin_|Pinyin=fēI_rén_
+72	𘆄	XHZD0724=njɨ	CONJ	CONJ	_	40	cc	_	and_so_on|ChiGloss=等|ChiTreebank=等|LMC=təə̆ŋ́_|OM=təŋ̌_|EMC=təŋʼ_|Pinyin=děng_
+73	𗗙	XHZD1139=·jij	ADP	ADP	_	40	case	_	a_possessive_adverb;_towards|ChiGloss=之、人、對、(stressing_obj)____
+74	𗕿	XHZD1483=njij	VERB	VERB	_	80	advcl	_	kind|ChiGloss=慈|ChiTreebank=愍|LMC=miń_|OM=miň_|EMC=minʼ_|Pinyin=mǐn_
+75	𘖛	XHZD5345=śjow	VERB	VERB	_	74	compound	_	kind|ChiGloss=愍|ChiTreebank=愍|LMC=miń_|OM=miň_|EMC=minʼ_|Pinyin=mǐn_
+76	𗖵	XHZD0433=bju	SCONJ	SCONJ	_	74	mark	_	for|ChiGloss=(Instrumental_sense_to_the_following__item)_為、依、因、由|ChiTreebank=故|LMC=kuə̆̀_|OM=kù_|EMC=kɔʰ_|Pinyin=dù_
+77	𘌽	XHZD5354=thjɨ	DET	DET	_	78	det	_	this|ChiGloss=此|ChiTreebank=是|LMC=ʂɦì_|OM=ʂr̩̀_|EMC=dʑiə̆ʼ/dʑiʼ_|Pinyin=shì_
+78	𗡦	XHZD0592=·jɨr	NOUN	NOUN	_	80	dobj	_	a_necklace_of_precious_stones|ChiGloss=瓔|ChiTreebank=瓔珞|LMC=?_lak_|OM=?_laẁ_|EMC=?_lak_|Pinyin=yīng_luò_
+79	𗙲	XHZD1634=rer	NOUN	NOUN	_	78	compound	_	jade_necklace|ChiGloss=珞|ChiTreebank=瓔珞|LMC=?_lak_|OM=?_laẁ_|EMC=?_lak_|Pinyin=yīng_luò_
+80	𗨙	XHZD3159=lhjịj_[lhjij]	VERB	VERB	_	38	parataxis	_	to_bear_(a_burden)|ChiGloss=受|ChiTreebank=受|LMC=ʂɦiẁ_|OM=ʂiẁ_|EMC=dʑuwʼ_|Pinyin=shòu_
+81	𗦇	XHZD2090=lew	AUX	AUX	_	80	aux	_	must|ChiGloss=應____
+82	𘘥	XHZD1279=·jɨ_[jɨ]	VERB	VERB	_	38	mwe	_	to_say|ChiGloss=為、云、說、曰、白____
+83	。	。	PUNCT	PUNCT	_	38	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+84	𗿳	XHZD3589=dzjɨj	NOUN	NOUN	_	109	nmod	_	time|ChiGloss=時|ChiTreebank=即時|LMC=tsiə̆_ʂɦi_|OM=[tsǐ]_ʂŕ̩_|EMC=tsik_dʑɨ/dʑi_|Pinyin=jí_shí_
+85	𗯨	XHZD4713=rjur	PROPN	PROPN	_	109	nsubj	_	world|ChiGloss=世|ChiTreebank=觀世音|LMC=kuan_ʂiaj̀_ʔim_|OM=kɔn_ʂì_jim_|EMC=kwan_ɕiajʰ_ʔim_|Pinyin=guān_shì_yīn_
+86	𗙏	XHZD1586=ɣiẹ	PROPN	PROPN	_	85	name	_	sound|ChiGloss=音|ChiTreebank=觀世音|LMC=kuan_ʂiaj̀_ʔim_|OM=kɔn_ʂì_jim_|EMC=kwan_ɕiajʰ_ʔim_|Pinyin=guān_shì_yīn_
+87	𘝯	XHZD5593=bio̱	PROPN	PROPN	_	85	name	_	to_look|ChiGloss=觀|ChiTreebank=觀世音|LMC=kuan_ʂiaj̀_ʔim_|OM=kɔn_ʂì_jim_|EMC=kwan_ɕiajʰ_ʔim_|Pinyin=guān_shì_yīn_
+88	𘋢	XHZD5906=tshjɨ_[ɲia]	NOUN	NOUN	_	85	appos	_	Bodhisattva|ChiGloss=薩|ChiTreebank=菩薩|LMC=pfiuə̆_sat_|OM=pʰú_sǎ_|EMC=bɔ_sat_|Pinyin=pú_sà_
+89	𗥤	XHZD3574=tsjij	NOUN	NOUN	_	88	compound	_	to_know;_bodhi|ChiGloss=悟、明、菩提|ChiTreebank=菩薩|LMC=pfiuə̆_sat_|OM=pʰú_sǎ_|EMC=bɔ_sat_|Pinyin=pú_sà_
+90	𗱕	XHZD0968=rjur	DET	DET	_	92	det	_	all|ChiGloss=諸|ChiTreebank=諸|LMC=tʂiă/tʂyă_|OM=tʂy_|EMC=tɕɨă_|Pinyin=zhū_
+91	𗥃	XHZD2205=ljɨ̱r_[ljɨr]	NUM	NUM	_	92	nummod	_	four|ChiGloss=四|ChiTreebank=四|LMC=sz̩̀_|OM=sz̩̀_|EMC=siʰ_|Pinyin=sì_
+92	𗿷	XHZD3126=dźjij	NOUN	NOUN	_	102	dobj	_	to_have|ChiGloss=有、(if_reduplicated)_所有|ChiTreebank=衆|LMC=tʂɨwŋ̀_|OM=tʂuŋ̀_|EMC=tɕuwŋʰ_|Pinyin=zhòng_
+93	𘓁	XHZD4444=ljɨ̣	CONJ	CONJ	_	92	cc	_	a_conjunction_means_“and”|ChiGloss=及、雖、與|ChiTreebank=及|LMC=kɦip_|OM=kí_|EMC=gip_|Pinyin=jí_
+94	𗅉	XHZD1906=nio̱w	CONJ	CONJ	_	93	compound	_	a_conjunction|ChiGloss=後、及、又、并、更、外、逐、之、已、必|ChiTreebank=於|LMC=ʔiă/ʔyă_|OM=y_|EMC=ʔɨă_|Pinyin=yú_
+95	𘓱	XHZD1107=ŋwə	NOUN	NOUN	_	92	conj	_	heaven|ChiGloss=天|ChiTreebank=天|LMC=tʰian_|OM=tʰjɛn_|EMC=tʰɛn_|Pinyin=tiān_
+96	𗵃	XHZD0083=·we_[we]	NOUN	NOUN	_	95	compound	_	dragon|ChiGloss=龍|ChiTreebank=龍|LMC=lywŋ_|OM=ljuŋ́_|EMC=luawŋ_|Pinyin=lóng_
+97	𘓐	XHZD2541=dzjwo	NOUN	NOUN	_	92	conj	_	person|ChiGloss=人|ChiTreebank=人|LMC=rin_|OM=riń_|EMC=ɲin_|Pinyin=rén_
+98	𗅋	XHZD1918=mji	NOUN	NOUN	_	92	conj	_	not|ChiGloss=無|ChiTreebank=非人|LMC=fjyj/fji_rin_|OM=fi_riń_|EMC=puj_ɲin_|Pinyin=fēI_rén_
+99	𘓐	XHZD2541=dzjwo	NOUN	NOUN	_	98	compound	_	person|ChiGloss=人|ChiTreebank=非人|LMC=fjyj/fji_rin_|OM=fi_riń_|EMC=puj_ɲin_|Pinyin=fēI_rén_
+100	𘆄	XHZD0724=njɨ	CONJ	CONJ	_	92	cc	_	and_so_on|ChiGloss=等|ChiTreebank=等|LMC=təə̆ŋ́_|OM=təŋ̌_|EMC=təŋʼ_|Pinyin=děng_
+101	𗗙	XHZD1139=·jij	ADP	ADP	_	92	case	_	a_possessive_adverb;_towards|ChiGloss=之、人、對、(stressing_obj)____
+102	𗕿	XHZD1483=njij	VERB	VERB	_	109	advcl	_	kind|ChiGloss=慈|ChiTreebank=愍|LMC=miń_|OM=miň_|EMC=minʼ_|Pinyin=mǐn_
+103	𘖛	XHZD5345=śjow	VERB	VERB	_	102	compound	_	kind|ChiGloss=愍|ChiTreebank=愍|LMC=miń_|OM=miň_|EMC=minʼ_|Pinyin=mǐn_
+104	𗖵	XHZD0433=bju	SCONJ	SCONJ	_	102	mark	_	for|ChiGloss=(Instrumental_sense_to_the_following__item)_為、依、因、由____
+105	𗋕	XHZD2019=thja	DET	DET	_	106	det	_	this|ChiGloss=其|ChiTreebank=其|LMC=kɦi_|OM=kʰí_|EMC=gɨ/gi_|Pinyin=qí_
+106	𗡦	XHZD0592=·jɨr	NOUN	NOUN	_	109	dobj	_	a_necklace_of_precious_stones|ChiGloss=瓔|ChiTreebank=瓔珞|LMC=?_lak_|OM=?_laẁ_|EMC=?_lak_|Pinyin=yīng_luò_
+107	𗙲	XHZD1634=rer	NOUN	NOUN	_	106	compound	_	jade_necklace|ChiGloss=珞|ChiTreebank=瓔珞|LMC=?_lak_|OM=?_laẁ_|EMC=?_lak_|Pinyin=yīng_luò_
+108	𗋚	XHZD2590=·wjɨ_[wjɨ]	ADV	ADV	_	109	advmod	_	a_prefix_means_something_is_already_done|ChiGloss=(before_verb)_所、已、從、且、於、過、要、猶____
+109	𗨙	XHZD3159=lhjịj_[lhjij]	VERB	VERB	_	0	root	_	to_bear_(a_burden)|ChiGloss=受|ChiTreebank=受|LMC=ʂɦiẁ_|OM=ʂiẁ_|EMC=dʑuwʼ_|Pinyin=shòu_
+110	𗍫	XHZD4027=njɨ̱	NUM	NUM	_	111	nummod	_	two|ChiGloss=二|ChiTreebank=二|LMC=rì_|OM=rr̩̀_|EMC=ɲiʰ_|Pinyin=èr_
+111	𘊲	XHZD4008=phia̱	NOUN	NOUN	_	113	dobj	_	to_divide|ChiGloss=分|ChiTreebank=分|LMC=fjyn/fun_|OM=fun_|EMC=pun_|Pinyin=fēn_
+112	𘙇	XHZD0795=rjɨr	ADV	ADV	_	113	advmod	_	an_adverb_(continuous_sense)|ChiGloss=所_(continuous_sense)____
+113	𘃡	XHZD5113=·wji_[wji]	VERB	VERB	_	109	conj	_	to_do|ChiGloss=做、作、為、與|ChiTreebank=分作|LMC=fjyn/fun_tsuɔ̀_|OM=fun_tsù_|EMC=pun_tsɔʰ_|Pinyin=fēn_zuò_
+114	𗈪	XHZD5981=·a	NUM	NUM	_	115	nummod	_	one|ChiGloss=一、(before_verb)_上方、(before_verb)_已進行(盡然)_、疑問、助語|ChiTreebank=一|LMC=ʔjit_|OM=[jì/jǐ]_|EMC=ʔjit_|Pinyin=yī_
+115	𘊲	XHZD4008=phia̱	NOUN	NOUN	_	123	dobj	_	to_divide|ChiGloss=分|ChiTreebank=分|LMC=fjyn/fun_|OM=fun_|EMC=pun_|Pinyin=fēn_
+116	𗷅	XHZD4502=śjɨ	PROPN	PROPN	_	123	iobj	_	curtain|ChiGloss=釋(Transcription)|ChiTreebank=釋迦牟尼|LMC=ʂiajk_kia_məw_nri_|OM=ʂǐ_[kjɛ]_məẃ_ní_|EMC=ɕiajk_kɨa_muw_nri_|Pinyin=shì_jiā_móu_ní_
+117	𗡝	XHZD4620=kja	PROPN	PROPN	_	116	name	_	how_about|ChiGloss=迦(Transcription)|ChiTreebank=釋迦牟尼|LMC=ʂiajk_kia_məw_nri_|OM=ʂǐ_[kjɛ]_məẃ_ní_|EMC=ɕiajk_kɨa_muw_nri_|Pinyin=shì_jiā_móu_ní_
+118	𘉒	XHZD4575=mo	PROPN	PROPN	_	116	name	_	shame|ChiGloss=摩(Transcription)|ChiTreebank=釋迦牟尼|LMC=ʂiajk_kia_məw_nri_|OM=ʂǐ_[kjɛ]_məẃ_ní_|EMC=ɕiajk_kɨa_muw_nri_|Pinyin=shì_jiā_móu_ní_
+119	𗐱	XHZD4884=nji	PROPN	PROPN	_	116	name	_	"an_auxiliary_word|ChiGloss=且、(After_verb,_Second_person_pronoun)、人、(plural_sense)_人、尼(Transcription)|ChiTreebank=釋迦牟尼|LMC=ʂiajk_kia_məw_nri_|OM=ʂǐ_[kjɛ]_məẃ_ní_|EMC=ɕiajk_kɨa_muw_nri_|Pinyin=shì_jiā_móu_ní_"
+120	𗢳	XHZD2852=tha	NOUN	NOUN	_	116	appos	_	Buddha|ChiGloss=佛|ChiTreebank=佛|LMC=fɦjyt/fɦut_|OM=fɔ́/fú_|EMC=but_|Pinyin=fó/fú_
+121	𘋩	XHZD5447=do	ADP	ADP	_	116	case	_	"a_suffix;_located_in…|ChiGloss=(After_noun,_pronoun,_phrase)_於…處____"
+122	𘙌	XHZD1326=kjɨ	ADV	ADV	_	123	advmod	_	an_auxiliary_word|ChiGloss=已、所、雖、將、(助)、何、多____
+123	𗼒	XHZD2815=khu	VERB	VERB	_	113	parataxis	_	to_tribute|ChiGloss=奉|ChiTreebank=奉|LMC=fɦjyawŋ̀/fɦəwŋ̀_|OM=fuŋ̀_|EMC=buawŋʼ_|Pinyin=fèng_
+124	𗈪	XHZD5981=·a	NUM	NUM	_	125	nummod	_	one|ChiGloss=一、(before_verb)_上方、(before_verb)_已進行(盡然)_、疑問、助語|ChiTreebank=一|LMC=ʔjit_|OM=[jì/jǐ]_|EMC=ʔjit_|Pinyin=yī_
+125	𘊲	XHZD4008=phia̱	NOUN	NOUN	_	133	dobj	_	to_divide|ChiGloss=分|ChiTreebank=分|LMC=fjyn/fun_|OM=fun_|EMC=pun_|Pinyin=fēn_
+126	𗮅	XHZD5414=rejr	PROPN	PROPN	_	129	nmod	_	many|ChiGloss=多|ChiTreebank=多寶|LMC=ta_puaẃ_|OM=tɔ_pɔw̌_|EMC=ta_pawʼ_|Pinyin=duō_bǎo_
+127	𘏨	XHZD5655=ljɨ̣	PROPN	PROPN	_	126	name	_	treasure|ChiGloss=寶|ChiTreebank=多寶|LMC=ta_puaẃ_|OM=tɔ_pɔw̌_|EMC=ta_pawʼ_|Pinyin=duō_bǎo_
+128	𗢳	XHZD2852=tha	PROPN	PROPN	_	126	name	_	Buddha|ChiGloss=佛|ChiTreebank=佛|LMC=fɦjyt/fɦut_|OM=fɔ́/fú_|EMC=but_|Pinyin=fó/fú_
+129	𗽔	XHZD3721=bə	NOUN	NOUN	_	133	iobj	_	pagoda|ChiGloss=塔|ChiTreebank=塔|LMC=tʰap_|OM=tʰǎ_|EMC=tʰap_|Pinyin=tǎ_
+130	𘗣	XHZD5407=du	NOUN	NOUN	_	129	compound	_	pagoda|ChiGloss=塔|ChiTreebank=塔|LMC=tʰap_|OM=tʰǎ_|EMC=tʰap_|Pinyin=tǎ_
+131	𘋩	XHZD5447=do	ADP	ADP	_	129	case	_	"a_suffix|ChiGloss=(After_noun,_pronoun,_phrase)_於…處____"
+132	𗞞	XHZD4342=dja	ADV	ADV	_	133	advmod	_	an_auxiliary_word|ChiGloss=(before_verb)_已、所、而，(showing_tendency)____
+133	𘈈	XHZD2047=mji̱	VERB	VERB	_	123	conj	_	to_hand_out|ChiGloss=施|ChiTreebank=奉|LMC=fɦjyawŋ̀/fɦəwŋ̀_|OM=fuŋ̀_|EMC=buawŋʼ_|Pinyin=fèng_
+134	。	。	PUNCT	PUNCT	_	109	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+
+~~~
+
+~~~ conllu
+1	𗉣	XHZD0797=phji	PROPN	PROPN	_	23	vocative	_	scheme|ChiGloss=意|ChiTreebank=無盡意|LMC=ʋjyə̆/ʋuə̆_tsɦiǹ_ʔì_|OM=ʋú_tsiǹ_jì_|EMC=muə̆_dzinʼ_ʔɨʰ/ʔiʰ_|Pinyin=wú_jìn_yì_
+2	𗅋	XHZD1918=mji	PROPN	PROPN	_	1	name	_	not|ChiGloss=無|ChiTreebank=無盡意|LMC=ʋjyə̆/ʋuə̆_tsɦiǹ_ʔì_|OM=ʋú_tsiǹ_jì_|EMC=muə̆_dzinʼ_ʔɨʰ/ʔiʰ_|Pinyin=wú_jìn_yì_
+3	𗋃	XHZD3075=sji	PROPN	PROPN	_	1	name	_	limit|ChiGloss=盡|ChiTreebank=無盡意|LMC=ʋjyə̆/ʋuə̆_tsɦiǹ_ʔì_|OM=ʋú_tsiǹ_jì_|EMC=muə̆_dzinʼ_ʔɨʰ/ʔiʰ_|Pinyin=wú_jìn_yì_
+4	𘌽	XHZD5354=thjɨ	DET	DET	_	5	det	_	this|ChiGloss=此____
+5	𗯨	XHZD4713=rjur	PROPN	PROPN	_	23	nsubj	_	world|ChiGloss=世|ChiTreebank=觀世音|LMC=kuan_ʂiaj̀_ʔim_|OM=kɔn_ʂì_jim_|EMC=kwan_ɕiajʰ_ʔim_|Pinyin=guān_shì_yīn_
+6	𗙏	XHZD1586=ɣiẹ	PROPN	PROPN	_	5	name	_	sound|ChiGloss=音|ChiTreebank=觀世音|LMC=kuan_ʂiaj̀_ʔim_|OM=kɔn_ʂì_jim_|EMC=kwan_ɕiajʰ_ʔim_|Pinyin=guān_shì_yīn_
+7	𘝯	XHZD5593=bio̱	PROPN	PROPN	_	5	name	_	to_look|ChiGloss=觀|ChiTreebank=觀世音|LMC=kuan_ʂiaj̀_ʔim_|OM=kɔn_ʂì_jim_|EMC=kwan_ɕiajʰ_ʔim_|Pinyin=guān_shì_yīn_
+8	𘋢	XHZD5906=tshjɨ_[ɲia]	NOUN	NOUN	_	5	appos	_	Bodhisattva|ChiGloss=薩|ChiTreebank=菩薩|LMC=pfiuə̆_sat_|OM=pʰú_sǎ_|EMC=bɔ_sat_|Pinyin=pú_sà_
+9	𗥤	XHZD3574=tsjij	NOUN	NOUN	_	8	compound	_	to_know;_bodhi|ChiGloss=悟、明、菩提|ChiTreebank=菩薩|LMC=pfiuə̆_sat_|OM=pʰú_sǎ_|EMC=bɔ_sat_|Pinyin=pú_sà_
+10	𘌽	XHZD5354=thjɨ	PRON	PRON	_	15	nmod	_	this|ChiGloss=此|ChiTreebank=是|LMC=ʂɦì_|OM=ʂr̩̀_|EMC=dʑiə̆ʼ/dʑiʼ_|Pinyin=shì_
+11	𗍊	XHZD0290=sju	ADP	ADP	_	10	case	_	as|ChiGloss=如|ChiTreebank=如|LMC=riə̆/ryə̆_|OM=rý_|EMC=ɲɨə̆_|Pinyin=rú_
+12	𘝵	XHZD1245=·jij	NOUN	NOUN	_	15	nmod	_	self|ChiGloss=自|ChiTreebank=自在神力|LMC=tsɦz̩̀_tsɦaj̀_ʂɦin_liə̆k_|OM=tsz̩̀_tsaj̀_ʂiń_lì_|EMC=dziʰ_dzəjʼ_ʑin_lik_|Pinyin=zì_zài_shén_lì_
+13	𗦳	XHZD3266=dzju	NOUN	NOUN	_	12	compound	_	host|ChiGloss=在、主、將|ChiTreebank=自在神力|LMC=tsɦz̩̀_tsɦaj̀_ʂɦin_liə̆k_|OM=tsz̩̀_tsaj̀_ʂiń_lì_|EMC=dziʰ_dzəjʼ_ʑin_lik_|Pinyin=zì_zài_shén_lì_
+14	𗾈	XHZD3294=me̱	NOUN	NOUN	_	12	compound	_	able_and_virtuous_people|ChiGloss=賢|ChiTreebank=自在神力|LMC=tsɦz̩̀_tsɦaj̀_ʂɦin_liə̆k_|OM=tsz̩̀_tsaj̀_ʂiń_lì_|EMC=dziʰ_dzəjʼ_ʑin_lik_|Pinyin=zì_zài_shén_lì_
+15	𗪺	XHZD3354=ɣie	NOUN	NOUN	_	16	dobj	_	power|ChiGloss=力|ChiTreebank=自在神力|LMC=tsɦz̩̀_tsɦaj̀_ʂɦin_liə̆k_|OM=tsz̩̀_tsaj̀_ʂiń_lì_|EMC=dziʰ_dzəjʼ_ʑin_lik_|Pinyin=zì_zài_shén_lì_
+16	𗿷	XHZD3126=dźjij	VERB	VERB	_	23	advcl	_	to_have|ChiGloss=有、(if_reduplicated)_所有|ChiTreebank=有|LMC=iẃ_|OM=jiw̌_|EMC=wuwʼ_|Pinyin=yǒu_
+17	𗖵	XHZD0433=bju	SCONJ	SCONJ	_	16	mark	_	for|ChiGloss=(Instrumental_sense_to_the_following__item)_為、依、因、由____
+18	𗦗	XHZD2670=so	NOUN	NOUN	_	23	nmod	_	man|ChiGloss=娑(Transcription)|ChiTreebank=娑婆|LMC=sa_pɦua_|OM=sɔ_pʰɔ́_|EMC=sa_ba_|Pinyin=suō_pó_
+19	𗣧	XHZD2640=pho	NOUN	NOUN	_	18	compound	_	thin|ChiGloss=波、婆、摩、訶(Transcription)|ChiTreebank=娑婆|LMC=sa_pɦua_|OM=sɔ_pʰɔ́_|EMC=sa_ba_|Pinyin=suō_pó_
+20	𗯨	XHZD4713=rjur	NOUN	NOUN	_	18	nmod	_	world|ChiGloss=世|ChiTreebank=世|LMC=ʂiaj̀_|OM=ʂì_|EMC=ɕiajʰ_|Pinyin=shì_
+21	𗐯	XHZD4719=kiẹj	NOUN	NOUN	_	20	compound	_	boundary|ChiGloss=界|ChiTreebank=界|LMC=kjaːj̀_|OM=kjaj̀_|EMC=kəɨjʰ/kɛːjʰ_|Pinyin=jiè_
+22	𗅁	XHZD2983=·u	ADP	ADP	_	18	case	_	inner|ChiGloss=中|ChiTreebank=於|LMC=ʔiă/ʔyă_|OM=y_|EMC=ʔɨă_|Pinyin=yú_
+23	𘕂	XHZD3852=dźjij	VERB	VERB	_	0	root	_	to_go|ChiGloss=行|ChiTreebank=遊|LMC=jiw_|OM=jiẃ_|EMC=juw_|Pinyin=yóu_
+24	𘃞	XHZD5285=ljɨ	PART	PART	_	23	discourse	_	one;_discourse_particle|ChiGloss=也、矣、一、獨、(叠字)一一____
+25	。	。	PUNCT	PUNCT	_	23	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+26	𗉘	XHZD1374=tśhjɨ	DET	DET	_	27	det	_	a_pronoun|ChiGloss=爾|ChiTreebank=爾|LMC=rí_|OM=rř̩_|EMC=ɲiə̆ʼ/ɲiʼ_|Pinyin=ěr_
+27	𘝨	XHZD4861=zjọ	NOUN	NOUN	_	36	nmod	_	time|ChiGloss=時|ChiTreebank=時|LMC=ʂɦi_|OM=ʂŕ̩_|EMC=dʑɨ/dʑi_|Pinyin=shí_
+28	𗉣	XHZD0797=phji	PROPN	PROPN	_	36	nsubj	_	scheme|ChiGloss=意|ChiTreebank=無盡意|LMC=ʋjyə̆/ʋuə̆_tsɦiǹ_ʔì_|OM=ʋú_tsiǹ_jì_|EMC=muə̆_dzinʼ_ʔɨʰ/ʔiʰ_|Pinyin=wú_jìn_yì_
+29	𗅋	XHZD1918=mji	PROPN	PROPN	_	28	name	_	not|ChiGloss=無|ChiTreebank=無盡意|LMC=ʋjyə̆/ʋuə̆_tsɦiǹ_ʔì_|OM=ʋú_tsiǹ_jì_|EMC=muə̆_dzinʼ_ʔɨʰ/ʔiʰ_|Pinyin=wú_jìn_yì_
+30	𗋃	XHZD3075=sji	PROPN	PROPN	_	28	name	_	limit|ChiGloss=盡|ChiTreebank=無盡意|LMC=ʋjyə̆/ʋuə̆_tsɦiǹ_ʔì_|OM=ʋú_tsiǹ_jì_|EMC=muə̆_dzinʼ_ʔɨʰ/ʔiʰ_|Pinyin=wú_jìn_yì_
+31	𘋢	XHZD5906=tshjɨ_[ɲia]	NOUN	NOUN	_	28	appos	_	Bodhisattva|ChiGloss=薩|ChiTreebank=菩薩|LMC=pfiuə̆_sat_|OM=pʰú_sǎ_|EMC=bɔ_sat_|Pinyin=pú_sà_
+32	𗥤	XHZD3574=tsjij	NOUN	NOUN	_	31	compound	_	to_know;_bodhi|ChiGloss=悟、明、菩提|ChiTreebank=菩薩|LMC=pfiuə̆_sat_|OM=pʰú_sǎ_|EMC=bɔ_sat_|Pinyin=pú_sà_
+33	𗖍	XHZD0837=lja̱	NOUN	NOUN	_	36	nmod	_	praise|ChiGloss=偈、頌|ChiTreebank=偈|LMC=kɦiaj̀_|OM=[kì]_|EMC=giajʰ_|Pinyin=jì_
+34	𗳒	XHZD5880=ŋwu	ADP	ADP	_	33	case	_	an_auxiliary_word|ChiGloss=以…|ChiTreebank=以|LMC=jí_|OM=jǐ_|EMC=jɨʼ/jiʼ_|Pinyin=yǐ_
+35	𗞞	XHZD4342=dja	ADV	ADV	_	36	advmod	_	an_auxiliary_word|ChiGloss=(before_verb)_已、所、而，(showing_tendency)____
+36	𗤄	XHZD2082=·jɨr_[jɨr]	VERB	VERB	_	0	root	_	to_ask|ChiGloss=問|ChiTreebank=問曰|LMC=ʋjyǹ/ʋuǹ_yat|OM=ʋuǹ_ɥɛ̀|EMC=munʰ_|Pinyin=wèn_yuē
+37	。	。	PUNCT	PUNCT	_	36	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+
+~~~
+
+~~~ conllu
+1	𗯨	XHZD4713=rjur	PROPN	PROPN	_	11	vocative	_	world|ChiGloss=世|ChiTreebank=世尊|LMC=ʂiaj̀_tsun_|OM=ʂì_tsun_|EMC=ɕiajʰ_tswən_|Pinyin=shì_zūn_
+2	𗖻	XHZD1830=pjụ	PROPN	PROPN	_	1	name	_	respect|ChiGloss=尊|ChiTreebank=世尊|LMC=ʂiaj̀_tsun_|OM=ʂì_tsun_|EMC=ɕiajʰ_tswən_|Pinyin=shì_zūn_
+3	𗤓	XHZD3228=thjo̱	PROPN	PROPN	_	1	appos	_	beautiful|ChiGloss=妙|ChiTreebank=妙相具|LMC=mjiaẁ_siaŋ_kɦyə̆̀_|OM=mjɛẁ_sjaŋ_kỳ_|EMC=mjiawʰ_sɨaŋ_guə̆ʰ_|Pinyin=miào_xiāng_jù_
+4	𘍦	XHZD5498=·jij	PROPN	PROPN	_	3	name	_	appearance|ChiGloss=相|ChiTreebank=妙相具|LMC=mjiaẁ_siaŋ_kɦyə̆̀_|OM=mjɛẁ_sjaŋ_kỳ_|EMC=mjiawʰ_sɨaŋ_guə̆ʰ_|Pinyin=miào_xiāng_jù_
+5	𘓳	XHZD1602=ŋowr	PROPN	PROPN	_	3	name	_	whole|ChiGloss=俱、全|ChiTreebank=妙相具|LMC=mjiaẁ_siaŋ_kɦyə̆̀_|OM=mjɛẁ_sjaŋ_kỳ_|EMC=mjiawʰ_sɨaŋ_guə̆ʰ_|Pinyin=miào_xiāng_jù_
+6	_	_	_	_	_	0	_	_	_
+7	𗧓	XHZD2098=ŋa	PRON	PRON	_	11	nsubj	_	I|ChiGloss=我|ChiTreebank=我|LMC=ŋá_|OM=wɔ̌_|EMC=ŋaʼ_|Pinyin=wǒ_
+8	𗫈	XHZD3133=sjij	ADV	ADV	_	11	advmod	_	this_morning|ChiGloss=今|ChiTreebank=今|LMC=kim_|OM=kim_|EMC=kim_|Pinyin=jīn_
+9	𗫸	XHZD3101=·jị	ADV	ADV	_	11	advmod	_	to_repeat|ChiGloss=重|ChiTreebank=重|LMC=trɦywŋ_|OM=tʂʰuŋ́_|EMC=druawŋ_|Pinyin=chóng_
+10	𗅉	XHZD1906=nio̱w	ADV	ADV	_	9	compound	_	a_conjunction|ChiGloss=後、及、又、并、更、外、逐、之、已、必|ChiTreebank=重|LMC=trɦywŋ_|OM=tʂʰuŋ́_|EMC=druawŋ_|Pinyin=chóng_
+11	𗤄	XHZD2082=·jɨr_[jɨr]	VERB	VERB	_	0	root	_	to_ask|ChiGloss=問|ChiTreebank=問|LMC=ʋjyǹ/ʋuǹ_|OM=ʋuǹ_|EMC=munʰ_|Pinyin=wèn_
+12	_	_	_	_	_	0	_	_	_
+13	𗋕	XHZD2019=thja	DET	DET	_	15	det	_	this|ChiGloss=其____
+14	𗢳	XHZD2852=tha	PROPN	PROPN	_	15	nmod	_	Buddha|ChiGloss=佛|ChiTreebank=佛|LMC=fɦjyt/fɦut_|OM=fɔ́/fú_|EMC=but_|Pinyin=fó/fú_
+15	𘈷	XHZD1567=gji	NOUN	NOUN	_	23	nsubj	_	son|ChiGloss=子|ChiTreebank=子|LMC=tsź̩_|OM=tsž̩_|EMC=tsɨʼ/tsiʼ_|Pinyin=zǐ_
+16	𗙏	XHZD1586=ɣiẹ	PROPN	PROPN	_	15	appos	_	sound|ChiGloss=音|ChiTreebank=觀世音|LMC=kuan_ʂiaj̀_ʔim_|OM=kɔn_ʂì_jim_|EMC=kwan_ɕiajʰ_ʔim_|Pinyin=guān_shì_yīn_
+17	𘝯	XHZD5593=bio̱	PROPN	PROPN	_	16	name	_	to_look|ChiGloss=觀|ChiTreebank=觀世音|LMC=kuan_ʂiaj̀_ʔim_|OM=kɔn_ʂì_jim_|EMC=kwan_ɕiajʰ_ʔim_|Pinyin=guān_shì_yīn_
+18	_	_	_	_	_	0	_	_	_
+19	𘕣	XHZD5688=wa_[xwa]	DET	DET	_	20	Det	_	how|ChiGloss=何|ChiTreebank=何|LMC=xɦa_|OM=xɔ́_|EMC=ɣa_|Pinyin=hé_
+20	𗦫	XHZD3316=·jiw	NOUN	NOUN	_	23	nmod	_	cause|ChiGloss=因|ChiTreebank=因緣|LMC=ʔjin_jyan_|OM=jin_jɛń_|EMC=ʔjin_jwian_|Pinyin=yīn_yuán_
+21	𗖵	XHZD0433=bju	ADP	ADP	_	20	case	_	for|ChiGloss=(Instrumental_sense_to_the_following__item)_為、依、因、由____
+22	𗦻	XHZD2639=mji̱j	NOUN	NOUN	_	23	dobj	_	name|ChiGloss=名|ChiTreebank=名|LMC=mjiajŋ_|OM=miŋ́_|EMC=mjiajŋ_|Pinyin=míng_
+23	𘜘	XHZD1599=rjir	VERB	VERB	_	11	parataxis	_	to_get|ChiGloss=得|ChiTreebank=爲|LMC=yj_|OM=uj́_|EMC=wiə̆/wi_|Pinyin=wéi_
+24	。	。	PUNCT	PUNCT	_	11	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+
+~~~
+
+~~~ conllu
+1	𗤓	XHZD3228=thjo̱	PROPN	PROPN	_	11	nsubj	_	beautiful|ChiGloss=妙|ChiTreebank=具足妙相|LMC=kɦyə̆̀_tsywk_mjiaẁ_siaŋ_|OM=kỳ_tsy̌_mjɛẁ_sjaŋ_|EMC=guə̆ʰ_tsuawk_mjiawʰ_sɨaŋ_|Pinyin=jù_zú_miào_xiāng_
+2	𘍦	XHZD5498=·jij	PROPN	PROPN	_	1	name	_	appearance|ChiGloss=相|ChiTreebank=具足妙相|LMC=kɦyə̆̀_tsywk_mjiaẁ_siaŋ_|OM=kỳ_tsy̌_mjɛẁ_sjaŋ_|EMC=guə̆ʰ_tsuawk_mjiawʰ_sɨaŋ_|Pinyin=jù_zú_miào_xiāng_
+3	𘓳	XHZD1602=ŋowr	PROPN	PROPN	_	1	name	_	whole|ChiGloss=俱、全|ChiTreebank=具足妙相|LMC=kɦyə̆̀_tsywk_mjiaẁ_siaŋ_|OM=kỳ_tsy̌_mjɛẁ_sjaŋ_|EMC=guə̆ʰ_tsuawk_mjiawʰ_sɨaŋ_|Pinyin=jù_zú_miào_xiāng_
+4	𗣷	XHZD3194=lhə	PROPN	PROPN	_	1	name	_	full|ChiGloss=滿足、充、備|ChiTreebank=具足妙相|LMC=kɦyə̆̀_tsywk_mjiaẁ_siaŋ_|OM=kỳ_tsy̌_mjɛẁ_sjaŋ_|EMC=guə̆ʰ_tsuawk_mjiawʰ_sɨaŋ_|Pinyin=jù_zú_miào_xiāng_
+5	𗖻	XHZD1830=pjụ	NOUN	NOUN	_	1	nmod	_	respect|ChiGloss=尊|ChiTreebank=尊|LMC=tsun_|OM=tsun_|EMC=tswən_|Pinyin=zūn_
+6	_	_	_	_	_	0	_	_	_
+7	𗉣	XHZD0797=phji	PROPN	PROPN	_	11	dobj	_	scheme|ChiGloss=意|ChiTreebank=無盡意|LMC=ʋjyə̆/ʋuə̆_tsɦiǹ_ʔì_|OM=ʋú_tsiǹ_jì_|EMC=muə̆_dzinʼ_ʔɨʰ/ʔiʰ_|Pinyin=wú_jìn_yì_
+8	𗅋	XHZD1918=mji	PROPN	PROPN	_	7	name	_	not|ChiGloss=無|ChiTreebank=無盡意|LMC=ʋjyə̆/ʋuə̆_tsɦiǹ_ʔì_|OM=ʋú_tsiǹ_jì_|EMC=muə̆_dzinʼ_ʔɨʰ/ʔiʰ_|Pinyin=wú_jìn_yì_
+9	𗋃	XHZD3075=sji	PROPN	PROPN	_	7	name	_	limit|ChiGloss=盡|ChiTreebank=無盡意|LMC=ʋjyə̆/ʋuə̆_tsɦiǹ_ʔì_|OM=ʋú_tsiǹ_jì_|EMC=muə̆_dzinʼ_ʔɨʰ/ʔiʰ_|Pinyin=wú_jìn_yì_
+10	𗗙	XHZD1139=·jij	ADP	ADP	_	7	case	_	a_possessive_adverb;_towards|ChiGloss=之、人、對、(stressing_obj)____
+11	𗊬	XHZD3027=hụ_[kụ]	VERB	VERB	_	0	root	_	lining|ChiGloss=答、裏|ChiTreebank=偈|LMC=kɦiaj̀_|OM=[kì]_|EMC=giajʰ_|Pinyin=jì_
+12	_	_	_	_	_	0	_	_	_
+13	𗍳	XHZD4028=nji	PRON	PRON	_	22	nsubj	_	you|ChiGloss=汝|ChiTreebank=汝|LMC=riə̆́/ryə̆́_|OM=ry̌_|EMC=ɲɨə̆ʼ_|Pinyin=rǔ_
+14	𗫈	XHZD3133=sjij	ADV	ADV	_	22	advmod	_	this_morning|ChiGloss=今____
+15	𗙏	XHZD1586=ɣiẹ	PROPN	PROPN	_	17	nmod	_	sound|ChiGloss=音|ChiTreebank=觀音|LMC=kuan_ʔim_|OM=kɔn_jim_|EMC=kwan_ʔim_|Pinyin=guān_yīn_
+16	𘝯	XHZD5593=bio̱	PROPN	PROPN	_	15	nmod	_	to_look|ChiGloss=觀|ChiTreebank=觀音|LMC=kuan_ʔim_|OM=kɔn_jim_|EMC=kwan_ʔim_|Pinyin=guān_yīn_
+17	𘝦	XHZD5604=dźjɨ	NOUN	NOUN	_	22	dobj	_	"skill|ChiGloss=藝、業、行、(when_put_after_noun,_pronoun,_with_XHZD5113)_indicating_the_actor_of_an_action.|ChiTreebank=行|LMC=xɦjaːjŋ_|OM=xiŋ́_|EMC=ɣaɨjŋ/ɣɛːjŋ_|Pinyin=xíng/xìng/háng/hàng_"
+18	_	_	_	_	_	0	_	_	_
+19	𗤶	XHZD2518=nji̱j	NOUN	NOUN	_	22	nmod	_	heart|ChiGloss=心____
+20	𗨳	XHZD3175=tjị	ADJ	ADJ	_	19	amod	_	to_return|ChiGloss=誠____
+21	𗋚	XHZD2590=·wjɨ_[wjɨ]	ADV	ADV	_	22	advmod	_	a_prefix_means_something_is_already_done|ChiGloss=(before_verb)_所、已、從、且、於、過、要、猶____
+22	𗨉	XHZD3575=nji	VERB	VERB	_	11	parataxis	_	to_listen|ChiGloss=聽、聞|ChiTreebank=聽|LMC=tʰiajŋ_|OM=tʰiŋ_|EMC=tʰɛjŋ_|Pinyin=tīng_
+23	𘉞	XHZD4601=nja	AUX	AUX	_	22	aux	_	an_auxiliary_word|ChiGloss=使、令、當、被(疑問)____
+24	_	_	_	_	_	0	_	_	_
+25	𗱕	XHZD0968=rjur	DET	DET	_	26	det	_	all|ChiGloss=諸|ChiTreebank=諸|LMC=tʂiă/tʂyă_|OM=tʂy_|EMC=tɕɨă_|Pinyin=zhū_
+26	𗏣	XHZD3349=ljijr_[lijr]	ADJ	ADJ	_	28	amod	_	direction|ChiGloss=方|ChiTreebank=方|LMC=fjyaŋ/faŋ_|OM=faŋ_|EMC=puaŋ_|Pinyin=fāng_
+27	𗧥	XHZD2858=zjir	ADJ	ADJ	_	26	amod	_	long|ChiGloss=長、遍|ChiTreebank=所|LMC=ʂəə̆́/ʂuə̆́_|OM=ʂǔ_|EMC=ʂɨə̆ʼ_|Pinyin=suǒ_
+28	𗜓	XHZD4184=śja	VERB	VERB	_	22	parataxis	_	to_appear|ChiGloss=現|ChiTreebank=應|LMC=ʔiăŋ_|OM=jiŋ_|EMC=ʔiŋ_|Pinyin=yīng_
+29	𗩱	XHZD2620=njwi	AUX	AUX	_	28	aux	_	can|ChiGloss=能|ChiTreebank=善|LMC=ʂɦiaǹ_|OM=ʂɛǹ_|EMC=dʑianʰ_|Pinyin=shàn_
+30	。	。	PUNCT	PUNCT	_	11	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+
+~~~
+
+~~~ conllu
+1	𘜶	XHZD4457=tha_[thạ]	ADJ	ADJ	_	2	amod	_	big|ChiGloss=大|ChiTreebank=宏|LMC=xɦwaːjŋ_|OM=xwəŋ́/xuŋ́_|EMC=ɣwəɨjŋ/ɣwɛːjŋ_|Pinyin=hóng_
+2	𘓞	XHZD3735=tjị	NOUN	NOUN	_	5	nsubj	_	to_hope|ChiGloss=願、誓|ChiTreebank=誓|LMC=ʂɦiaj̀_|OM=ʂì_|EMC=dʑiajʰ_|Pinyin=shì_
+3	𗗚	XHZD0661=ŋjow	NOUN	NOUN	_	5	xcomp	_	sea|ChiGloss=海|ChiTreebank=海|LMC=xaj́_|OM=xaǰ_|EMC=xəjʼ_|Pinyin=hǎi_
+4	𗸒	XHZD1473=su	ADP	ADP	_	3	case	_	a_preposition|ChiGloss=如、於、勝、可|ChiTreebank=如|LMC=riə̆/ryə̆_|OM=rý_|EMC=ɲɨə̆_|Pinyin=rú_
+5	𗓰	XHZD4693=na	VERB	VERB	_	0	root	_	deep|ChiGloss=深、玄|ChiTreebank=深|LMC=ʂim_|OM=ʂim_|EMC=ɕim/ɕimʰ_|Pinyin=shēn_
+6	_	_	_	_	_	0	_	_	_
+7	𗮅	XHZD5414=rejr	ADJ	ADJ	_	8	amod	_	many|ChiGloss=多____
+8	𗑱	XHZD4740=kja	NOUN	NOUN	_	9	nsubjpass	_	rob;_festival|ChiGloss=刧、節|ChiTreebank=劫|LMC=kiap_|OM=kjɛ̌_|EMC=kɨap_|Pinyin=jié_
+9	𗅢	XHZD2364=se̱w_[sew]	VERB	VERB	_	5	parataxis	_	to_survey|ChiGloss=測、察、思|ChiTreebank=思|LMC=sz̩_|OM=sz̩_|EMC=sɨ/si_|Pinyin=sī_
+10	𘎪	XHZD5612=tshji̱j_[tshjij]	VERB	VERB	_	9	conj	_	to_speak|ChiGloss=說|ChiTreebank=議|LMC=ŋì_|OM=jì_|EMC=ŋiăʰ/ŋiʰ_|Pinyin=yì_
+11	𗤋	XHZD2194=mjij	PART	PART	_	9	neg	_	not|ChiGloss=無、非、不|ChiTreebank=不|LMC=put_|OM=pǔ_|EMC=pət/put_|Pinyin=bù_
+12	_	_	_	_	_	0	_	_	_
+13	𗮅	XHZD5414=rejr	DET	DET	_	16	det	_	many|ChiGloss=多|ChiTreebank=多|LMC=ta_|OM=tɔ_|EMC=ta_|Pinyin=duō_
+14	𗡞	XHZD0359=tụ	NUM	NUM	_	16	nummod	_	thousand|ChiGloss=千|ChiTreebank=千億|LMC=tsʰjan_ʔiăk__|OM=tsʰjɛn_[jì]_|EMC=tsʰɛn_ʔik_|Pinyin=qiān_yì_
+15	𗦲	XHZD2618=rjir	NUM	NUM	_	16	nummod	_	a_hundred_million|ChiGloss=億|ChiTreebank=千億|LMC=tsʰjan_ʔiăk__|OM=tsʰjɛn_[jì]_|EMC=tsʰɛn_ʔik_|Pinyin=qiān_yì_
+16	𗢳	XHZD2852=tha	NOUN	NOUN	_	17	dobj	_	Buddha|ChiGloss=佛|ChiTreebank=佛|LMC=fɦjyt/fɦut_|OM=fɔ́/fú_|EMC=but_|Pinyin=fó/fú_
+17	𘒇	XHZD1526=tshji	VERB	VERB	_	9	parataxis	_	to_wait_upon|ChiGloss=侍、奉、事、夫|ChiTreebank=侍|LMC=ʂɦì_|OM=ʂr̩̀_|EMC=dʑɨʰ/dʑiʰ_|Pinyin=shì_
+18	_	_	_	_	_	0	_	_	_
+19	𘜶	XHZD4457=tha_[thạ]	ADJ	ADJ	_	21	amod	_	big|ChiGloss=大|ChiTreebank=大|LMC=tɦà/tɦaj̀_|OM=tà/tɔ̀/taj̀_|EMC=daʼ/dajʰ_|Pinyin=dà_
+20	𗑗	XHZD4751=sej	ADJ	ADJ	_	21	amod	_	clean|ChiGloss=清靜|ChiTreebank=清淨|LMC=tsʰiajŋ_tsɦiajŋ̀_|OM=tsʰiŋ_tsiŋ̀_|EMC=tsʰiajŋ_dziajŋʰ_|Pinyin=qīng_jìng_
+21	𘓞	XHZD3735=tjị	NOUN	NOUN	_	22	dobj	_	to_hope|ChiGloss=願、誓|ChiTreebank=願|LMC=ŋyaǹ_|OM=ɥɛǹ_|EMC=ŋuanʰ_|Pinyin=yuàn_
+22	𗄈	XHZD0009=śjwo	VERB	VERB	_	17	parataxis	_	to_appear|ChiGloss=生|ChiTreebank=發|LMC=fjyat/faːt_|OM=fǎ_|EMC=puat_|Pinyin=fā_
+23	𗬬	XHZD2316=djij	ADV	ADV	_	22	advmod	_	ever|ChiGloss=曾、嘗____
+24	。	。	PUNCT	PUNCT	_	5	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+
+~~~
+
+~~~ conllu
+1	𗧓	XHZD2098=ŋa	PRON	PRON	_	5	nsubj	_	I|ChiGloss=我|ChiTreebank=我|LMC=ŋá_|OM=wɔ̌_|EMC=ŋaʼ_|Pinyin=wǒ_
+2	𘀍	XHZD3926=nja	NOUN	NOUN	_	5	dobj	_	you|ChiGloss=汝|ChiTreebank=汝|LMC=riə̆́/ryə̆́_|OM=ry̌_|EMC=ɲɨə̆ʼ_|Pinyin=rǔ_
+3	𗗙	XHZD1139=·jij	ADP	ADP	_	2	case	_	a_possessive_adverb;_towards|ChiGloss=之、人、對、(stressing_obj)|ChiTreebank=爲|LMC=yj_|OM=uj́_|EMC=wiə̆/wi_|Pinyin=wéi_
+4	𘓋	XHZD1017=ljow	ADV	ADV	_	5	advmod	_	a_little|ChiGloss=略|ChiTreebank=略|LMC=liak_|OM=ljɛẁ/ljɔ̀_|EMC=lɨak_|Pinyin=lyuè_
+5	𘎪	XHZD5612=tshji̱j_[tshjij]	VERB	VERB	_	0	root	_	to_speak|ChiGloss=說|ChiTreebank=說|LMC=ʂyat_|OM=ʂwɛ_|EMC=ɕwiat_|Pinyin=shuō_
+6	_	_	_	_	_	0	_	_	_
+7	𗦻	XHZD2639=mji̱j	NOUN	NOUN	_	8	dobj	_	name|ChiGloss=名|ChiTreebank=名|LMC=mjiajŋ_|OM=miŋ́_|EMC=mjiajŋ_|Pinyin=míng_
+8	𗓁	XHZD5026=mji	VERB	VERB	_	5	parataxis	_	to_listen|ChiGloss=聽、彌(Transcription)|ChiTreebank=聞|LMC=ʋjyn/ʋun_|OM=ʋuń_|EMC=mun_|Pinyin=wén_
+9	𘛽	XHZD1546=ljụ	NOUN	NOUN	_	10	dobj	_	body|ChiGloss=身|ChiTreebank=身|LMC=ʂin_|OM=ʂin_|EMC=ɕin_|Pinyin=shēn_
+10	𘟀	XHZD0046=ljij	VERB	VERB	_	8	conj	_	to_see|ChiGloss=見|ChiTreebank=見|LMC=xɦjiaǹ_|OM=xjɛǹ_|EMC=ɣɛnʰ_|Pinyin=xiàn_
+11	𗆫	XHZD1946=lə	VERB	VERB	_	8	conj	_	to_think_of|ChiGloss=念____
+12	_	_	_	_	_	0	_	_	_
+13	𘃜	XHZD5523=rjar	VERB	VERB	_	8	parataxis	_	to_permit|ChiGloss=允許____
+14	𘃜	XHZD5523=rjar	VERB	VERB	_	13	conj	_	to_permit|ChiGloss=允許____
+15	𗄊	XHZD0010=zji	DET	DET	_	16	det	_	all|ChiGloss=皆、俱、咸、普、悉____
+16	𗵺	XHZD4451=·wạ_[wạ]	NOUN	NOUN	_	17	dobj	_	to_win|ChiGloss=贏____
+17	𘟣	XHZD0930=dju	VERB	VERB	_	13	conj	_	to_have|ChiGloss=有____
+18	_	_	_	_	_	0	_	_	_
+19	𗱕	XHZD0968=rjur	DET	DET	_	21	det	_	all|ChiGloss=諸|ChiTreebank=諸|LMC=tʂiă/tʂyă_|OM=tʂy_|EMC=tɕɨă_|Pinyin=zhū_
+20	𘟣	XHZD0930=dju	ADJ	ADJ	_	21	amod	_	to_have|ChiGloss=有|ChiTreebank=有|LMC=iẃ_|OM=jiw̌_|EMC=wuwʼ_|Pinyin=yǒu_
+21	𘍔	XHZD5566=tśjị	NOUN	NOUN	_	22	dobj	_	bitter|ChiGloss=苦|ChiTreebank=苦|LMC=kʰuə̆́_|OM=kʰǔ_|EMC=kʰɔʼ/kʰɔʰ_|Pinyin=kǔ_
+22	𗈞	XHZD1207=dzjar	VERB	VERB	_	13	parataxis	_	to_extinguish|ChiGloss=滅|ChiTreebank=滅|LMC=mjiat_|OM=mjɛ̀_|EMC=mjiat_|Pinyin=miè_
+23	𗩱	XHZD2620=njwi	AUX	AUX	_	22	aux	_	can|ChiGloss=能|ChiTreebank=能|LMC=nəə̆ŋ_|OM=nəŋ́_|EMC=nəŋ/nəj_|Pinyin=néng_
+24	。	。	PUNCT	PUNCT	_	5	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+
+~~~
+
+~~~ conllu
+1	𗓱	XHZD4978=tjij	ADV	ADV	_	5	advmod	_	if|ChiGloss=若|ChiTreebank=假使|LMC=kjaː́_ʂŕ̩_|OM=kjǎ_ʂř̩_|EMC=kaɨʼ/kɛːʼ_ʂɨʼ/ʂiʼ_|Pinyin=jiǎ_shī_
+2	𘓐	XHZD2541=dzjwo	NOUN	NOUN	_	5	nsubj	_	person|ChiGloss=人____
+3	𗈙	XHZD1399=tśju̱_[tśju]	ADJ	ADJ	_	4	amod	_	to_envy|ChiGloss=害、傷|ChiTreebank=害|LMC=xɦaj̀_|OM=xaj̀_|EMC=ɣajʰ_|Pinyin=hài_
+4	𗤶	XHZD2518=nji̱j	NOUN	NOUN	_	5	dobj	_	heart|ChiGloss=心|ChiTreebank=意|LMC=ʔì_|OM=jì_|EMC=ʔɨʰ/ʔiʰ_|Pinyin=yì_
+5	𗄈	XHZD0009=śjwo	VERB	VERB	_	0	root	_	to_appear|ChiGloss=生|ChiTreebank=興|LMC=xiə̆ŋ_|OM=xiŋ_|EMC=xiŋ_|Pinyin=xīng_
+6	_	_	_	_	_	0	_	_	_
+7	𘜶	XHZD4457=tha_[thạ]	ADJ	ADJ	_	9	amod	_	big|ChiGloss=大|ChiTreebank=大|LMC=tɦà/tɦaj̀_|OM=tà/tɔ̀/taj̀_|EMC=daʼ/dajʰ_|Pinyin=dà_
+8	𗜐	XHZD4408=mə̱	NOUN	NOUN	_	9	nmod	_	fire|ChiGloss=火|ChiTreebank=火|LMC=xuá_|OM=xwɔ̌_|EMC=xwaʼ_|Pinyin=huǒ_
+9	𗃒	XHZD0181=lə	NOUN	NOUN	_	11	nmod	_	hollow|ChiGloss=坑|ChiTreebank=坑|LMC=kʰjaːjŋ_|OM=kʰiŋ_|EMC=kʰaɨjŋ/kʰɛːjŋ_|Pinyin=kēng_
+10	𗅁	XHZD2983=·u	ADP	ADP	_	9	case	_	inner|ChiGloss=中|ChiTreebank=落|LMC=lak_|OM=laẁ_|EMC=lak_|Pinyin=luò_
+11	𘑄	XHZD5336=du	VERB	VERB	_	5	parataxis	_	to_prohibit|ChiGloss=沉、陷|ChiTreebank=推|LMC=tʰuaj_|OM=tʂʰuj_|EMC=tʰwəj_|Pinyin=tuī_
+12	_	_	_	_	_	0	_	_	_
+13	𗙏	XHZD1586=ɣiẹ	PROPN	PROPN	_	15	dobj	_	sound|ChiGloss=音|ChiTreebank=觀音|LMC=kuan_ʔim_|OM=kɔn_jim_|EMC=kwan_ʔim_|Pinyin=guān_yīn_
+14	𘝯	XHZD5593=bio̱	PROPN	PROPN	_	13	name	_	to_look|ChiGloss=觀|ChiTreebank=觀音|LMC=kuan_ʔim_|OM=kɔn_jim_|EMC=kwan_ʔim_|Pinyin=guān_yīn_
+15	𘆖	XHZD5870=tshjɨ̱	VERB	VERB	_	16	acl	_	call|ChiGloss=讀、誦|ChiTreebank=念|LMC=niam̀_|OM=njɛm̀_|EMC=nemʰ_|Pinyin=niàn_
+16	𗪺	XHZD3354=ɣie	NOUN	NOUN	_	21	nmod	_	power|ChiGloss=力|ChiTreebank=力|LMC=liə̆k_|OM=lì_|EMC=lik_|Pinyin=lì_
+17	𗖵	XHZD0433=bju	ADP	ADP	_	16	case	_	for|ChiGloss=(Instrumental_sense_to_the_following__item)_為、依、因、由____
+18	_	_	_	_	_	0	_	_	_
+19	𗜐	XHZD4408=mə̱	NOUN	NOUN	_	20	nmod	_	fire|ChiGloss=火|ChiTreebank=火|LMC=xuá_|OM=xwɔ̌_|EMC=xwaʼ_|Pinyin=huǒ_
+20	𗃒	XHZD0181=lə	NOUN	NOUN	_	21	nsubjpass	_	hollow|ChiGloss=坑|ChiTreebank=坑|LMC=kʰjaːjŋ_|OM=kʰiŋ_|EMC=kʰaɨjŋ/kʰɛːjŋ_|Pinyin=kēng_
+21	𗯗	XHZD5834=lej	VERB	VERB	_	11	parataxis	_	to_change|ChiGloss=變|ChiTreebank=變|LMC=piaǹ_|OM=pjɛǹ_|EMC=pianʰ_|Pinyin=biàn_
+22	𗒈	XHZD4707=dźiəj	NOUN	NOUN	_	23	xcomp	_	pond|ChiGloss=池|ChiTreebank=池|LMC=trɦi_|OM=tʂʰí_|EMC=driə̆/dri_|Pinyin=chí_
+23	𗨻	XHZD2226=we	VERB	VERB	_	21	conj	_	to_do|ChiGloss=為、是、成|ChiTreebank=成|LMC=ʂɦiajŋ_|OM=tʂʰiŋ́_|EMC=dʑiajŋ_|Pinyin=chéng_
+24	。	。	PUNCT	PUNCT	_	5	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+
+~~~
+
+~~~ conllu
+1	𗓱	XHZD4978=tjij	ADV	ADV	_	5	advmod	_	if|ChiGloss=若|ChiTreebank=或|LMC=xɦuə̆k_|OM=[xuj́]_|EMC=ɣwək_|Pinyin=huò_
+2	𘜶	XHZD4457=tha_[thạ]	ADJ	ADJ	_	3	amod	_	big|ChiGloss=大|ChiTreebank=巨|LMC=kɦiə̆̀/kɦyə̆̀_|OM=kỳ_|EMC=gɨə̆ʼ_|Pinyin=jù_
+3	𗗚	XHZD0661=ŋjow	NOUN	NOUN	_	5	nmod	_	sea|ChiGloss=海|ChiTreebank=海|LMC=xaj́_|OM=xaǰ_|EMC=xəjʼ_|Pinyin=hǎi_
+4	𗅁	XHZD2983=·u	ADP	ADP	_	3	case	_	inner|ChiGloss=中____
+5	𘜪	XHZD0681=·jijr	VERB	VERB	_	0	root	_	to_fall|ChiGloss=跌|ChiTreebank=漂流|LMC=pʰjiaw_liw_|OM=pʰjɛw_liẃ_|EMC=pʰjiaw_luw_|Pinyin=piāo_liú_
+6	_	_	_	_	_	0	_	_	_
+7	𗵃	XHZD0083=·we_[we]	NOUN	NOUN	_	11	nsubj	_	dragon|ChiGloss=龍|ChiTreebank=龍|LMC=lywŋ_|OM=ljuŋ́_|EMC=luawŋ_|Pinyin=lóng_
+8	𗋾	XHZD3057=zju_[źju]	NOUN	NOUN	_	7	conj	_	fish|ChiGloss=魚|ChiTreebank=魚|LMC=ŋiă/ŋyă_|OM=ý_|EMC=ŋɨă_|Pinyin=yú_
+9	𗢛	XHZD3003=·ju_[ju]	NOUN	NOUN	_	7	conj	_	ghost|ChiGloss=鬼|ChiTreebank=鬼|LMC=kyj́_|OM=kuǰ_|EMC=kujʼ_|Pinyin=guǐ_
+10	𗧹	XHZD2444=ŋjir_[ŋjĩ]	NOUN	NOUN	_	7	conj	_	disaster|ChiGloss=災難|ChiTreebank=難|LMC=nan/naǹ_|OM=nań/naǹ_|EMC=nan_|Pinyin=nán/nàn_
+11	𗮅	XHZD5414=rejr	ADJ	ADJ	_	5	parataxis	_	many|ChiGloss=多____
+12	_	_	_	_	_	0	_	_	_
+13	𗙏	XHZD1586=ɣiẹ	PROPN	PROPN	_	15	dobj	_	sound|ChiGloss=音|ChiTreebank=觀音|LMC=kuan_ʔim_|OM=kɔn_jim_|EMC=kwan_ʔim_|Pinyin=guān_yīn_
+14	𘝯	XHZD5593=bio̱	PROPN	PROPN	_	13	name	_	to_look|ChiGloss=觀|ChiTreebank=觀音|LMC=kuan_ʔim_|OM=kɔn_jim_|EMC=kwan_ʔim_|Pinyin=guān_yīn_
+15	𘆖	XHZD5870=tshjɨ̱	VERB	VERB	_	16	acl	_	call|ChiGloss=讀、誦|ChiTreebank=念|LMC=niam̀_|OM=njɛm̀_|EMC=nemʰ_|Pinyin=niàn_
+16	𗪺	XHZD3354=ɣie	NOUN	NOUN	_	20	nmod	_	power|ChiGloss=力|ChiTreebank=力|LMC=liə̆k_|OM=lì_|EMC=lik_|Pinyin=lì_
+17	𗖵	XHZD0433=bju	ADP	ADP	_	16	case	_	for|ChiGloss=(Instrumental_sense_to_the_following__item)_為、依、因、由____
+18	_	_	_	_	_	0	_	_	_
+19	𗋽	XHZD3058=zjɨ̱r	NOUN	NOUN	_	20	nsubj	_	water|ChiGloss=水|ChiTreebank=波浪|LMC=pua_laŋ_|OM=pɔ_laŋ́_|EMC=pa_laŋ_|Pinyin=bō_láng_
+20	𗛧	XHZD4161=ljụ	VERB	VERB	_	5	parataxis	_	to_flow|ChiGloss=漂|ChiTreebank=沒|LMC=mut_|OM=mù_|EMC=mət_|Pinyin=mò_
+21	𗋭	XHZD2997=djị	VERB	VERB	_	20	compound	_	to_sink|ChiGloss=沉|ChiTreebank=沒|LMC=mut_|OM=mù_|EMC=mət_|Pinyin=mò_
+22	𘖑	XHZD5643=mjɨ	PART	PART	_	20	neg	_	not|ChiGloss=無|ChiTreebank=不|LMC=put_|OM=pǔ_|EMC=pət/put_|Pinyin=bù_
+23	𘘭	XHZD0385=wjị	AUX	AUX	_	20	aux	_	can|ChiGloss=能|ChiTreebank=能|LMC=nəə̆ŋ_|OM=nəŋ́_|EMC=nəŋ/nəj_|Pinyin=néng_
+24	。	。	PUNCT	PUNCT	_	5	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+
+~~~
+
+~~~ conllu
+1	𗓱	XHZD4978=tjij	ADV	ADV	_	5	advmod	_	if|ChiGloss=若|ChiTreebank=或|LMC=xɦuə̆k_|OM=[xuj́]_|EMC=ɣwək_|Pinyin=huò_
+2	𗍏	XHZD0586=sju	PROPN	PROPN	_	5	nmod	_	a_transliteration|ChiGloss=須(Transcription)|ChiTreebank=須彌|LMC=syə̆_mji_|OM=sy_mí_|EMC=suə̆_mjiə̆/mji_|Pinyin=xū_mí_
+3	𗓁	XHZD5026=mji	PROPN	PROPN	_	2	name	_	to_listen|ChiGloss=聽、彌(Transcription)|ChiTreebank=須彌|LMC=syə̆_mji_|OM=sy_mí_|EMC=suə̆_mjiə̆/mji_|Pinyin=xū_mí_
+4	𗀔	XHZD0089=tśhja̱	ADP	ADP	_	2	case	_	above|ChiGloss=…上|ChiTreebank=峯|LMC=fjyawŋ/fəwŋ_|OM=fuŋ_|EMC=pʰuawŋ_|Pinyin=fēng_
+5	𗫻	XHZD3099=dźji̱j	VERB	VERB	_	0	root	_	to_live|ChiGloss=在、留|ChiTreebank=在|LMC=tsɦaj̀_|OM=tsaj̀_|EMC=dzəjʼ_|Pinyin=zài_
+6	_	_	_	_	_	0	_	_	_
+7	𘉑	XHZD4574=mjɨ	PRON	PRON	_	9	nsubj	_	he|ChiGloss=他|ChiTreebank=人|LMC=rin_|OM=riń_|EMC=ɲin_|Pinyin=rén_
+8	𘝦	XHZD5604=dźjɨ	NOUN	NOUN	_	9	dobj	_	"skill|ChiGloss=藝、業、行、(when_put_after_noun,_pronoun,_with_XHZD5113)_indicating_the_actor_of_an_action.|ChiTreebank=爲|LMC=yj_|OM=uj́_|EMC=wiə̆/wi_|Pinyin=wéi_"
+9	𘃡	XHZD5113=·wji_[wji]	VERB	VERB	_	10	advcl	_	to_do|ChiGloss=做、作、為、與|ChiTreebank=爲|LMC=yj_|OM=uj́_|EMC=wiə̆/wi_|Pinyin=wéi_
+10	𘑄	XHZD5336=du	VERB	VERB	_	11	acl	_	to_prohibit|ChiGloss=沉、陷|ChiTreebank=推墮|LMC=tʰuaj_tɦuà|OM=tʂʰuj_tɔ̀|EMC=tʰwəj_|Pinyin=tuī_duò
+11	𘅍	XHZD0705=zjịj	NOUN	NOUN	_	23	nmod	_	time|ChiGloss=時____
+12	_	_	_	_	_	0	_	_	_
+13	𗙏	XHZD1586=ɣiẹ	PROPN	PROPN	_	15	dobj	_	sound|ChiGloss=音|ChiTreebank=觀音|LMC=kuan_ʔim_|OM=kɔn_jim_|EMC=kwan_ʔim_|Pinyin=guān_yīn_
+14	𘝯	XHZD5593=bio̱	PROPN	PROPN	_	13	name	_	to_look|ChiGloss=觀|ChiTreebank=觀音|LMC=kuan_ʔim_|OM=kɔn_jim_|EMC=kwan_ʔim_|Pinyin=guān_yīn_
+15	𘆖	XHZD5870=tshjɨ̱	VERB	VERB	_	16	acl	_	call|ChiGloss=讀、誦|ChiTreebank=念|LMC=niam̀_|OM=njɛm̀_|EMC=nemʰ_|Pinyin=niàn_
+16	𗪺	XHZD3354=ɣie	NOUN	NOUN	_	23	nmod	_	power|ChiGloss=力|ChiTreebank=力|LMC=liə̆k_|OM=lì_|EMC=lik_|Pinyin=lì_
+17	𗖵	XHZD0433=bju	ADP	ADP	_	16	case	_	for|ChiGloss=(Instrumental_sense_to_the_following__item)_為、依、因、由____
+18	_	_	_	_	_	0	_	_	_
+19	𗾔	XHZD2449=be	NOUN	NOUN	_	23	nmod	_	the_sun|ChiGloss=日，太陽|ChiTreebank=日|LMC=rit_|OM=rì_|EMC=ɲit_|Pinyin=rì_
+20	𗍊	XHZD0290=sju	ADP	ADP	_	19	case	_	as|ChiGloss=如|ChiTreebank=如|LMC=riə̆/ryə̆_|OM=rý_|EMC=ɲɨə̆_|Pinyin=rú_
+21	𗲠	XHZD1364=ŋa	NOUN	NOUN	_	23	nmod	_	hollow|ChiGloss=空虛|ChiTreebank=虛空|LMC=xiə̆/xyə̆_kʰəwŋ̀_|OM=xy_kʰuŋ̀_|EMC=xɨə̆_kʰəwŋʰ_|Pinyin=xū_kòng_
+22	𘇂	XHZD1136=gu	ADP	ADP	_	21	case	_	middle|ChiGloss=中____
+23	𗬁	XHZD3098=djɨj	VERB	VERB	_	5	parataxis	_	to_stop|ChiGloss=停|ChiTreebank=住|LMC=trɦyằ_|OM=tʂỳ_|EMC=druăʼ_|Pinyin=zhù_
+24	。	。	PUNCT	PUNCT	_	5	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+
+~~~
+
+~~~ conllu
+1	𗓱	XHZD4978=tjij	ADV	ADV	_	5	advmod	_	if|ChiGloss=若|ChiTreebank=或|LMC=xɦuə̆k_|OM=[xuj́]_|EMC=ɣwək_|Pinyin=huò_
+2	𘓐	XHZD2541=dzjwo	NOUN	NOUN	_	5	nsubj	_	person|ChiGloss=人|ChiTreebank=人|LMC=rin_|OM=riń_|EMC=ɲin_|Pinyin=rén_
+3	𘊄	XHZD3551=niow	ADJ	ADJ	_	2	amod	_	evil|ChiGloss=惡|ChiTreebank=惡|LMC=ʔak_|OM=aẁ/ɔ̀_|EMC=ʔak_|Pinyin=è_
+4	𘙇	XHZD0795=rjɨr	ADV	ADV	_	5	advmod	_	an_adverb|ChiGloss=所_(continuous_sense)____
+5	𘈕	XHZD1196=śjwo	VERB	VERB	_	0	root	_	to_drive_away|ChiGloss=驅逐|ChiTreebank=逐|LMC=trɦiwk_|OM=tʂý/tʂiẃ_|EMC=druwk_|Pinyin=zhú_
+6	_	_	_	_	_	0	_	_	_
+7	𗵒	XHZD0152=kiẹ	PROPN	PROPN	_	9	nmod	_	gold|ChiGloss=金|ChiTreebank=金剛|LMC=kim_kaŋ_|OM=kim_kaŋ_|EMC=kim_kaŋ_|Pinyin=jīn_gāng_
+8	𘗁	XHZD4735=dźja	PROPN	PROPN	_	7	name	_	sharp|ChiGloss=剛|ChiTreebank=金剛|LMC=kim_kaŋ_|OM=kim_kaŋ_|EMC=kim_kaŋ_|Pinyin=jīn_gāng_
+9	𘑗	XHZD4871=ŋər	NOUN	NOUN	_	11	nmod	_	hill|ChiGloss=山|ChiTreebank=山|LMC=ʂaːn_|OM=ʂan_|EMC=ʂəɨn/ʂɛːn_|Pinyin=shān_
+10	𗀔	XHZD0089=tśhja̱	ADP	ADP	_	9	case	_	above|ChiGloss=…上____
+11	𗈀	XHZD1068=ljɨ	VERB	VERB	_	5	parataxis	_	to_fall|ChiGloss=落|ChiTreebank=墮落|LMC=tɦuà_lak|OM=tɔ̀_laẁ|EMC=dwaʼ_|Pinyin=duò_luò
+12	_	_	_	_	_	0	_	_	_
+13	𗙏	XHZD1586=ɣiẹ	PROPN	PROPN	_	15	dobj	_	sound|ChiGloss=音|ChiTreebank=觀音|LMC=kuan_ʔim_|OM=kɔn_jim_|EMC=kwan_ʔim_|Pinyin=guān_yīn_
+14	𘝯	XHZD5593=bio̱	PROPN	PROPN	_	13	name	_	to_look|ChiGloss=觀|ChiTreebank=觀音|LMC=kuan_ʔim_|OM=kɔn_jim_|EMC=kwan_ʔim_|Pinyin=guān_yīn_
+15	𘆖	XHZD5870=tshjɨ̱	VERB	VERB	_	16	acl	_	call|ChiGloss=讀、誦|ChiTreebank=念|LMC=niam̀_|OM=njɛm̀_|EMC=nemʰ_|Pinyin=niàn_
+16	𗪺	XHZD3354=ɣie	NOUN	NOUN	_	23	nmod	_	power|ChiGloss=力|ChiTreebank=力|LMC=liə̆k_|OM=lì_|EMC=lik_|Pinyin=lì_
+17	𗖵	XHZD0433=bju	ADP	ADP	_	16	case	_	for|ChiGloss=(Instrumental_sense_to_the_following__item)_為、依、因、由____
+18	_	_	_	_	_	0	_	_	_
+19	𗁲	XHZD2563=mej	NOUN	NOUN	_	23	dobj	_	hair|ChiGloss=毛|ChiTreebank=毛|LMC=muaw_|OM=maẃ_|EMC=maw_|Pinyin=máo_
+20	𘂏	XHZD5878=biẹj	ADJ	ADJ	_	19	amod	_	a_unit_of_measurement|ChiGloss=枚、厘、條、枝、株|ChiTreebank=一|LMC=ʔjit_|OM=[jì/jǐ]_|EMC=ʔjit_|Pinyin=yī_
+21	𗰣	XHZD1012=zjịj	ADJ	ADJ	_	19	amod	_	how_many|ChiGloss=眾、群|ChiTreebank=一|LMC=ʔjit_|OM=[jì/jǐ]_|EMC=ʔjit_|Pinyin=yī_
+22	𗅋	XHZD1918=mji	PART	PART	_	23	neg	_	not|ChiGloss=無|ChiTreebank=不|LMC=put_|OM=pǔ_|EMC=pət/put_|Pinyin=bù_
+23	𘐠	XHZD5377=ŋwo	VERB	VERB	_	5	parataxis	_	to_damage|ChiGloss=損|ChiTreebank=損|LMC=suń_|OM=suň_|EMC=swənʼ_|Pinyin=sǔn_
+24	。	。	PUNCT	PUNCT	_	5	punct	_	|ChiTreebank=。|LMC=_|OM=_|EMC=_|Pinyin=_
+
+~~~
+
 ------------------------------------------------------------------------------
 
 [Markdown]: http://daringfireball.net/projects/markdown/

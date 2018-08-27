@@ -37,8 +37,8 @@ Please click [here](https://twwspes.github.io/annodoc/saddharmapundarika_sutram)
 9	སྟེ་	ste	ADP	ADP	_	7	case	_	continuative_or_participial_particle
 10	ཐ་མ	tha_ma	NOUN	NOUN	_	0	root	_	"last,_(Sanskrit)_carama"
 11	།	/	PUNCT	PUNCT	_	10	punct	_	||
-									
-~~~	
+
+~~~
 
 ------------------------------------------------------------------------------
 

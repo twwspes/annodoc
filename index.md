@@ -17,6 +17,7 @@ title: The Lotus Sutra saddharmapuṇḍarīka-nāma-mahāyāna-sūtra 妙法蓮
 
 div {
     font-family: Tangut Yinchuan;
+	unicode-range: U+17000-187FF;
 }
 </style>
 

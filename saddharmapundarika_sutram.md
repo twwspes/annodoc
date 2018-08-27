@@ -1,12 +1,12 @@
 ---
 layout: entry
-title: The Lotus Sutra saddharmapuṇḍarīka-nāma-mahāyāna-sūtra 妙法蓮華經 དམ་པའི་ཆོས་པད་མ་དཀར་པོ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། dam pa'i chos pad ma dkar po zhes bya ba theg pa chen po'i mdo
+title: The Lotus Sutra saddharmapuṇḍarīka-nāma-mahāyāna-sūtra 妙法蓮華經 དམ་པའི་ཆོས་པད་མ་དཀར་པོ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། dam pa'i chos pad ma dkar po zhes bya ba theg pa chen po'i mdo &#x17913;&#x17E59;&#x1793B;&#x17457;&#x175B0;&#x176A9;
 ---
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta http-equiv="Content-Script-Type" content="text/javascript" />
 <link rel="stylesheet" type="text/css" href="../BabelStone.css" />
-<title>The Lotus Sutra saddharmapuṇḍarīka-nāma-mahāyāna-sūtra 妙法蓮華經 དམ་པའི་ཆོས་པད་མ་དཀར་པོ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། dam pa'i chos pad ma dkar po zhes bya ba theg pa chen po'i mdo</title>
+<title>The Lotus Sutra saddharmapuṇḍarīka-nāma-mahāyāna-sūtra 妙法蓮華經 དམ་པའི་ཆོས་པད་མ་དཀར་པོ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། dam pa'i chos pad ma dkar po zhes bya ba theg pa chen po'i mdo &#x17913;&#x17E59;&#x1793B;&#x17457;&#x175B0;&#x176A9;</title>
 </head>
 
 The Lotus Sutra saddharmapuṇḍarīka-nāma-mahāyāna-sūtra 妙法蓮華經 &#x17913;&#x17E59;&#x1793B;&#x17457;&#x175B0;&#x176A9; དམ་པའི་ཆོས་པད་མ་དཀར་པོ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། dam pa'i chos pad ma dkar po zhes bya ba theg pa chen po'i mdo<br><br>

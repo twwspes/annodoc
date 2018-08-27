@@ -1222,7 +1222,6 @@ Please click [here](https://twwspes.github.io/annodoc/saddharmapundarika_sutram)
 43	སླ་བ་	sla_ba_ma_yin	ADV	ADV	_	42	advmod	_	easy;_preferable|Sanskrit=sukarau
 44	མ་	ma	ADV	ADV	_	42	neg	_	(1)_mother__(3)_particle_indicating_negative:_not;_non-;_un-|Sanskrit=na
 45	ཡིན་	yin	AUX	AUX	_	42	aux	_	become;_be|Sanskrit=sukarau
-
 46	ནོ	no	PART	PART	_	42	dep	_	[particle_indicating_the_end_of_a_statement]_completing_particle|Sanskrit=sukarau
 47	།	/	PUNCT	PUNCT	_	42	punct	_	|
 

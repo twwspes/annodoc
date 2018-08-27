@@ -12,12 +12,12 @@ title: The Lotus Sutra saddharmapuṇḍarīka-nāma-mahāyāna-sūtra 妙法蓮
 
 <style>
 @font-face {
-    font-family: TangutYinchuan;
+    font-family: Tangut Yinchuan;
     src: url(http://babelstone.co.uk/Fonts/WOFF/TangutYinchuan.woff);
 }
 
 div {
-    font-family: TangutYinchuan;
+    font-family: Tangut Yinchuan;
 }
 </style>
 

@@ -1,4 +1,4 @@
----
+﻿---
 layout: entry
 title: The Lotus Sutra Chapter 25 Tangut
 ---
@@ -22,7 +22,7 @@ div {
 
 <span style="font-family:&#39;Tangut Yinchuan&#39;,&#39;Babelstone Tangut Wenhai&#39;; font-size: 22pt;">&#x17913;&#x17E59;&#x1793B;&#x17457;&#x175B0;&#x176A9;&#x17BE8;&#x1764F;&#x1876F;&#x182E2;&#x17964;&#x17AE1;&#x185E0;&#x1813F;</span>
 
-The text is based on the Tangut printed scripture of the Chapter on Universal Gate of Bodhisattva Avalokiteśvara of the Lotus Sutra excavated at Mogao Caves (莫高窟) in 1959.  The printed scripture was on display during "Dunhuang - Untold Tales, Untold Riches" exhibition organised by the Hong Kong Heritage Museum and the Dunhuang Academy.  A complete facsimile of this scripture can be found from a paper written by Chen Bingying (陳炳應)〈圖解本西夏文〈觀音經〉譯釋〉，《敦煌研究》1985年第5期.<br><br>
+The text is based on the Tangut printed scripture of the Chapter on Universal Gate of Bodhisattva Avalokiteśvara of the Lotus Sutra excavated at Mogao Caves (莫高窟) in 1959.  The printed scripture was on display during "Dunhuang - Untold Tales, Untold Riches" exhibition organised by the Hong Kong Heritage Museum and the Dunhuang Academy.  A complete facsimile of this scripture can be found from a paper written by Chen Bingying (陳炳應)〈圖解本西夏文〈觀音經〉譯釋〉，《敦煌研究》1985年第5期. But here I have taken pictures of the whole chapter when visiting the exhibition [https://twwspes.github.io/annodoc/saddharmapundarika_sutra/Lotus25TangutLCSD](https://twwspes.github.io/annodoc/saddharmapundarika_sutra/Lotus25TangutLCSD)<br><br>
 
 Some words, especially at the verse part, are not intelligible.  Reference has been sought from Nishida Tatsuo's <i>Xixia version of the Lotus Sutra</i> (Tōkyō : Sōka Gakkai, [c2005]). <br><br>
 
